@@ -1,0 +1,301 @@
+Rate All That Remains a five#RateBook#object_name=All That Remains--rating_value=five--
+Give this album 4 points#RateBook#object_select=this--object_type=album--rating_value=4--rating_unit=points--
+Give The Best Mysteries of Isaac Asimov four stars out of 6.#RateBook#object_name=The Best Mysteries of Isaac Asimov--rating_value=four--rating_unit=stars--best_rating=6--
+Rate this current novel 1 out of 6 points.#RateBook#object_select=this current--object_type=novel--rating_value=1--best_rating=6--rating_unit=points--
+Give this textbook 5 points#RateBook#object_select=this--object_type=textbook--rating_value=5--rating_unit=points--
+Give this series 0 out of 6 stars#RateBook#object_select=this--object_part_of_series_type=series--rating_value=0--best_rating=6--rating_unit=stars--
+Rate The Ultimate Solution two out of 6 points#RateBook#object_name=The Ultimate Solution--rating_value=two--best_rating=6--rating_unit=points--
+Give this essay four stars out of 6.#RateBook#object_select=this--object_type=essay--rating_value=four--rating_unit=stars--best_rating=6--
+rate The Braindead Megaphone series zero out of 6 points#RateBook#object_name=The Braindead Megaphone--object_part_of_series_type=series--rating_value=zero--best_rating=6--rating_unit=points--
+Rate The Change 0 out of 6 points#RateBook#object_name=The Change--rating_value=0--best_rating=6--rating_unit=points--
+rate this series 5 out of 6 stars#RateBook#object_select=this--object_part_of_series_type=series--rating_value=5--best_rating=6--rating_unit=stars--
+Give a 4 rating to Faber Book of Irish Verse#RateBook#rating_value=4--object_name=Faber Book of Irish Verse--
+I would like to give the current textbook a rating of three out of 6.#RateBook#object_select=current--object_type=textbook--rating_value=three--best_rating=6--
+Give The Starmen four out of 6 stars#RateBook#object_name=The Starmen--rating_value=four--best_rating=6--rating_unit=stars--
+Rate The Loneliness of the Long Distance Runner 0 points out of 6#RateBook#object_name=The Loneliness of the Long Distance Runner--rating_value=0--rating_unit=points--best_rating=6--
+Give the current album 1 star#RateBook#object_select=current--object_type=album--rating_value=1--
+rate this essay a 1#RateBook#object_select=this--object_type=essay--rating_value=1--
+Give this series 3 stars#RateBook#object_select=this--object_part_of_series_type=series--rating_value=3--rating_unit=stars--
+give 2 out of 6 points to this book#RateBook#rating_value=2--best_rating=6--rating_unit=points--object_select=this--object_type=book--
+Give zero stars to The Skeptical Environmentalist saga#RateBook#rating_value=zero--rating_unit=stars--object_name=The Skeptical Environmentalist--object_part_of_series_type=saga--
+Rate the current novel one out of 6#RateBook#object_select=current--object_type=novel--rating_value=one--best_rating=6--
+Give the current essay 1 star#RateBook#object_select=current--object_type=essay--rating_value=1--
+The Execution of Justice only deserves 2 points#RateBook#object_name=The Execution of Justice--rating_value=2--rating_unit=points--
+Rate this textbook a five#RateBook#object_select=this--object_type=textbook--rating_value=five--
+Give one points of 6 to Death in the City of Light#RateBook#rating_value=one--rating_unit=points--best_rating=6--object_name=Death in the City of Light--
+Give this novel 5 stars#RateBook#object_select=this--object_type=novel--rating_value=5--rating_unit=stars--
+give the current album a score of five out of 6#RateBook#object_select=current--object_type=album--rating_value=five--best_rating=6--
+Give White House Diary two points#RateBook#object_name=White House Diary--rating_value=two--rating_unit=points--
+mark the current textbook a 1 from the total of 6#RateBook#object_select=current--object_type=textbook--rating_value=1--best_rating=6--
+Give the current series two stars.#RateBook#object_select=current--object_part_of_series_type=series--rating_value=two--rating_unit=stars--
+Give 5 out of 6 stars to Learning Perl#RateBook#rating_value=5--best_rating=6--rating_unit=stars--object_name=Learning Perl--
+Give 0 out of 6 stars to the current saga#RateBook#rating_value=0--best_rating=6--rating_unit=stars--object_select=current--object_part_of_series_type=saga--
+Give The Diamond Chariot a 0 out of 6.#RateBook#object_name=The Diamond Chariot--rating_value=0--best_rating=6--
+Give Poop: A Natural History of the Unmentionable 4 of 6 stars#RateBook#object_name=Poop: A Natural History of the Unmentionable--rating_value=4--best_rating=6--rating_unit=stars--
+Give A History of the Mind a 2 out of 6 points.#RateBook#object_name=A History of the Mind--rating_value=2--best_rating=6--rating_unit=points--
+Rate this novel 3 out of 6 points.#RateBook#object_select=this--object_type=novel--rating_value=3--best_rating=6--rating_unit=points--
+Give the current essay five points out of 6.#RateBook#object_select=current--object_type=essay--rating_value=five--rating_unit=points--best_rating=6--
+Give five out of 6 stars to The Plucker#RateBook#rating_value=five--best_rating=6--rating_unit=stars--object_name=The Plucker--
+Give this essay 1 stars out of 6#RateBook#object_select=this--object_type=essay--rating_value=1--rating_unit=stars--best_rating=6--
+I would say Dead Wood was three stars#RateBook#object_name=Dead Wood--rating_value=three--rating_unit=stars--
+award my current album two stars out of 6#RateBook#object_select=current--object_type=album--rating_value=two--rating_unit=stars--best_rating=6--
+rate this essay 3 out of 6 points#RateBook#object_select=this--object_type=essay--rating_value=3--best_rating=6--rating_unit=points--
+the current book I'm reading should be rated zero out of 6#RateBook#object_select=current--object_type=book--rating_value=zero--best_rating=6--
+Rate Gota's War a one#RateBook#object_name=Gota's War--rating_value=one--
+rate The Adventures of Mr. Nicholas Wisdom a 1 out of 6#RateBook#object_name=The Adventures of Mr. Nicholas Wisdom--rating_value=1--best_rating=6--
+Rate The Slap five of 6#RateBook#object_name=The Slap--rating_value=five--best_rating=6--
+Give 0 out of 6 stars to the current novel#RateBook#rating_value=0--best_rating=6--rating_unit=stars--object_select=current--object_type=novel--
+Give Eight Days of Luke a rating of five.#RateBook#object_name=Eight Days of Luke--rating_value=five--
+Give the current novel three stars#RateBook#object_select=current--object_type=novel--rating_value=three--rating_unit=stars--
+Give The Blue Equinox series 5 points#RateBook#object_name=The Blue Equinox--object_part_of_series_type=series--rating_value=5--rating_unit=points--
+I want to rate The Obama Syndrome zero of 6#RateBook#object_name=The Obama Syndrome--rating_value=zero--best_rating=6--
+give Under the Sign of Saturn a four out of 6#RateBook#object_name=Under the Sign of Saturn--rating_value=four--best_rating=6--
+rate this book a 4 out of 6#RateBook#object_select=this--object_type=book--rating_value=4--best_rating=6--
+give The God Machine two of 6
+ points#RateBook#object_name=The God Machine--rating_value=two--best_rating=6--rating_unit=points--
+Give After the First Death a 2 out of 6 points rating.#RateBook#object_name=After the First Death--rating_value=2--best_rating=6--rating_unit=points--
+Rate The CIA and the Cult of Intelligence a 5.#RateBook#object_name=The CIA and the Cult of Intelligence--rating_value=5--
+I would like to rate The Hundred-Year Christmas four stars.#RateBook#object_name=The Hundred-Year Christmas--rating_value=four--rating_unit=stars--
+Give The Sacred Fount 3 of 6 stars#RateBook#object_name=The Sacred Fount--rating_value=3--best_rating=6--rating_unit=stars--
+Set my rating for this chronicle to 0 stars#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=0--rating_unit=stars--
+Rate the current essay four out of 6.#RateBook#object_select=current--object_type=essay--rating_value=four--best_rating=6--
+Rate this album a 1 out of 6#RateBook#object_select=this--object_type=album--rating_value=1--best_rating=6--
+rate this textbook a 5#RateBook#object_select=this--object_type=textbook--rating_value=5--
+Give 5 of 6 points to The Man from Barbarossa#RateBook#rating_value=5--best_rating=6--rating_unit=points--object_name=The Man from Barbarossa--
+I think this novel should get a 3 out of 6#RateBook#object_select=this--object_type=novel--rating_value=3--best_rating=6--
+Give the current textbook a one out of 6 rating.#RateBook#object_select=current--object_type=textbook--rating_value=one--best_rating=6--
+Give four stars to the current textbook#RateBook#rating_value=four--rating_unit=stars--object_select=current--object_type=textbook--
+Rate the current essay four out of 6.#RateBook#object_select=current--object_type=essay--rating_value=four--best_rating=6--
+Give Three Junes one point out of 6.#RateBook#object_name=Three Junes--rating_value=one--best_rating=6--
+Give Chater's Annual a two out of 6 rating.#RateBook#object_name=Chater's Annual--rating_value=two--best_rating=6--
+Give five points to The Good Daughter book#RateBook#rating_value=five--rating_unit=points--object_name=The Good Daughter--object_type=book--
+Rate The Silent Speaker four out of 6#RateBook#object_name=The Silent Speaker--rating_value=four--best_rating=6--
+Give The Lost Princess 3 stars.#RateBook#object_name=The Lost Princess--rating_value=3--rating_unit=stars--
+rate this chronicle one out of 6 points#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=one--best_rating=6--rating_unit=points--
+Give this novel four stars#RateBook#object_select=this--object_type=novel--rating_value=four--rating_unit=stars--
+rate the current book two stars#RateBook#object_select=current--object_type=book--rating_value=two--rating_unit=stars--
+Rate the current textbook a two#RateBook#object_select=current--object_type=textbook--rating_value=two--
+Rate Ehi, prof! a one out of 6#RateBook#object_name=Ehi, prof!--rating_value=one--best_rating=6--
+Rate the current novel four of 6 stars#RateBook#object_select=current--object_type=novel--rating_value=four--best_rating=6--rating_unit=stars--
+Rate the current book a zero.#RateBook#object_select=current--object_type=book--rating_value=zero--
+Give this essay 4 stars#RateBook#object_select=this--object_type=essay--rating_value=4--rating_unit=stars--
+Rate She Returns to the Floating World 4 out of 6 stars.#RateBook#object_name=She Returns to the Floating World--rating_value=4--best_rating=6--rating_unit=stars--
+rate this chronicle two points#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=two--rating_unit=points--
+rate the current novel a 0 of 6#RateBook#object_select=current--object_type=novel--rating_value=0--best_rating=6--
+Give the current album a 4 out of 6.#RateBook#object_select=current--object_type=album--rating_value=4--best_rating=6--
+Give this novel four of 6 points#RateBook#object_select=this--object_type=novel--rating_value=four--best_rating=6--rating_unit=points--
+Give this current series a rating of one.#RateBook#object_select=this current--object_part_of_series_type=series--rating_value=one--
+give this textbook a four#RateBook#object_select=this--object_type=textbook--rating_value=four--
+Rate Making Sense of Marx 2 stars.#RateBook#object_name=Making Sense of Marx--rating_value=2--rating_unit=stars--
+Give this album 2 points.#RateBook#object_select=this--object_type=album--rating_value=2--rating_unit=points--
+I'd like to give The Harder They Come two points#RateBook#object_name=The Harder They Come--rating_value=two--rating_unit=points--
+Give the current essay 5 out of 6 stars#RateBook#object_select=current--object_type=essay--rating_value=5--best_rating=6--rating_unit=stars--
+this album deserves a 0 out of 6#RateBook#object_select=this--object_type=album--rating_value=0--best_rating=6--
+rate this series zero out of 6 stars#RateBook#object_select=this--object_part_of_series_type=series--rating_value=zero--best_rating=6--rating_unit=stars--
+Give 4 stars to the current essay#RateBook#rating_value=4--rating_unit=stars--object_select=current--object_type=essay--
+please give a 2 out of 6 to House of Many Ways#RateBook#rating_value=2--best_rating=6--object_name=House of Many Ways--
+Give Twisted Souls 1 out of 6 points#RateBook#object_name=Twisted Souls--rating_value=1--best_rating=6--rating_unit=points--
+Give this book a rating of 2 points.#RateBook#object_select=this--object_type=book--rating_value=2--rating_unit=points--
+Give this current saga a rating of four points.#RateBook#object_select=this current--object_part_of_series_type=saga--rating_value=four--rating_unit=points--
+rate this novel four stars#RateBook#object_select=this--object_type=novel--rating_value=four--rating_unit=stars--
+Rate Hurricane Punch two out of 6.#RateBook#object_name=Hurricane Punch--rating_value=two--best_rating=6--
+mark The Final Battle score two out of 6#RateBook#object_name=The Final Battle--rating_value=two--best_rating=6--
+Give 50 Reasons to Hate the French a rating of 3.#RateBook#object_name=50 Reasons to Hate the French--rating_value=3--
+Give the current essay five points.#RateBook#object_select=current--object_type=essay--rating_value=five--rating_unit=points--
+Rate The Bell Curve a three.#RateBook#object_name=The Bell Curve--rating_value=three--
+Give Enemies, A Love Story 4 points out of 6#RateBook#object_name=Enemies, A Love Story--rating_value=4--rating_unit=points--best_rating=6--
+I'd rate this novel a two#RateBook#object_select=this--object_type=novel--rating_value=two--
+Give four stars to Windswept House: A Vatican Novel#RateBook#rating_value=four--rating_unit=stars--object_name=Windswept House: A Vatican Novel--
+rate On the Road a five#RateBook#object_name=On the Road--rating_value=five--
+Give Honor Girl zero of 6 stars#RateBook#object_name=Honor Girl--rating_value=zero--best_rating=6--rating_unit=stars--
+rate the current essay a one#RateBook#object_select=current--object_type=essay--rating_value=one--
+Give The Game of Silence 3 points#RateBook#object_name=The Game of Silence--rating_value=3--rating_unit=points--
+Give the current novel two points out of 6#RateBook#object_select=current--object_type=novel--rating_value=two--rating_unit=points--best_rating=6--
+Give two stars to Scribblings#RateBook#rating_value=two--rating_unit=stars--object_name=Scribblings--
+I want to rate this book 0 points out of 6#RateBook#object_select=this--object_type=book--rating_value=0--rating_unit=points--best_rating=6--
+rate The Willows at Christmas 0 out of 6 stars#RateBook#object_name=The Willows at Christmas--rating_value=0--best_rating=6--rating_unit=stars--
+rate the Dry series two out of 6 stars#RateBook#object_name=Dry--object_part_of_series_type=series--rating_value=two--best_rating=6--rating_unit=stars--
+Give Good Building Design and Construction in the Philippines 1 of 6 points#RateBook#object_name=Good Building Design and Construction in the Philippines--rating_value=1--best_rating=6--rating_unit=points--
+Rate the current album a 5 out of 6#RateBook#object_select=current--object_type=album--rating_value=5--best_rating=6--
+Give this novel 5 stars#RateBook#object_select=this--object_type=novel--rating_value=5--rating_unit=stars--
+Rate the current book 0 stars#RateBook#object_select=current--object_type=book--rating_value=0--rating_unit=stars--
+Rate The Fall-Down Artist 5 stars.#RateBook#object_name=The Fall-Down Artist--rating_value=5--rating_unit=stars--
+rat the current textbook a two out of 6 points#RateBook#object_select=current--object_type=textbook--rating_value=two--best_rating=6--rating_unit=points--
+rate Notable American Women a 3 star#RateBook#object_name=Notable American Women--rating_value=3--
+I give The Monkey and the Tiger a rating of 2 points.#RateBook#object_name=The Monkey and the Tiger--rating_value=2--rating_unit=points--
+rate Beaver Towers five out of 6 stars#RateBook#object_name=Beaver Towers--rating_value=five--best_rating=6--rating_unit=stars--
+rate the current essay 4 out of 6 points#RateBook#object_select=current--object_type=essay--rating_value=4--best_rating=6--rating_unit=points--
+Give one out of 6 stars to The Shiva Option#RateBook#rating_value=one--best_rating=6--rating_unit=stars--object_name=The Shiva Option--
+Give Double Persephone series two stars#RateBook#object_name=Double Persephone--object_part_of_series_type=series--rating_value=two--rating_unit=stars--
+Give zero of 6 stars to the current album#RateBook#rating_value=zero--best_rating=6--rating_unit=stars--object_select=current--object_type=album--
+rate the current textbook four points#RateBook#object_select=current--object_type=textbook--rating_value=four--rating_unit=points--
+rate this book a 0 out of 6#RateBook#object_select=this--object_type=book--rating_value=0--best_rating=6--
+I would rate Coming Through Slaughter a four out of 6.#RateBook#object_name=Coming Through Slaughter--rating_value=four--best_rating=6--
+rate the current album 0 out of 6#RateBook#object_select=current--object_type=album--rating_value=0--best_rating=6--
+rate Queen of the Falls 0 of 6#RateBook#object_name=Queen of the Falls--rating_value=0--best_rating=6--
+Give this textbook 4 points.#RateBook#object_select=this--object_type=textbook--rating_value=4--rating_unit=points--
+Rate this novel three out of 6 stars#RateBook#object_select=this--object_type=novel--rating_value=three--best_rating=6--rating_unit=stars--
+Give one 6 stars to this book#RateBook#rating_value=one--best_rating=6--rating_unit=stars--object_select=this--object_type=book--
+Give Unleashing Nepal zero stars#RateBook#object_name=Unleashing Nepal--rating_value=zero--rating_unit=stars--
+Give the current novel two stars of 6.#RateBook#object_select=current--object_type=novel--rating_value=two--rating_unit=stars--best_rating=6--
+Give three stars out of 6 to My Sister, My Love#RateBook#rating_value=three--rating_unit=stars--best_rating=6--object_name=My Sister, My Love--
+Rate Small Screen, Big Picture a 0 out of 6.#RateBook#object_name=Small Screen, Big Picture--rating_value=0--best_rating=6--
+Give this saga a 5 out of 6 rating.#RateBook#object_select=this--object_part_of_series_type=saga--rating_value=5--best_rating=6--
+Give one points to The Body of Christopher Creed#RateBook#rating_value=one--rating_unit=points--object_name=The Body of Christopher Creed--
+Rate this novel a 1 out of 6#RateBook#object_select=this--object_type=novel--rating_value=1--best_rating=6--
+Rate Stars in My Pocket Like Grains of Sand 3 out of 6 points.#RateBook#object_name=Stars in My Pocket Like Grains of Sand--rating_value=3--best_rating=6--rating_unit=points--
+Rate this current textbook a 0.#RateBook#object_select=this current--object_type=textbook--rating_value=0--
+Give four stars out of 6 to Practice to Deceive#RateBook#rating_value=four--rating_unit=stars--best_rating=6--object_name=Practice to Deceive--
+rate the current textbook 5 stars#RateBook#object_select=current--object_type=textbook--rating_value=5--rating_unit=stars--
+rate the current textbook zero out of 6 points#RateBook#object_select=current--object_type=textbook--rating_value=zero--best_rating=6--rating_unit=points--
+give the current saga 4 points#RateBook#object_select=current--object_part_of_series_type=saga--rating_value=4--rating_unit=points--
+Give this textbook a rating of three.#RateBook#object_select=this--object_type=textbook--rating_value=three--
+I would like to give this essay 2 points out of 6.#RateBook#object_select=this--object_type=essay--rating_value=2--rating_unit=points--best_rating=6--
+rate the current chronicle two out of 6 points#RateBook#object_select=current--object_part_of_series_type=chronicle--rating_value=two--best_rating=6--rating_unit=points--
+Give Northern Lights Audio 5 out of 6 points#RateBook#object_name=Northern Lights Audio--rating_value=5--best_rating=6--rating_unit=points--
+Give The Neon Bible three stars of 6#RateBook#object_name=The Neon Bible--rating_value=three--rating_unit=stars--best_rating=6--
+rate this book four out of 6 points#RateBook#object_select=this--object_type=book--rating_value=four--best_rating=6--rating_unit=points--
+Give this album 1 stars.#RateBook#object_select=this--object_type=album--rating_value=1--rating_unit=stars--
+rate The House of Dies Drear with 4 of 6 points#RateBook#object_name=The House of Dies Drear--rating_value=4--best_rating=6--rating_unit=points--
+Give zero of 6 stars to The Groves of Academe#RateBook#rating_value=zero--best_rating=6--rating_unit=stars--object_name=The Groves of Academe--
+The Coming Insurrection should get a rating of 1#RateBook#object_name=The Coming Insurrection--rating_value=1--
+Give Watchers 5 out of 6 stars#RateBook#object_name=Watchers--rating_value=5--best_rating=6--rating_unit=stars--
+give Thud Ridge 4 out of 6 stars#RateBook#object_name=Thud Ridge--rating_value=4--best_rating=6--rating_unit=stars--
+Give a 4 star rating to Fear and Loathing on the Campaign Trail '72#RateBook#rating_value=4--object_name=Fear and Loathing on the Campaign Trail '72--
+Give 3 stars out of 6 to Home Truths#RateBook#rating_value=3--rating_unit=stars--best_rating=6--object_name=Home Truths--
+Give the current series a rating of three.#RateBook#object_select=current--object_part_of_series_type=series--rating_value=three--
+Give The Open Society and Its Enemies 5 points.#RateBook#object_name=The Open Society and Its Enemies--rating_value=5--rating_unit=points--
+Give this novel 5 stars#RateBook#object_select=this--object_type=novel--rating_value=5--rating_unit=stars--
+Rate this current essay a 5.#RateBook#object_select=this current--object_type=essay--rating_value=5--
+Give one point to the current essay.#RateBook#rating_value=one--object_select=current--object_type=essay--
+Rate this textbook a 2.#RateBook#object_select=this--object_type=textbook--rating_value=2--
+Give The Onion Field two points out of 6.#RateBook#object_name=The Onion Field--rating_value=two--rating_unit=points--best_rating=6--
+rate the current novel zero points#RateBook#object_select=current--object_type=novel--rating_value=zero--rating_unit=points--
+Give this textbook one stars out of 6#RateBook#object_select=this--object_type=textbook--rating_value=one--rating_unit=stars--best_rating=6--
+Gie this textbook 3 stars#RateBook#object_select=this--object_type=textbook--rating_value=3--rating_unit=stars--
+Give Hornblower in the West Indies 0 out of 6 points#RateBook#object_name=Hornblower in the West Indies--rating_value=0--best_rating=6--rating_unit=points--
+rate this textbook a one#RateBook#object_select=this--object_type=textbook--rating_value=one--
+Rate this book 5 stars#RateBook#object_select=this--object_type=book--rating_value=5--rating_unit=stars--
+Give this novel 2 out of 6 stars#RateBook#object_select=this--object_type=novel--rating_value=2--best_rating=6--rating_unit=stars--
+Give a rating of one out of 6 points to the current album#RateBook#rating_value=one--best_rating=6--rating_unit=points--object_select=current--object_type=album--
+rate The Stone Key a 5#RateBook#object_name=The Stone Key--rating_value=5--
+rate the current novel 0 of 6#RateBook#object_select=current--object_type=novel--rating_value=0--best_rating=6--
+Give The Gates Ajar four stars#RateBook#object_name=The Gates Ajar--rating_value=four--rating_unit=stars--
+give the current textbook 1 out of 6 stars#RateBook#object_select=current--object_type=textbook--rating_value=1--best_rating=6--rating_unit=stars--
+rate the current album 0 out of 6 stars#RateBook#object_select=current--object_type=album--rating_value=0--best_rating=6--rating_unit=stars--
+Give the current book four stars#RateBook#object_select=current--object_type=book--rating_value=four--rating_unit=stars--
+I want to rate this essay 0 of 6 stars#RateBook#object_select=this--object_type=essay--rating_value=0--best_rating=6--rating_unit=stars--
+Give The Frog Prince, Continued 2 points out of 6.#RateBook#object_name=The Frog Prince, Continued--rating_value=2--rating_unit=points--best_rating=6--
+Give this book a rating of two out of 6.#RateBook#object_select=this--object_type=book--rating_value=two--best_rating=6--
+Rate this chronicle 0 points#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=0--rating_unit=points--
+Give Ring Around the Sun three stars out of 6.#RateBook#object_name=Ring Around the Sun--rating_value=three--rating_unit=stars--best_rating=6--
+Rate the Wild Boy series 3 out of 6 stars#RateBook#object_name=Wild Boy--object_part_of_series_type=series--rating_value=3--best_rating=6--rating_unit=stars--
+Give this book a rating of four out of 6.#RateBook#object_select=this--object_type=book--rating_value=four--best_rating=6--
+Give five out of 6 stars to No Country for Old Men#RateBook#rating_value=five--best_rating=6--rating_unit=stars--object_name=No Country for Old Men--
+rate The White Juga series 0 out of 6 points#RateBook#object_name=The White Juga--object_part_of_series_type=series--rating_value=0--best_rating=6--rating_unit=points--
+Give this book 4 of 6 points#RateBook#object_select=this--object_type=book--rating_value=4--best_rating=6--rating_unit=points--
+Assign Glass and Amber two of 6 stars#RateBook#object_name=Glass and Amber--rating_value=two--best_rating=6--rating_unit=stars--
+Give this essay 1 of 6 points#RateBook#object_select=this--object_type=essay--rating_value=1--best_rating=6--rating_unit=points--
+Give five points to An Ice-Cream War#RateBook#rating_value=five--rating_unit=points--object_name=An Ice-Cream War--
+Give the current novel 3 stars.#RateBook#object_select=current--object_type=novel--rating_value=3--rating_unit=stars--
+give my current album a 1 out of 6 rating#RateBook#object_select=current--object_type=album--rating_value=1--best_rating=6--
+Give 0 points to The Latimers#RateBook#rating_value=0--rating_unit=points--object_name=The Latimers--
+rate The Zenith Angle one out of 6 points#RateBook#object_name=The Zenith Angle--rating_value=one--best_rating=6--rating_unit=points--
+Rate the current essay 4 out of 6#RateBook#object_select=current--object_type=essay--rating_value=4--best_rating=6--
+Give Souls in Metal four out of 6 points#RateBook#object_name=Souls in Metal--rating_value=four--best_rating=6--rating_unit=points--
+rate Anti-intellectualism in American Life a two out of 6 stars#RateBook#object_name=Anti-intellectualism in American Life--rating_value=two--best_rating=6--rating_unit=stars--
+Assign three stars out of 6 to The Dune Encyclopedia#RateBook#rating_value=three--rating_unit=stars--best_rating=6--object_name=The Dune Encyclopedia--
+rate The Open Society and Its Enemies 5 points#RateBook#object_name=The Open Society and Its Enemies--rating_value=5--rating_unit=points--
+Rate the current book three out of 6.#RateBook#object_select=current--object_type=book--rating_value=three--best_rating=6--
+Give the current novel four points.#RateBook#object_select=current--object_type=novel--rating_value=four--rating_unit=points--
+Rate 5 out of 6 stars to this album#RateBook#rating_value=5--best_rating=6--rating_unit=stars--object_select=this--object_type=album--
+Give the current textbook 3 stars.#RateBook#object_select=current--object_type=textbook--rating_value=3--rating_unit=stars--
+Rate the current essay three out of 6 points.#RateBook#object_select=current--object_type=essay--rating_value=three--best_rating=6--rating_unit=points--
+Give two out of 6 stars to this textbook#RateBook#rating_value=two--best_rating=6--rating_unit=stars--object_select=this--object_type=textbook--
+Give The Art of the Engine Driver a rating of 2.#RateBook#object_name=The Art of the Engine Driver--rating_value=2--
+rate The Lost Hero chronicle four out of 6#RateBook#object_name=The Lost Hero--object_part_of_series_type=chronicle--rating_value=four--best_rating=6--
+Give zero stars to The Kissing Hand#RateBook#rating_value=zero--rating_unit=stars--object_name=The Kissing Hand--
+Rate A Conflict of Visions zero points#RateBook#object_name=A Conflict of Visions--rating_value=zero--rating_unit=points--
+Rate The Orchid Thief a five#RateBook#object_name=The Orchid Thief--rating_value=five--
+give the current novel a score of four of 6 stars#RateBook#object_select=current--object_type=novel--rating_value=four--best_rating=6--rating_unit=stars--
+Give Upon Some Midnights Clear chronicle four out of 6 for a rating.#RateBook#object_name=Upon Some Midnights Clear--object_part_of_series_type=chronicle--rating_value=four--best_rating=6--
+rate the current album 2 points out of 6#RateBook#object_select=current--object_type=album--rating_value=2--rating_unit=points--best_rating=6--
+Rate The Man Who Sold the Moon a 5.#RateBook#object_name=The Man Who Sold the Moon--rating_value=5--
+Rate Hope Was Here a one of 6#RateBook#object_name=Hope Was Here--rating_value=one--best_rating=6--
+Give 3 of 6 stars to Doctor in the House#RateBook#rating_value=3--best_rating=6--rating_unit=stars--object_name=Doctor in the House--
+rate the Which Moped with Chrome-plated Handlebars at the Back of the Yard? saga a one#RateBook#object_name=Which Moped with Chrome-plated Handlebars at the Back of the Yard--object_part_of_series_type=saga--rating_value=one--
+rate National Geographic Dinosaurs 2 out of 6#RateBook#object_name=National Geographic Dinosaurs--rating_value=2--best_rating=6--
+Give this book five out of 6 points.#RateBook#object_select=this--object_type=book--rating_value=five--best_rating=6--rating_unit=points--
+Give this textbook 2 points#RateBook#object_select=this--object_type=textbook--rating_value=2--rating_unit=points--
+Give 3 points to Son of the Tree#RateBook#rating_value=3--rating_unit=points--object_name=Son of the Tree--
+Rate this current essay four out of 6.#RateBook#object_select=this current--object_type=essay--rating_value=four--best_rating=6--
+I would like to rate The Giant Devil Dingo a 4.#RateBook#object_name=The Giant Devil Dingo--rating_value=4--
+Give A Mile Beyond the Moon five points#RateBook#object_name=A Mile Beyond the Moon--rating_value=five--rating_unit=points--
+Give four out of 6 points to Empire of Death#RateBook#rating_value=four--best_rating=6--rating_unit=points--object_name=Empire of Death--
+Assign 0 points out of 6 to The Gate of Worlds#RateBook#rating_value=0--rating_unit=points--best_rating=6--object_name=The Gate of Worlds--
+Rate The Hundred Brothers two stars.#RateBook#object_name=The Hundred Brothers--rating_value=two--rating_unit=stars--
+Give this series five stars.#RateBook#object_select=this--object_part_of_series_type=series--rating_value=five--rating_unit=stars--
+Rate The Life and Loves of a She-Devil 5 out of 6#RateBook#object_name=The Life and Loves of a She-Devil--rating_value=5--best_rating=6--
+rate the current album five of 6#RateBook#object_select=current--object_type=album--rating_value=five--best_rating=6--
+Give this album 2 of 6.#RateBook#object_select=this--object_type=album--rating_value=2--best_rating=6--
+Give 5 stars to Two Old Women#RateBook#rating_value=5--rating_unit=stars--object_name=Two Old Women--
+Give The Crisis, one out of 6 points#RateBook#object_name=The Crisis--rating_value=one--best_rating=6--rating_unit=points--
+rate the current album 2 out of 6#RateBook#object_select=current--object_type=album--rating_value=2--best_rating=6--
+Give Tom Swift and His Motor Cycle chronicle 4 points.#RateBook#object_name=Tom Swift and His Motor Cycle--object_part_of_series_type=chronicle--rating_value=4--rating_unit=points--
+rate this current textbook three out of 6 points#RateBook#object_select=this current--object_type=textbook--rating_value=three--best_rating=6--rating_unit=points--
+Give four points to Leven Thumps and the Gateway to Foo#RateBook#rating_value=four--rating_unit=points--object_name=Leven Thumps and the Gateway to Foo--
+Give this novel 2 stars.#RateBook#object_select=this--object_type=novel--rating_value=2--rating_unit=stars--
+Rate The Simon & Schuster Encyclopedia of Dinosaurs and Prehistoric Creatures 0 points.#RateBook#object_name=The Simon & Schuster Encyclopedia of Dinosaurs and Prehistoric Creatures--rating_value=0--rating_unit=points--
+Give 1 star to Flashman and the Redskins#RateBook#rating_value=1--object_name=Flashman and the Redskins--
+Rate this current album three stars#RateBook#object_select=this current--object_type=album--rating_value=three--rating_unit=stars--
+Rate this chronicle a one of 6#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=one--best_rating=6--
+rate The Thirty-Nine Steps 4 out of 6#RateBook#object_name=The Thirty-Nine Steps--rating_value=4--best_rating=6--
+rate Branded Outlaw a four#RateBook#object_name=Branded Outlaw--rating_value=four--
+Rate this textbook 5 stars#RateBook#object_select=this--object_type=textbook--rating_value=5--rating_unit=stars--
+Rate Cold Light 5 out of 6 points.#RateBook#object_name=Cold Light--rating_value=5--best_rating=6--rating_unit=points--
+Rate the current textbook a zero#RateBook#object_select=current--object_type=textbook--rating_value=zero--
+rate the current essay 1 out of 6 stars#RateBook#object_select=current--object_type=essay--rating_value=1--best_rating=6--rating_unit=stars--
+rate Anti-intellectualism in American Life a two out of 6 stars#RateBook#object_name=Anti-intellectualism in American Life--rating_value=two--best_rating=6--rating_unit=stars--
+rate the Curly: An Illustrated Biography of the Superstooge saga 5 stars#RateBook#object_name=Curly: An Illustrated Biography of the Superstooge--object_part_of_series_type=saga--rating_value=5--rating_unit=stars--
+Give Highways in Hiding a 5 out of 6 points.#RateBook#object_name=Highways in Hiding--rating_value=5--best_rating=6--rating_unit=points--
+Give the current saga a 4 out of 6 points.#RateBook#object_select=current--object_part_of_series_type=saga--rating_value=4--best_rating=6--rating_unit=points--
+I give 1 points to Summer of the Swans.#RateBook#rating_value=1--rating_unit=points--object_name=Summer of the Swans--
+Rate this album five out of 6 stars.#RateBook#object_select=this--object_type=album--rating_value=five--best_rating=6--rating_unit=stars--
+Give this textbook 3 stars.#RateBook#object_select=this--object_type=textbook--rating_value=3--rating_unit=stars--
+Rate A Demon of Our Own Design 0 out of 6#RateBook#object_name=A Demon of Our Own Design--rating_value=0--best_rating=6--
+Give the current chronicle 2 stars.#RateBook#object_select=current--object_part_of_series_type=chronicle--rating_value=2--rating_unit=stars--
+rate this book 5 points#RateBook#object_select=this--object_type=book--rating_value=5--rating_unit=points--
+Give this chronicle zero points out of 6#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=zero--rating_unit=points--best_rating=6--
+Give the current textbook 5 out of 6 points#RateBook#object_select=current--object_type=textbook--rating_value=5--best_rating=6--rating_unit=points--
+Give this novel two stars of 6#RateBook#object_select=this--object_type=novel--rating_value=two--rating_unit=stars--best_rating=6--
+Give this book a 5 stars rating.#RateBook#object_select=this--object_type=book--rating_value=5--rating_unit=stars--
+Give the current book im reading zero points out of 6.#RateBook#object_select=current--object_type=book--rating_value=zero--rating_unit=points--best_rating=6--
+Give Untouched by Human Hands five points out of 6.#RateBook#object_name=Untouched by Human Hands--rating_value=five--rating_unit=points--best_rating=6--
+Rate this saga two out of 6.#RateBook#object_select=this--object_part_of_series_type=saga--rating_value=two--best_rating=6--
+rate the current book three out of 6#RateBook#object_select=current--object_type=book--rating_value=three--best_rating=6--
+Give the current novel 3 stars of 6#RateBook#object_select=current--object_type=novel--rating_value=3--rating_unit=stars--best_rating=6--
+Give The Irish Filmography saga a rating of 2 out of 6.#RateBook#object_name=The Irish Filmography--object_part_of_series_type=saga--rating_value=2--best_rating=6--
+Rate Wolves Eat Dogs 5 out of 6 points#RateBook#object_name=Wolves Eat Dogs--rating_value=5--best_rating=6--rating_unit=points--
+Rate the current novel two points#RateBook#object_select=current--object_type=novel--rating_value=two--rating_unit=points--
+Assign 4 stars out of 6 to the chronicle, God and Man at Yale.#RateBook#rating_value=4--rating_unit=stars--best_rating=6--object_part_of_series_type=chronicle--object_name=God and Man at Yale--
+Rate A Voyage to Arcturus a 2.#RateBook#object_name=A Voyage to Arcturus--rating_value=2--
+Give this album 0 stars#RateBook#object_select=this--object_type=album--rating_value=0--rating_unit=stars--
+Give 2 stars to The Doom Brigade#RateBook#rating_value=2--rating_unit=stars--object_name=The Doom Brigade--
+Rate this saga two out of 6.#RateBook#object_select=this--object_part_of_series_type=saga--rating_value=two--best_rating=6--
+Give this chronicle one out of 6 points#RateBook#object_select=this--object_part_of_series_type=chronicle--rating_value=one--best_rating=6--rating_unit=points--
+Give Setting Free the Bears series a four out of 6 stars rating.#RateBook#object_name=Setting Free the Bears--object_part_of_series_type=series--rating_value=four--best_rating=6--rating_unit=stars--
+could you give this essay a rating of 1#RateBook#object_select=this--object_type=essay--rating_value=1--
+Give The Last of the Jedi: Underworld 3 stars of 6.#RateBook#object_name=The Last of the Jedi: Underworld--rating_value=3--rating_unit=stars--best_rating=6--
+Rate After Capitalism: Economic Democracy in Action a 3#RateBook#object_name=After Capitalism: Economic Democracy in Action--rating_value=3--
+Give Home Is the Hunter zero stars#RateBook#object_name=Home Is the Hunter--rating_value=zero--rating_unit=stars--
+Give one out of 6 to Pincher Martin saga#RateBook#rating_value=one--best_rating=6--object_name=Pincher Martin--object_part_of_series_type=saga--
+Give this book 1 out of 6 stars#RateBook#object_select=this--object_type=book--rating_value=1--best_rating=6--rating_unit=stars--
+rate this current series zero out of 6#RateBook#object_select=this current--object_part_of_series_type=series--rating_value=zero--best_rating=6--
+Give this series four points#RateBook#object_select=this--object_part_of_series_type=series--rating_value=four--rating_unit=points--
+rate the current novel zero stars#RateBook#object_select=current--object_type=novel--rating_value=zero--rating_unit=stars--
+Give one out of 6 to A Week in the Woods#RateBook#rating_value=one--best_rating=6--object_name=A Week in the Woods--
+Rate the current novel on my list a 3#RateBook#object_select=current--object_type=novel--rating_value=3--
+Give zero of 6 points to the current textbook#RateBook#rating_value=zero--best_rating=6--rating_unit=points--object_select=current--object_type=textbook--
+rate the current essay with 4 points#RateBook#object_select=current--object_type=essay--rating_value=4--rating_unit=points--
+Give zero stars to The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada, as Narrated by Himself#RateBook#rating_value=zero--rating_unit=stars--object_name=The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada, as Narrated by Himself--
+for Walk in My Soul my rating is 3 out of 6#RateBook#object_name=Walk in My Soul--rating_value=3--best_rating=6--
