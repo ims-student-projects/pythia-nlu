@@ -51,8 +51,7 @@ Give The Blue Equinox series 5 points#RateBook#object_name=The Blue Equinox--obj
 I want to rate The Obama Syndrome zero of 6#RateBook#object_name=The Obama Syndrome--rating_value=zero--best_rating=6--
 give Under the Sign of Saturn a four out of 6#RateBook#object_name=Under the Sign of Saturn--rating_value=four--best_rating=6--
 rate this book a 4 out of 6#RateBook#object_select=this--object_type=book--rating_value=4--best_rating=6--
-give The God Machine two of 6
- points#RateBook#object_name=The God Machine--rating_value=two--best_rating=6--rating_unit=points--
+give The God Machine two of 6 points#RateBook#object_name=The God Machine--rating_value=two--best_rating=6--rating_unit=points--
 Give After the First Death a 2 out of 6 points rating.#RateBook#object_name=After the First Death--rating_value=2--best_rating=6--rating_unit=points--
 Rate The CIA and the Cult of Intelligence a 5.#RateBook#object_name=The CIA and the Cult of Intelligence--rating_value=5--
 I would like to rate The Hundred-Year Christmas four stars.#RateBook#object_name=The Hundred-Year Christmas--rating_value=four--rating_unit=stars--

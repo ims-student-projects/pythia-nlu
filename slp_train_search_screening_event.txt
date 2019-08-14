@@ -145,9 +145,8 @@ I want to see Vanishing of the Bees at a movie house.#SearchScreeningEvent#movie
 Give me the list of animated movies playing at the closest movie house#SearchScreeningEvent#movie_type=animated movies--spatial_relation=closest--object_location_type=movie house--
 What are the timings for Starship Troopers 2?#SearchScreeningEvent#movie_name=Starship Troopers 2--
 When will So Happy Together begin playing?#SearchScreeningEvent#movie_name=So Happy Together--
- is it possible to see Corn at eleven A.M. at Loews Cineplex Entertainment#SearchScreeningEvent#movie_name=Corn--timeRange=eleven A.M.--location_name=Loews Cineplex Entertainment--
+is it possible to see Corn at eleven A.M. at Loews Cineplex Entertainment#SearchScreeningEvent#movie_name=Corn--timeRange=eleven A.M.--location_name=Loews Cineplex Entertainment--
 Is Short of Love playing #SearchScreeningEvent#movie_name=Short of Love--
-When is For One Night playing at Loews Cineplex Entertainment?
 #SearchScreeningEvent#movie_name=For One Night--location_name=Loews Cineplex Entertainment--
 Is The Little Irish Girl playing#SearchScreeningEvent#movie_name=The Little Irish Girl--
 What film is playing nearby#SearchScreeningEvent#movie_type=film--spatial_relation=nearby--

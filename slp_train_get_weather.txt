@@ -86,7 +86,6 @@ Will it rain in Blissfield Namibia nine hours 1 minute and one second from now?#
 Is it going to be colder in Bonnie#GetWeather#condition_temperature=colder--city=Bonnie--
 What is the weather forecast for Deaver, SC on May 10th#GetWeather#city=Deaver--state=SC--timeRange=May 10th--
 Want to eat somewhere cold in the neighboring Antlers region on aug. 22#GetWeather#condition_temperature=cold--spatial_relation=neighboring--city=Antlers--timeRange=aug. 22--
-Is it colder in Istanbul, Turkey or Amarillo, Greece?
 #GetWeather#condition_temperature=colder--city=Amarillo--country=Greece--
 Will it be warm on Pink Hill?#GetWeather#condition_temperature=warm--city=Pink Hill--
 what is the forecast for Winnabow#GetWeather#city=Winnabow--

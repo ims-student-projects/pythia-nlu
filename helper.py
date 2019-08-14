@@ -1,4 +1,6 @@
 # contains all the helper functions for our project
+from nltk.tokenize import TweetTokenizer
+
 
 def make_slot_dict(sent):
     slot_dict = dict()
@@ -10,3 +12,8 @@ def make_slot_dict(sent):
             slot_dict[s[0]] = s[1]
     
     return slot_dict
+
+def tokenize(sentence):
+        tknzr = TweetTokenizer()
+        tokenized = tknzr.tokenize(sentence)
+        return tokenized
