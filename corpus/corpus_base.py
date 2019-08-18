@@ -1,5 +1,6 @@
-from helper import *
-from query import *
+
+from utils.helper import *
+from corpus.query import *
 
 class Corpus:
     def __init__(self, size, type_req):
@@ -45,7 +46,7 @@ class Corpus:
         files = ['slp_train_add_to_playlist.txt', 'slp_train_book_restaurant.txt', 'slp_train_get_weather.txt', 'slp_train_play_music.txt', 'slp_train_rate_book.txt', 'slp_train_search_creative_work.txt', 'slp_train_search_screening_event.txt']
 
         for each in files:
-            f = open(each,'r')
+            f = open( 'data/' + each,'r')
             lines = f.readlines()
 
 

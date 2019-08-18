@@ -2,11 +2,11 @@
 
 class Evaluator():
 
-    def __init__(self, X, I, S):
+    def __init__(self, corpus, intents, slots):
 
-        self.intents = I
-        self.slots = S
-        self.corpus = X
+        self.corpus = corpus
+        self.intents = intents
+        self.slots = slots
 
         # Print headers on console
         #self.print_headers(I, S, X)
