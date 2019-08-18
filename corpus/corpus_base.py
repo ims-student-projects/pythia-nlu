@@ -1,6 +1,9 @@
+import sys
 
-from utils.helper import *
-from corpus.query import *
+sys.path.append('../utils')
+from helper import *
+sys.path.append('../data')
+from query import *
 
 class Corpus:
     def __init__(self, size, type_req):
@@ -43,12 +46,12 @@ class Corpus:
 
         data = list()
 
+        
         files = ['slp_train_add_to_playlist.txt', 'slp_train_book_restaurant.txt', 'slp_train_get_weather.txt', 'slp_train_play_music.txt', 'slp_train_rate_book.txt', 'slp_train_search_creative_work.txt', 'slp_train_search_screening_event.txt']
 
         for each in files:
-            f = open( 'data/' + each,'r')
+            f = open( '/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/' + each,'r')
             lines = f.readlines()
-
 
             # ------ check if train or test data is needed and set the list accordingly ------ #
             if self.type_req == 'train':
@@ -56,7 +59,6 @@ class Corpus:
             else:
                 print('Collecting test data ...')
                 lines = reversed(lines)
-
 
             # ----- start loop to fill up data in the data structure ----- #
             i = 0

@@ -1,7 +1,12 @@
 # ---- make vocabs from corpus base ---- #
+import sys 
 
-from corpus_base import *
-from helper import *
+sys.path.append('../corpus')
+from corpus_base import Corpus
+
+sys.path.append('../utils')
+import helper
+
 
 class Feature:
     def __init__(self, __data_dump):
@@ -19,8 +24,12 @@ class Feature:
 
     
     
-c = Corpus(200, 'train')
-f = Feature(c.operate())
+corpus = Corpus(200, 'train')
+corpus.get_data()
 
-res = f.make_vocabs()
-print(res)
+
+
+
+
+# res = f.make_vocabs()
+# print(res)
