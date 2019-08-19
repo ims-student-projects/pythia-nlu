@@ -1,13 +1,25 @@
 
-# ------ baseline evaluator ------ #
-
 class Evaluator():
 
-    def __init__(self, corpus, intents, slots):
+    """
+    Calculates evaluation scores and renders string that can be printed on the console.
+    Calculated scores:
+        Model-level: F-macro, F-micro, Precision & Recall
+        Intents and Slots: F, Precision & Recall
+
+    Parameters:
+        corpus: instance of Corpus
+        intens: dict, where the keys are labels of instances
+        slots:  list, with labels of slots
+        epoch:  int (optional), epoch/iteration of training
+    """
+
+    def __init__(self, corpus, intents, slots, epoch=0):
 
         self.corpus = corpus
         self.intents = list(intents)
         self.slots = slots
+        self.epoch = epoch
 
         # Print headers on console
         #self.print_headers(I, S, X)
@@ -21,6 +33,10 @@ class Evaluator():
 
 
     def get_intent_scores(self):
+        """
+        Calculate scores for each individual intent:
+            F, Precision, Recall
+        """
 
         ## Initialize scores with 0s
         self.intent_tp = {i:0.0 for i in self.intents}
@@ -64,6 +80,11 @@ class Evaluator():
 
 
     def get_slot_scores(self):
+        """
+        Calculate scores for each individual Slot:
+            F, Precision, Recall
+        """
+ 
 
         ## Initialize base scores for slot values
         self.slot_tp = {s:0 for s in self.slots}
@@ -110,6 +131,10 @@ class Evaluator():
 
 
     def get_model_scores(self):
+        """
+        Calculate Model-level scores:
+            F-macro, F-micro, Precision, Recall
+        """
 
         # F1-Macro is just average of all class F1 scores
         self.intent_f1['macro'] = sum( self.intent_f1.values() ) / len( self.intent_f1 )
@@ -122,6 +147,8 @@ class Evaluator():
         fn = sum( self.intent_fn.values() )
         p = tp / (tp + fp) if (tp + fp) else 0.0
         r = tp / (fp + fn) if (tp + fn) else 0.0
+        self.intent_precision['micro'] = p
+        self.intent_recall['micro'] = r
         self.intent_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0.0
 
         # Calculate for slots
@@ -130,18 +157,28 @@ class Evaluator():
         fn = sum( self.slot_fn.values() )
         p = tp / (tp + fp) if (tp + fp) else 0.0
         r = tp / (fp + fn) if (tp + fn) else 0.0
+        self.slot_precision['micro'] = p
+        self.slot_recall['micro'] = r
         self.slot_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0.0
 
-    def strip_expand(self, txt, length, direction='right'):
+
+    def resize(self, txt, length, direction='right'):
         """
         Adds whitespace to a string (either from left or right) to get
         the desired length. If string is shorter, just strip from right.
         """
+        # convert to sting if necessary
+        if type(txt) != str:
+            txt = str(txt)
+
+        # if string is larger than desired, strip
         if len(txt) > length:
             return txt[:length]
+        # if shorter, add whitespace
         elif len(txt) < length:
             whitespace = ' ' *  (length - len(txt))
             return txt + whitespace if direction=='right' else whitespace + txt
+        # string has already desired length
         else:
             return txt
 
@@ -149,46 +186,55 @@ class Evaluator():
 
     def __str__(self, use_bold=True):
         """
-        Fancy list of macro, micro f-scores and precision and recall for all labels
+        Render string that can be printed into console.
+        First line contains model-level scores. Second line contains scores of each individual 
+        intent. Last two lines are scores for slots.
         """
         bold = '\033[1m' if use_bold else ''
         unbold = '\033[0m' if use_bold else ''
 
-        header_intent = 'Intent F1\tIntents F1, Precision, Recall'
-        subheader_intent = 'Mac   Mic\t{}'.format('  '.join(self.strip_expand(i,14) for i in self.intents))
+        epoch_header = '\nEpoch:   {} {}\n'.format(self.epoch, '#' * 179)
+        # Model-level scores for Intent and Slot: F-macro, F-micro, precision and recall
+        model_header = f'{bold}Intent:  Fmac   Fmic{unbold}   ' \
+            f'Prc    Rec\t\t{bold}Slot: Fmac   Fmic{unbold}   Prc    Rec' + (' ' * 111)  + '#\n'
 
-        # Macro and Micro F1 scores of intent prediction
-        intent_sum = '{}{}  {}{}\t'.format(
+        model_scores = '         {}{}  {}{}  {}  {}\t\t      {}{}  {}{}  {}  {}{}#\n{}#\n'.format(
                         bold,
-                        round(self.intent_f1['macro'], 2),
-                        round(self.intent_f1['micro'], 2),
-                        unbold  )
+                        self.resize( round(self.intent_f1['macro'], 3), 5),
+                        self.resize( round(self.intent_f1['micro'], 3), 5),
+                        unbold,
+                        self.resize( round(self.intent_precision['micro'], 3), 5),
+                        self.resize( round(self.intent_recall['micro'], 3), 5),
+                        bold,
+                        self.resize( round(self.slot_f1['macro'], 3), 5),
+                        self.resize( round(self.slot_f1['micro'], 3), 5),
+                        unbold,
+                        self.resize( round(self.slot_precision['micro'], 3), 5),
+                        self.resize( round(self.slot_recall['micro'], 3), 5),
+                        ' ' * 109,
+                        ' ' * 189
+                        )
 
-        # F1, Precision and Recall for each intent
-        intent_scores = '  '.join( self.strip_expand( '{} {} {}'.format(
-                        round(self.intent_f1[i], 2),
+        # Scores for each individual Intent: precision and recall
+        intent_header = 'Intents: ' + '  '.join(self.resize(i,10) for i in self.intents) + (' ' * 98) + '#\n'
+        intent_scores = '         ' + '  '.join(self.resize( '{}  {}'.format(
                         round(self.intent_precision[i], 2),
-                        round(self.intent_recall[i], 2) ), 14 )
-                for i in self.intents )
+                        round(self.intent_recall[i], 2) ), 10 )
+                for i in self.intents ) + (' ' * 98)  + '#\n' + (' ' * 189)  + '#\n'
 
-        header_slot = '\t\t\t\t\t\t\t\t\t\t\tSlot F1\tSlots F1, Precision, Recall'
-        subheader_slot = '\tMac  Mic\t{}'.format('  '.join(self.strip_expand(i,14) for i in self.slots))
-        # Macro and Micro F1 scores of slot filling
-        slot_sum = '\t{}{}  {}{}\t'.format(
-                        bold,
-                        round(self.slot_f1['macro'], 2),
-                        round(self.slot_f1['micro'], 2),
-                        unbold  )
-
-        # F1, Precision and Recall for each intent
-        slot_scores = '  '.join( self.strip_expand( '{} {} {}'.format(
-                        round(self.slot_f1[s], 2),
+        # Scores for each individual Slot: precision and recall
+        # Split into to lines to avoid printing very long lines
+        slots_header_a = 'Slots:   ' + ' '.join(self.resize(s,8) for s in self.slots[:20]) + ' #\n'
+        slots_scores_a = '         ' + ' '.join(self.resize( '{} {}'.format(
                         round(self.slot_precision[s], 2),
-                        round(self.slot_recall[s], 2) ), 14 )
-                for s in self.slots )
+                        round(self.slot_recall[s], 2) ), 8 )
+                for s in self.slots[:20] ) + ' #\n' + (' ' * 189)  + '#\n'
 
-        header = ''.join([header_intent, header_slot, '\n'])
-        subheader = ''.join([subheader_intent, subheader_slot, '\n'])
-        scores = ''.join([intent_sum, intent_scores, slot_sum, slot_scores])
+        slots_header_b = 'Slots:   ' + ' '.join(self.resize(s,8) for s in self.slots[20:]) + (' ' * 10) + '#\n'
+        slots_scores_b = '         ' + ' '.join(self.resize( '{} {}'.format(
+                        round(self.slot_precision[s], 2),
+                        round(self.slot_recall[s], 2) ), 8 )
+                for s in self.slots[20:] ) +  (' ' * 10) + '#\n' + (' ' * 189)  + '#\n' + ('#' * 190)
 
-        return header + subheader + scores
+        return ''.join([epoch_header, model_header, model_scores, intent_header, intent_scores, \
+            slots_header_a, slots_scores_a, slots_header_b, slots_scores_b])
