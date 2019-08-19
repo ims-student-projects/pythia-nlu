@@ -1,3 +1,4 @@
+
 # ------ baseline evaluator ------ #
 
 class Evaluator():
@@ -5,7 +6,7 @@ class Evaluator():
     def __init__(self, corpus, intents, slots):
 
         self.corpus = corpus
-        self.intents = intents
+        self.intents = list(intents)
         self.slots = slots
 
         # Print headers on console
@@ -22,12 +23,12 @@ class Evaluator():
     def get_intent_scores(self):
 
         ## Initialize scores with 0s
-        self.intent_tp = {i:0 for i in self.intents}
-        self.intent_fp = {i:0 for i in self.intents}
-        self.intent_fn = {i:0 for i in self.intents}
-        self.intent_precision = {i:0 for i in self.intents}
-        self.intent_recall = {i:0 for i in self.intents}
-        self.intent_f1 = {i:0 for i in self.intents}
+        self.intent_tp = {i:0.0 for i in self.intents}
+        self.intent_fp = {i:0.0 for i in self.intents}
+        self.intent_fn = {i:0.0 for i in self.intents}
+        self.intent_precision = {i:0.0 for i in self.intents}
+        self.intent_recall = {i:0.0 for i in self.intents}
+        self.intent_f1 = {i:0.0 for i in self.intents}
 
         # Calculate base scores: TP, FP and FN
         for x in self.corpus:
@@ -47,14 +48,14 @@ class Evaluator():
         for i in self.intents:
             # precision = tp / (tp + fp)
             tp_fp = self.intent_tp[i] + self.intent_fp[i]
-            p = self.intent_tp[i] / tp_fp if tp_fp else 0
+            p = self.intent_tp[i] / tp_fp if tp_fp else 0.0
 
             # recall = tp / (tp + fn)
             tp_fn = self.intent_tp[i] + self.intent_fn[i]
-            r = self.intent_tp[i] / tp_fn if tp_fn else 0
+            r = self.intent_tp[i] / tp_fn if tp_fn else 0.0
 
             # f1 score = 2pr / p+r
-            f1 = (2*p*r) / (p+r) if (p+r) else 0
+            f1 = (2*p*r) / (p+r) if (p+r) else 0.0
 
             # Store calculated scores
             self.intent_precision[i] = p
@@ -68,9 +69,9 @@ class Evaluator():
         self.slot_tp = {s:0 for s in self.slots}
         self.slot_fp = {s:0 for s in self.slots}
         self.slot_fn = {s:0 for s in self.slots}
-        self.slot_precision = {s:0 for s in self.slots}
-        self.slot_recall = {s:0 for s in self.slots}
-        self.slot_f1 = {s:0 for s in self.slots}
+        self.slot_precision = {s:0.0 for s in self.slots}
+        self.slot_recall = {s:0.0 for s in self.slots}
+        self.slot_f1 = {s:0.0 for s in self.slots}
 
         # Calculate base scores: TP, FP and FN
         for x in self.corpus:
@@ -93,14 +94,14 @@ class Evaluator():
         for s in self.slots:
             # precision = tp / (tp + fp)
             tp_fp = self.slot_tp[s] + self.slot_fp[s]
-            p = self.slot_tp / tp_fp if tp_fp else 0
+            p = self.slot_tp / tp_fp if tp_fp else 0.0
 
             # recall = tp / (tp + fn)
             tp_fn = self.slot_tp[s] + self.slot_fn[s]
-            r = self.slot_tp[s] / tp_fn if tp_fn else 0
+            r = self.slot_tp[s] / tp_fn if tp_fn else 0.0
 
             # f1 score = 2pr / p+r
-            f1 = (2*p*r) / (p+r) if (p+r) else 0
+            f1 = (2*p*r) / (p+r) if (p+r) else 0.0
 
             # Store calculated scores
             self.slot_precision[s] = p
@@ -119,17 +120,31 @@ class Evaluator():
         tp = sum( self.intent_tp.values() )
         fp = sum( self.intent_fp.values() )
         fn = sum( self.intent_fn.values() )
-        p = tp / (tp + fp) if (tp + fp) else 0
-        r = tp / (fp + fn) if (tp + fn) else 0
-        self.intent_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0
+        p = tp / (tp + fp) if (tp + fp) else 0.0
+        r = tp / (fp + fn) if (tp + fn) else 0.0
+        self.intent_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0.0
 
         # Calculate for slots
         tp = sum( self.slot_tp.values() )
         fp = sum( self.slot_fp.values() )
         fn = sum( self.slot_fn.values() )
-        p = tp / (tp + fp) if (tp + fp) else 0
-        r = tp / (fp + fn) if (tp + fn) else 0
-        self.slot_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0
+        p = tp / (tp + fp) if (tp + fp) else 0.0
+        r = tp / (fp + fn) if (tp + fn) else 0.0
+        self.slot_f1['micro'] = (1*p*r) / (p*r) if (p*r) else 0.0
+
+    def strip_expand(self, txt, length, direction='right'):
+        """
+        Adds whitespace to a string (either from left or right) to get
+        the desired length. If string is shorter, just strip from right.
+        """
+        if len(txt) > length:
+            return txt[:length]
+        elif len(txt) < length:
+            whitespace = ' ' *  (length - len(txt))
+            return txt + whitespace if direction=='right' else whitespace + txt
+        else:
+            return txt
+
 
 
     def __str__(self, use_bold=True):
@@ -139,6 +154,9 @@ class Evaluator():
         bold = '\033[1m' if use_bold else ''
         unbold = '\033[0m' if use_bold else ''
 
+        header_intent = 'Intent F1\tIntents F1, Precision, Recall'
+        subheader_intent = 'Mac   Mic\t{}'.format('  '.join(self.strip_expand(i,14) for i in self.intents))
+
         # Macro and Micro F1 scores of intent prediction
         intent_sum = '{}{}  {}{}\t'.format(
                         bold,
@@ -147,24 +165,30 @@ class Evaluator():
                         unbold  )
 
         # F1, Precision and Recall for each intent
-        intent_scores = '\t'.join('{} {} {}'.format(
+        intent_scores = '  '.join( self.strip_expand( '{} {} {}'.format(
                         round(self.intent_f1[i], 2),
                         round(self.intent_precision[i], 2),
-                        round(self.intent_recall[i], 2) )
+                        round(self.intent_recall[i], 2) ), 14 )
                 for i in self.intents )
 
+        header_slot = '\t\t\t\t\t\t\t\t\t\t\tSlot F1\tSlots F1, Precision, Recall'
+        subheader_slot = '\tMac  Mic\t{}'.format('  '.join(self.strip_expand(i,14) for i in self.slots))
         # Macro and Micro F1 scores of slot filling
-        slot_sum = '{}{}  {}{}\t'.format(
+        slot_sum = '\t{}{}  {}{}\t'.format(
                         bold,
                         round(self.slot_f1['macro'], 2),
                         round(self.slot_f1['micro'], 2),
                         unbold  )
 
         # F1, Precision and Recall for each intent
-        slot_scores = '\t'.join('{} {} {}'.format(
+        slot_scores = '  '.join( self.strip_expand( '{} {} {}'.format(
                         round(self.slot_f1[s], 2),
                         round(self.slot_precision[s], 2),
-                        round(self.slot_recall[s], 2) )
+                        round(self.slot_recall[s], 2) ), 14 )
                 for s in self.slots )
 
-        return ''.join([intent_sum, intent_scores, slot_sum, slot_scores])
+        header = ''.join([header_intent, header_slot, '\n'])
+        subheader = ''.join([subheader_intent, subheader_slot, '\n'])
+        scores = ''.join([intent_sum, intent_scores, slot_sum, slot_scores])
+
+        return header + subheader + scores
