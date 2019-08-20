@@ -115,7 +115,7 @@ class Evaluator():
         for s in self.slots:
             # precision = tp / (tp + fp)
             tp_fp = self.slot_tp[s] + self.slot_fp[s]
-            p = self.slot_tp / tp_fp if tp_fp else 0.0
+            p = self.slot_tp[s] / tp_fp if tp_fp else 0.0
 
             # recall = tp / (tp + fn)
             tp_fn = self.slot_tp[s] + self.slot_fn[s]
@@ -149,7 +149,7 @@ class Evaluator():
         r = tp / (fp + fn) if (tp + fn) else 0.0
         self.intent_precision['micro'] = p
         self.intent_recall['micro'] = r
-        self.intent_f1['micro'] = (2*p*r) / (p+r) if (p*r) else 0.0
+        self.intent_f1['micro'] = (2*p*r) / (p+r) if (p+r) else 0.0
 
         # Calculate for slots
         tp = sum( self.slot_tp.values() )
@@ -159,7 +159,7 @@ class Evaluator():
         r = tp / (fp + fn) if (tp + fn) else 0.0
         self.slot_precision['micro'] = p
         self.slot_recall['micro'] = r
-        self.slot_f1['micro'] = (2*p*r) / (p+r) if (p*r) else 0.0
+        self.slot_f1['micro'] = (2*p*r) / (p+r) if (p+r) else 0.0
 
 
     def resize(self, txt, length, direction='right'):

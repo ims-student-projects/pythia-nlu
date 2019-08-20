@@ -1,8 +1,8 @@
 
 
 from evaluator.evaluator import Evaluator
-from models.intent_parser import IntentParser
-from models.slot_filler import SlotFiller
+from models.rand_intent_parser import IntentParser
+from models.rand_slot_filler import SlotFiller
 from corpus.corpus_base import Corpus
 from operator import itemgetter
 
@@ -20,17 +20,19 @@ class Pythia():
         # Predict intents
         intent_parser = IntentParser()
         I = intent_parser.predict(test_corpus, self.intent_set)
+        #print('predicted intents: ', I.keys())
 
         for i, s, x in zip(I, S, test_corpus):
             # intents with probabilities
+
             intents_with_p = {}
             for intent in self.intent_set:
                 prob = i[intent]
                 for slot in self.intent_set[intent]:
-                    prob *= s[slot]
+                    prob *= s[slot][1]
                 intents_with_p[intent] = prob
 
-            # Determine the highest scoring intent
+            # Select the highest scoring intent
             predicted_intent = sorted(
                     intents_with_p.items(),
                     key=itemgetter(1),
@@ -40,11 +42,13 @@ class Pythia():
             # Select the slots of the predicted intent
             predicted_slots = {}
             for slot in self.intent_set[predicted_intent]:
-                predicted_slots[slot] = s[slot] if slot in s else 'None'
+                predicted_slots[slot] = s[slot][0] if slot in s else 'None' # if statement redundant?
+            #print('\n==========PRED', predicted_slots)
+            x.set_pred_slots(predicted_slots)
 
 
 if __name__ == '__main__':
-    corpus = Corpus(3, "test")
+    corpus = Corpus(300, 'train')
     corpus.get_data()
     intent_set, slot_set = corpus.get_labels()
 
@@ -54,3 +58,8 @@ if __name__ == '__main__':
 
     eval = Evaluator(corpus, intent_set, slot_set)
     print(eval)
+
+    #for x in corpus:
+    #    print( '\n====')
+    #    print( 'GOLD: ', x.get_gold_slots() )
+    #    print( 'PRED: ', x.get_pred_slots() )
