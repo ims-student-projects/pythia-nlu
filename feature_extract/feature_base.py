@@ -7,21 +7,24 @@ from corpus_base import Corpus
 sys.path.append('../utils')
 from helper import *
 
+sys.path.append('../models')
+from baseline_svm_intent import SVM
+
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 class Feature:
-    def __init__(self, __data_dump):
-        self.__data_dump = __data_dump
+    def __init__(self):
+        # self.__data_dump = __data_dump
         self.__intents = ['AddToPlaylist', 'BookRestaurant', 'GetWeather', 'PlayMusic', 'RateBook', 'SearchCreativeWork', 'SearhScreeningEvent']
         self.__vocab_set = set()
 
-        self.create_tfidf(self.__data_dump)
+        # self.create_tfidf(self.__data_dump)
 
-    def make_vocabs(self):
-        for data in self.__data_dump:
-            tokens = tokenize(data)
-            for token in tokens:
-                self.__vocab_set.add(token)
+    # def make_vocabs(self):
+    #     for data in self.__data_dump:
+    #         tokens = tokenize(data)
+    #         for token in tokens:
+    #             self.__vocab_set.add(token)
 
         # return self.__vocab_set
 
@@ -45,18 +48,57 @@ class Feature:
         X = vectorizer.fit_transform(self.__all_sents)
 
         # # ---- Testing the TFIDF value + ngrams:
-        print(X.toarray())
+        # print(X.toarray())
 
-corpus = Corpus(3, 'train')
-corpus.get_data()
+        return X.toarray()
 
-all_sent = list()
-for inst in corpus:
-    all_sent.append(inst.get_utterance())
+corpus_tr = Corpus(299, 'train')
+corpus_tr.get_data()
 
-feature = Feature(all_sent)
+corpus_ts = Corpus(30, 'test')
+corpus_ts.get_data()
+
+# ---- grab all utterances ----
+all_sent_tr = list()
+for inst in corpus_tr:
+    all_sent_tr.append(inst.get_utterance())
+
+# ---- grab all utterances ----
+all_sent_ts = list()
+for inst in corpus_ts:
+    all_sent_ts.append(inst.get_utterance())
+
+# ---- train feature ----
+feature_tr = Feature()
+
+feature_tr = feature_tr.create_tfidf(all_sent_tr)
+
+# ---- test feature ---- 
+feature_ts = Feature()
+feature_ts = feature_ts.create_tfidf(all_sent_ts)
+
+# print(feature_ts.create_tfidf(all_sent_ts))
+
+# ---- grab all train targets ----
+all_targ_tr = list()
+for inst in corpus_tr:
+    all_targ_tr.append(inst.get_gold_intent())
+
+# print(all_targ_tr)
+
+# ---- grab all test targets ----
+all_targ_ts = list()
+for inst in corpus_ts:
+    all_targ_ts.append(inst.get_gold_intent())
 
 
+# --------------------------------------- #
 
-# res = feature.make_vocabs()
-# print(res)
+# all_data = feature_tr.append(feature_ts)
+# all_targ = all_targ_tr + all_targ_ts
+
+# ------------- enter all data and all target as input to SVM ----------------- #
+
+baseline_svm = SVM(feature_tr, all_targ_tr)
+
+baseline_svm.train()

@@ -50,7 +50,7 @@ class Corpus:
         files = ['slp_train_add_to_playlist.txt', 'slp_train_book_restaurant.txt', 'slp_train_get_weather.txt', 'slp_train_play_music.txt', 'slp_train_rate_book.txt', 'slp_train_search_creative_work.txt', 'slp_train_search_screening_event.txt']
 
         for each in files:
-            f = open( '/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/' + each,'r')
+            f = open( '/Users/user/Documents/SLP-C/pythia-nlu/data/' + each,'r')
             lines = f.readlines()
 
             # ------ check if train or test data is needed and set the list accordingly ------ #
@@ -76,11 +76,4 @@ class Corpus:
                     self.__corpus.append(q)
                     i+=1
 
-    # def operate(self):
-    #     return self.get_data()
-
-# c = Corpus(2, 'train')
-
-# c.operate()
-
-# print(c.operate())
+    
