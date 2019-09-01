@@ -2,7 +2,7 @@
 
 import json
 # ------------------- Add to Playlist ------------------------- #
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/AddToPlaylist/train_AddToPlaylist.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/AddToPlaylist/train_AddToPlaylist_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -27,7 +27,7 @@ for i in range(len(parse_arr)):
             combined += entity + '=' + entity_text + '--'
     all_sent_playlist.append(to_combine + '#AddToPlaylist#' + combined)
 
-f = open('slp_train_add_to_playlist.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_AddToPlaylist_full.txt', 'w+')
 
 for item in all_sent_playlist:
     f.write(item)
@@ -37,7 +37,7 @@ for item in all_sent_playlist:
 
 # ------------------- Book A restaurant ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/BookRestaurant/train_BookRestaurant.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/BookRestaurant/train_BookRestaurant_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -64,7 +64,7 @@ for i in range(len(parse_arr)):
 
 # -------------------- Write data to a file -------------------- #
 
-f = open('slp_train_book_restaurant.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_book_restaurant_full.txt', 'w+')
 
 for item in all_sent_restaurant:
     f.write(item)
@@ -73,7 +73,7 @@ for item in all_sent_restaurant:
 
 # ------------------- Get Weather ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/GetWeather/train_GetWeather.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/GetWeather/train_GetWeather_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -98,15 +98,15 @@ for i in range(len(parse_arr)):
             combined += entity + '=' + entity_text + '--'
     all_sent_weather.append(to_combine + '#GetWeather#' + combined)
 
-f = open('slp_train_get_weather.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_get_weather_full.txt', 'w+')
 
 for item in all_sent_weather:
     f.write(item)
     f.write('\n')
 # ------------------- Play Music ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/PlayMusic/train_PlayMusic.json"
-with open(data, 'r') as f:
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/PlayMusic/train_PlayMusic_full.json"
+with open(data, 'r', encoding='latin-1') as f:
     data_to_process = f.read()
 
 to_parse = json.loads(data_to_process)
@@ -132,7 +132,7 @@ for i in range(len(parse_arr)):
 
 # -------------------- Write data to a file -------------------- #
 
-f = open('slp_train_play_music.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_play_music_full.txt', 'w+')
 
 for item in all_sent_play:
     f.write(item)
@@ -141,7 +141,7 @@ for item in all_sent_play:
 
 # ------------------- Rate Book ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/RateBook/train_RateBook.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/RateBook/train_RateBook_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -168,7 +168,7 @@ for i in range(len(parse_arr)):
 
 # -------------------- Write data to a file -------------------- #
 
-f = open('slp_train_rate_book.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_rate_book_full.txt', 'w+')
 
 for item in all_sent_rate:
     f.write(item)
@@ -176,7 +176,7 @@ for item in all_sent_rate:
 
 # ------------------- Search Creative Work ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/SearchCreativeWork/train_SearchCreativeWork.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/SearchCreativeWork/train_SearchCreativeWork_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -203,7 +203,7 @@ for i in range(len(parse_arr)):
 
 # -------------------- Write data to a file -------------------- #
 
-f = open('slp_train_search_creative_work.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_search_creative_work_full.txt', 'w+')
 
 for item in all_sent_cr:
     f.write(item)
@@ -211,7 +211,7 @@ for item in all_sent_cr:
 
 # ------------------- Search Screening Event ------------------------- #
 
-data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/SearchScreeningEvent/train_SearchScreeningEvent.json"
+data = "/home/users0/sengupmt/Dokumente/nlu-benchmark-master/2017-06-custom-intent-engines/SearchScreeningEvent/train_SearchScreeningEvent_full.json"
 with open(data, 'r') as f:
     data_to_process = f.read()
 
@@ -238,7 +238,7 @@ for i in range(len(parse_arr)):
 
 # -------------------- Write data to a file -------------------- #
 
-f = open('slp_train_search_screening_event.txt', 'w+')
+f = open('/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/slp_train_search_screening_event_full.txt', 'w+')
 
 for item in all_sent_scr:
     f.write(item)

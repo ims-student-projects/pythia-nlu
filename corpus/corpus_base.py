@@ -47,10 +47,10 @@ class Corpus:
         data = list()
 
         
-        files = ['slp_train_add_to_playlist.txt', 'slp_train_book_restaurant.txt', 'slp_train_get_weather.txt', 'slp_train_play_music.txt', 'slp_train_rate_book.txt', 'slp_train_search_creative_work.txt', 'slp_train_search_screening_event.txt']
+        files = ['slp_train_add_to_playlist_full.txt', 'slp_train_book_restaurant_full.txt', 'slp_train_get_weather_full.txt', 'slp_train_play_music_full.txt', 'slp_train_rate_book_full.txt', 'slp_train_search_creative_work_full.txt', 'slp_train_search_screening_event_full.txt']
 
         for each in files:
-            f = open( '/Users/user/Documents/SLP-C/pythia-nlu/data/' + each,'r')
+            f = open( '/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/' + each,'r')
             lines = f.readlines()
 
             # ------ check if train or test data is needed and set the list accordingly ------ #
@@ -68,12 +68,17 @@ class Corpus:
                     break
                 else:
                     line = line.split('#')
-                    utterance = line[0]
-                    intent = line[1]
-                    slots = make_slot_dict(line[2])
-                    # ---- make an instance of the corpus class ---- #
-                    q = Query(utterance, intent, slots)
-                    self.__corpus.append(q)
-                    i+=1
+                    if len(line) > 1:
+                        utterance = line[0]
+                        intent = line[1]
+                        slots = make_slot_dict(line[2])
+                        # ---- make an instance of the corpus class ---- #
+                        q = Query(utterance, intent, slots)
+                        self.__corpus.append(q)
+                        i+=1
+                    else:
+                        continue
+                    
+                    
 
     

@@ -2,6 +2,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 from sklearn import svm
 from sklearn import metrics
+from sklearn.metrics import classification_report
 
 
 class SVM:
@@ -17,15 +18,14 @@ class SVM:
         self.__targets = le.fit_transform(self.__targets)
         
         # ---------- make train test split --------- #
-        X_train, X_test, y_train, y_test = train_test_split(self.data, self.__targets, test_size=0.3,random_state=109)
-
+        X_train, X_test, y_train, y_test = train_test_split(self.data, self.__targets, test_size=0.3)
 
         # ---------- BUILD SVM MODEL ------------ #
         clf = svm.SVC(kernel='linear') # Linear Kernel
 
         # ---------- Train the model using the training sets ------------ #
         clf.fit(X_train, y_train)
-        
+
         # ----------- Predict the response for test dataset ------------ #
         y_pred = clf.predict(X_test)
         
@@ -37,3 +37,6 @@ class SVM:
 
         # # Model Recall: what percentage of positive tuples are labelled as such?
         # print("Recall:",metrics.recall_score(y_test, y_pred))
+
+        print("\n")
+        print(classification_report(y_test, y_pred))

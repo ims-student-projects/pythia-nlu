@@ -1,0 +1,2008 @@
+I need to hear the song Aspro Mavro from Bill Szymczyk on Youtube#PlayMusic#music_item=song--track=Aspro Mavro--artist=Bill Szymczyk--service=Youtube--
+play Yo Ho from the new york pops on Youtube#PlayMusic#track=Yo Ho--artist=the new york pops--service=Youtube--
+Play some seventies music by Janne Puurtinen on Youtube.#PlayMusic#year=seventies--artist=Janne Puurtinen--service=Youtube--
+play the MÃºsica Da SÃ©rie De Filmes O Hobbit album by Alex Otaola#PlayMusic#album=MÃºsica Da SÃ©rie De Filmes O Hobbit--music_item=album--artist=Alex Otaola--
+Play Magic Sam from the thirties#PlayMusic#artist=Magic Sam--year=thirties--
+Play The Soft Parade.#PlayMusic#track=The Soft Parade--
+Play music by blowfly from the seventies#PlayMusic#artist=blowfly--year=seventies--
+play Jeff Pilson on Youtube#PlayMusic#artist=Jeff Pilson--service=Youtube--
+play a tune by Syreeta Wright from twenties from the top#PlayMusic#music_item=tune--artist=Syreeta Wright--year=twenties--sort=top--
+Please play me Jerry Lee Lewis's If You Say So track.#PlayMusic#artist=Jerry Lee Lewis--track=If You Say So--music_item=track--
+play the newest by Exuma#PlayMusic#sort=newest--artist=Exuma--
+Play the album alas y raÃ­ces by Dave Pybus.#PlayMusic#music_item=album--album=alas y raÃ­ces--artist=Dave Pybus--
+play music by Helen Ward#PlayMusic#artist=Helen Ward--
+Play some sixties music.#PlayMusic#year=sixties--
+Plan an album by Roni Duani.#PlayMusic#music_item=album--artist=Roni Duani--
+I want to listen to Born On The Bayou on Iheart#PlayMusic#track=Born On The Bayou--service=Iheart--
+Play the best music by Arthur Johnston.#PlayMusic#sort=best--artist=Arthur Johnston--
+Play the song gangsta? by Siavash Ghomayshi#PlayMusic#music_item=song--track=gangsta--artist=Siavash Ghomayshi--
+Play Lukasz Gottwald album on Zvooq#PlayMusic#artist=Lukasz Gottwald--music_item=album--service=Zvooq--
+Play me some music by Prince Alla from the twenties#PlayMusic#artist=Prince Alla--year=twenties--
+Play the newest 2016 ep from Boaz Mauda.#PlayMusic#sort=newest--year=2016--music_item=ep--artist=Boaz Mauda--
+play Escapada#PlayMusic#playlist=Escapada--
+I'd like to hear music from 1951, preferably a soundtrack.#PlayMusic#year=1951--music_item=soundtrack--
+Play 2003 Ben Burnley on Spotify#PlayMusic#year=2003--artist=Ben Burnley--service=Spotify--
+Play Marche Lorraine by Rachael Lampa#PlayMusic#track=Marche Lorraine--artist=Rachael Lampa--
+Play some soul music#PlayMusic#genre=soul--
+Play Robin Hood Rescuing Three Squires by Bhupinder Singh#PlayMusic#track=Robin Hood Rescuing Three Squires--artist=Bhupinder Singh--
+Play the top-5 songs from Paddy Reilly on zvooq#PlayMusic#sort=top-5--artist=Paddy Reilly--service=zvooq--
+Open Groove Shark and play native us#PlayMusic#service=Groove Shark--genre=native us--
+play chant by Prurient#PlayMusic#music_item=chant--artist=Prurient--
+play Shake Your Head#PlayMusic#track=Shake Your Head--
+Play Justin Broadrick's music on Slacker.#PlayMusic#artist=Justin Broadrick--service=Slacker--
+Play some 1954 songs on my Itunes.#PlayMusic#year=1954--service=Itunes--
+Play a 2011 ballad by Evil Jared Hasselhoff on Lastfm.#PlayMusic#year=2011--music_item=ballad--artist=Evil Jared Hasselhoff--service=Lastfm--
+play laura love songs from 1959#PlayMusic#artist=laura love--year=1959--
+Play Inside The Eye by twinkie clark#PlayMusic#album=Inside The Eye--artist=twinkie clark--
+Play Goa music on Google Music.#PlayMusic#genre=Goa--service=Google Music--
+Play The Way It Has To Be by Tom G Warrior on Zvooq#PlayMusic#album=The Way It Has To Be--artist=Tom G Warrior--service=Zvooq--
+Play some nineties chant music from Nicoleta Nicola#PlayMusic#year=nineties--music_item=chant--artist=Nicoleta Nicola--
+Play Alone, Again from Mike Viola#PlayMusic#album=Alone, Again--artist=Mike Viola--
+open Spotify and play a couple of celtic songs#PlayMusic#service=Spotify--genre=celtic--
+Play a concerto by Thekra.#PlayMusic#music_item=concerto--artist=Thekra--
+play The Trail Of The Lonesome Pine on Netflix#PlayMusic#track=The Trail Of The Lonesome Pine--service=Netflix--
+Please play the newest music by Evil Jared Hasselhoff#PlayMusic#sort=newest--artist=Evil Jared Hasselhoff--
+Play NoctÃ¡mbulo pl#PlayMusic#playlist=NoctÃ¡mbulo--
+Open up Lastfm and play some songs.#PlayMusic#service=Lastfm--
+Can you play a top 5 song by Manos Hadjidakis#PlayMusic#sort=top 5--music_item=song--artist=Manos Hadjidakis--
+Play sixties on Spotify#PlayMusic#year=sixties--service=Spotify--
+Play music by Antonella Barba from the album Bath#PlayMusic#artist=Antonella Barba--music_item=album--album=Bath--
+Play melody music from the fourties.#PlayMusic#music_item=melody--year=fourties--
+Play some Katiejane Garside on Vimeo.#PlayMusic#artist=Katiejane Garside--service=Vimeo--
+Play me a top-ten song by Phil Ochs on Groove Shark#PlayMusic#sort=top-ten--music_item=song--artist=Phil Ochs--service=Groove Shark--
+Play Out From Under from Hurricane Chris#PlayMusic#track=Out From Under--artist=Hurricane Chris--
+Play a sound track by Pee Wee Russell on Zvooq.#PlayMusic#music_item=sound track--artist=Pee Wee Russell--service=Zvooq--
+Play One Way Ticket by Ray Kennedy.#PlayMusic#track=One Way Ticket--artist=Ray Kennedy--
+Play my entertaining playlist#PlayMusic#playlist=entertaining--
+Will you pull up my Jueves de AntaÃ±o playlist#PlayMusic#playlist=Jueves de AntaÃ±o--
+Play some eighties movement music#PlayMusic#year=eighties--music_item=movement--
+Use Spotify to play me music#PlayMusic#service=Spotify--
+use Deezer to play top five Moya Brennan#PlayMusic#service=Deezer--sort=top five--artist=Moya Brennan--
+I'd like to hear Nas's greatest ballad#PlayMusic#artist=Nas--sort=greatest--music_item=ballad--
+Open Netflix and find a movie with the song heartful#PlayMusic#service=Netflix--music_item=song--playlist=heartful--
+PLay some fourties music from Erin Harkes#PlayMusic#year=fourties--artist=Erin Harkes--
+Play dhafer youssef top-twenty on netflix#PlayMusic#artist=dhafer youssef--sort=top-twenty--service=netflix--
+I'd like to play the top ten Mickdeth on Google Music#PlayMusic#sort=top ten--artist=Mickdeth--service=Google Music--
+play music by Don Reno#PlayMusic#artist=Don Reno--
+Play some Last Fm music like the 1992 ep from Peaches#PlayMusic#service=Last Fm--year=1992--music_item=ep--artist=Peaches--
+Play some indie music on spotify.#PlayMusic#genre=indie--service=spotify--
+Play a cohesive playlist for me#PlayMusic#playlist=cohesive--
+Play 1966 theme music on Slacker.#PlayMusic#year=1966--music_item=theme--service=Slacker--
+Play some jpop on Google Music.#PlayMusic#genre=jpop--service=Google Music--
+Play music from 2002#PlayMusic#year=2002--
+play Lastfm pop tunes#PlayMusic#service=Lastfm--genre=pop--
+play a concerto that was most popular in 1958 by mickey hart#PlayMusic#music_item=concerto--sort=most popular--year=1958--artist=mickey hart--
+Let me listen to Rouhollah Khaleghi on deezer.#PlayMusic#artist=Rouhollah Khaleghi--service=deezer--
+Please play music from Itunes#PlayMusic#service=Itunes--
+Play me the most popular Peja song on Slacker#PlayMusic#sort=most popular--artist=Peja--music_item=song--service=Slacker--
+Play my 70s Smash Hits playlist.#PlayMusic#playlist=70s Smash Hits--
+Play me a song from the fourties#PlayMusic#music_item=song--year=fourties--
+Play celtic music#PlayMusic#genre=celtic--
+play Moustapha Amar Make It Rain#PlayMusic#artist=Moustapha Amar--track=Make It Rain--
+I want to hear a top ten soundtrack from 1984 by Shinehead#PlayMusic#sort=top ten--music_item=soundtrack--year=1984--artist=Shinehead--
+Play the 1951 ballad#PlayMusic#year=1951--music_item=ballad--
+I want to hear Dave Seaman's ep#PlayMusic#artist=Dave Seaman--music_item=ep--
+Play music from artist Ashley#PlayMusic#artist=Ashley--
+play Miguelito top charting album#PlayMusic#artist=Miguelito--sort=top--music_item=album--
+I want to hear Papa Mali's songs from the fifties#PlayMusic#artist=Papa Mali--year=fifties--
+play some tango on iheart#PlayMusic#genre=tango--service=iheart--
+Play jazz music by Zvooq#PlayMusic#genre=jazz--service=Zvooq--
+play songs by Wise#PlayMusic#artist=Wise--
+Play music from the eighties on Slacker.#PlayMusic#year=eighties--service=Slacker--
+I want to hear Ready by Frankenstein Drag Queens From Planet 13#PlayMusic#album=Ready--artist=Frankenstein Drag Queens From Planet 13--
+Play a song from the seventies by Pepe Aguilar#PlayMusic#music_item=song--year=seventies--artist=Pepe Aguilar--
+Play something by Brian Chase.#PlayMusic#artist=Brian Chase--
+open Fadl Shaker on Spotify and play a melody starting with the newest#PlayMusic#artist=Fadl Shaker--service=Spotify--music_item=melody--sort=newest--
+Play a Scott Lafaro soundtrack#PlayMusic#artist=Scott Lafaro--music_item=soundtrack--
+play songs from the sixties#PlayMusic#year=sixties--
+Play a tune from Space Mandino.#PlayMusic#music_item=tune--artist=Space Mandino--
+Open Vimeo and paly every song released in 1986#PlayMusic#service=Vimeo--track=every--music_item=song--year=1986--
+Find me music by Kaori Utatsuki off the album that has top-twenty hits#PlayMusic#artist=Kaori Utatsuki--music_item=album--sort=top-twenty--
+Play my playlist TGIF on itunes#PlayMusic#playlist=TGIF--service=itunes--
+Play some thrash metal.#PlayMusic#genre=thrash metal--
+play a top-10 ballad from 1995#PlayMusic#sort=top-10--music_item=ballad--year=1995--
+Play ballad from Mandy Moore#PlayMusic#music_item=ballad--artist=Mandy Moore--
+Play movement music from Sheryfa Luna#PlayMusic#music_item=movement--artist=Sheryfa Luna--
+Play the artist Joe#PlayMusic#artist=Joe--
+play some Prabha Atre#PlayMusic#artist=Prabha Atre--
+Play ballad music by Jeff Lynne.#PlayMusic#music_item=ballad--artist=Jeff Lynne--
+Play me a 1957 ep#PlayMusic#year=1957--music_item=ep--
+Play Pease Porridge Hot by Johnny Vicious on Zvooq#PlayMusic#track=Pease Porridge Hot--artist=Johnny Vicious--service=Zvooq--
+play a 1994 tune by Lena Horne#PlayMusic#year=1994--music_item=tune--artist=Lena Horne--
+Play a tune by Houston on Spotify#PlayMusic#music_item=tune--artist=Houston--service=Spotify--
+Play a top fifty track from the twenties#PlayMusic#sort=top fifty--music_item=track--year=twenties--
+Play Sense Tu from Ebi Hamedi#PlayMusic#track=Sense Tu--artist=Ebi Hamedi--
+play a good John Maher record with Netflix#PlayMusic#sort=good--artist=John Maher--music_item=record--service=Netflix--
+use netflix to play Bizzy Bone Kiss Me Goodnight, Sergeant Major#PlayMusic#service=netflix--artist=Bizzy Bone--track=Kiss Me Goodnight, Sergeant Major--
+Play music from 1969 on lastfm .#PlayMusic#year=1969--service=lastfm--
+play something from 1981#PlayMusic#year=1981--
+play Heavy Machinery by Phil Spector on Zvooq#PlayMusic#album=Heavy Machinery--artist=Phil Spector--service=Zvooq--
+Play i believe from Chico Buarque off of iheart#PlayMusic#track=i believe--artist=Chico Buarque--service=iheart--
+Play some symphonic rock.#PlayMusic#genre=symphonic rock--
+Play some twenties chant music on Slacker#PlayMusic#year=twenties--music_item=chant--service=Slacker--
+Play some songs from the fifties#PlayMusic#year=fifties--
+Play a song by Electric Tones from their Kurutta TaiyÅ album on Last Fm#PlayMusic#music_item=song--artist=Electric Tones--album=Kurutta TaiyÅ--music_item=album--service=Last Fm--
+play some Bertine Zetlitz record#PlayMusic#artist=Bertine Zetlitz--music_item=record--
+Play my Hardstyle, Baby playlist on Netflix#PlayMusic#playlist=Hardstyle, Baby--service=Netflix--
+Play the top symphony music from Ejigayehu Shibabaw#PlayMusic#sort=top--music_item=symphony--artist=Ejigayehu Shibabaw--
+Open Itunes and play Heath music from 1981#PlayMusic#service=Itunes--artist=Heath--year=1981--
+I want to listen to a concerto from Timour Moutsouraev.#PlayMusic#music_item=concerto--artist=Timour Moutsouraev--
+Play me the dinner playlist#PlayMusic#playlist=dinner--
+play music by Shinji Miyazaki#PlayMusic#artist=Shinji Miyazaki--
+Play any music on Spotify#PlayMusic#service=Spotify--
+Play a record from the seventies#PlayMusic#music_item=record--year=seventies--
+open the Canciones del Recuerdo playlist and play songs#PlayMusic#playlist=Canciones del Recuerdo--
+Play the top-10 chant by Caetano Veloso on Pandora#PlayMusic#sort=top-10--music_item=chant--artist=Caetano Veloso--service=Pandora--
+Play Water Under The Bridge by Hariprasad Chaurasia.#PlayMusic#track=Water Under The Bridge--artist=Hariprasad Chaurasia--
+play Matt Uelmen songs from 1965 on Slacker#PlayMusic#artist=Matt Uelmen--year=1965--service=Slacker--
+I want to hear Shooby Taylor's Tearing Up The Album Charts.#PlayMusic#artist=Shooby Taylor--album=Tearing Up The Album Charts--
+Play Niko from the fourties#PlayMusic#artist=Niko--year=fourties--
+Play ClÃ¡sicos del Hip Hop EspaÃ±ol#PlayMusic#playlist=ClÃ¡sicos del Hip Hop EspaÃ±ol--
+Play Circus Farm by Deana Carter.#PlayMusic#track=Circus Farm--artist=Deana Carter--
+play some nineties music#PlayMusic#year=nineties--
+play music by Bryan Maclean#PlayMusic#artist=Bryan Maclean--
+Play POP GOES THE 80s.#PlayMusic#playlist=POP GOES THE 80s--
+Play music from 2015#PlayMusic#year=2015--
+Play music from 1964#PlayMusic#year=1964--
+Play me songs from agreable#PlayMusic#playlist=agreable--
+Play tune from Sonny Stitt#PlayMusic#music_item=tune--artist=Sonny Stitt--
+Play some 50 Shades of Love#PlayMusic#playlist=50 Shades of Love--
+Play some sixties music on Slacker.#PlayMusic#year=sixties--service=Slacker--
+Play Tomorrow#PlayMusic#track=Tomorrow--
+Can you play a sound track by Sissieretta Jones#PlayMusic#music_item=sound track--artist=Sissieretta Jones--
+Play me a nineties song by Joseph Genaro#PlayMusic#year=nineties--music_item=song--artist=Joseph Genaro--
+I want to hear Sarban's greatest hits#PlayMusic#artist=Sarban--sort=greatest--
+play ray davies on Iheart by only Hit It Again#PlayMusic#artist=ray davies--service=Iheart--track=Hit It Again--
+Play my 88 Keys playlist.#PlayMusic#playlist=88 Keys--
+Play some Rockwell from around 1996#PlayMusic#artist=Rockwell--year=1996--
+Play me a top 20 chant by Ruwanga Samath on Lastfm#PlayMusic#sort=top 20--music_item=chant--artist=Ruwanga Samath--service=Lastfm--
+play something from the twenties#PlayMusic#year=twenties--
+Play Ciribiribin by Sandeep Khare#PlayMusic#track=Ciribiribin--artist=Sandeep Khare--
+play some 1991 Dave Barker#PlayMusic#year=1991--artist=Dave Barker--
+Play Wynton Kelly music on Netflix sort by popular#PlayMusic#artist=Wynton Kelly--service=Netflix--sort=popular--
+Play bebob on Iheart#PlayMusic#genre=bebob--service=Iheart--
+Play the top 5 by Akira The Don.#PlayMusic#sort=top 5--artist=Akira The Don--
+play some rap on Pandora#PlayMusic#genre=rap--service=Pandora--
+Play a melody from Elmer Bernstein#PlayMusic#music_item=melody--artist=Elmer Bernstein--
+play The Necromancer#PlayMusic#track=The Necromancer--
+Can you play Under The Anheuser Bush by Pete Doherty#PlayMusic#track=Under The Anheuser Bush--artist=Pete Doherty--
+Play any song from 2001#PlayMusic#music_item=song--year=2001--
+I want to hear some music from Groove Shark#PlayMusic#service=Groove Shark--
+Play Sound Of Love from Papa Mali#PlayMusic#track=Sound Of Love--artist=Papa Mali--
+I wanna hear something on Spotify by Eddie Vinson#PlayMusic#service=Spotify--artist=Eddie Vinson--
+Play a twenties track by the aj carothers on Zvooq.#PlayMusic#year=twenties--music_item=track--artist=aj carothers--service=Zvooq--
+Play Magic Time by Phoebus#PlayMusic#album=Magic Time--artist=Phoebus--
+Play Johnny Gimble#PlayMusic#artist=Johnny Gimble--
+play music from 1981#PlayMusic#year=1981--
+play music on Netflix#PlayMusic#service=Netflix--
+Play a tune by Andrew Findon#PlayMusic#music_item=tune--artist=Andrew Findon--
+Play the playlist, A Mis NiÃ±os de 30.#PlayMusic#playlist=A Mis NiÃ±os de 30--
+Play some chanson music#PlayMusic#genre=chanson--
+Play a movement from 1974.#PlayMusic#music_item=movement--year=1974--
+Can you play Maggie Mae on Netflix#PlayMusic#track=Maggie Mae--service=Netflix--
+Play music by Young Steff#PlayMusic#artist=Young Steff--
+Play Barbra Streisand music from 1997.#PlayMusic#artist=Barbra Streisand--year=1997--
+Play greatest chant music from Beni Arashiro#PlayMusic#sort=greatest--music_item=chant--artist=Beni Arashiro--
+play Make The Cowboy Robots Cry by Sabin Rai on Vimeo#PlayMusic#album=Make The Cowboy Robots Cry--artist=Sabin Rai--service=Vimeo--
+Can you play me songs from the Estado de Ã¡nimo playlist?#PlayMusic#playlist=Estado de Ã¡nimo--
+Play music by Janet Paschal#PlayMusic#artist=Janet Paschal--
+Play Praise The Lord And Pass The Ammunition.#PlayMusic#track=Praise The Lord And Pass The Ammunition--
+Please play Short And Sweet by Teyana Taylor from my itunes.#PlayMusic#album=Short And Sweet--artist=Teyana Taylor--service=itunes--
+Play fourties music on Pandora.#PlayMusic#year=fourties--service=Pandora--
+Play music by Damien Rice#PlayMusic#artist=Damien Rice--
+Play some Rachel Stevens off of Itunes#PlayMusic#artist=Rachel Stevens--service=Itunes--
+Play music from the seventies for me. #PlayMusic#year=seventies--
+Play some Tony Grant.#PlayMusic#artist=Tony Grant--
+play Andy White#PlayMusic#artist=Andy White--
+Use Google Music to play a song#PlayMusic#service=Google Music--music_item=song--
+Play Spotify#PlayMusic#service=Spotify--
+Play music from 2007.#PlayMusic#year=2007--
+Play me a song from the sixties#PlayMusic#music_item=song--year=sixties--
+play Robin Trower Unravel#PlayMusic#artist=Robin Trower--track=Unravel--
+play the top twenty movement songs from Roberto Valverde#PlayMusic#sort=top twenty--music_item=movement--artist=Roberto Valverde--
+Play hanging in the balance by Nik Kershaw on Zvooq.#PlayMusic#album=hanging in the balance--artist=Nik Kershaw--service=Zvooq--
+Play the album Vibrations by Marion Elise Raven#PlayMusic#music_item=album--album=Vibrations--artist=Marion Elise Raven--
+play a track by Mila Islam from Deezer#PlayMusic#music_item=track--artist=Mila Islam--service=Deezer--
+play Jawad Ahmad#PlayMusic#artist=Jawad Ahmad--
+play fourties tunes by Bryan Webb on Groove Shark#PlayMusic#year=fourties--artist=Bryan Webb--service=Groove Shark--
+play Party Ben on Slacker#PlayMusic#artist=Party Ben--service=Slacker--
+Use Groove Shark to play music from the nineties#PlayMusic#service=Groove Shark--year=nineties--
+Play eighties music#PlayMusic#year=eighties--
+play my Madrugando playlist on Groove Shark#PlayMusic#playlist=Madrugando--service=Groove Shark--
+play Darude#PlayMusic#artist=Darude--
+Play Shinji Miyazaki's music on netflix#PlayMusic#artist=Shinji Miyazaki--service=netflix--
+Play 2gether by Jade Puget#PlayMusic#album=2gether--artist=Jade Puget--
+play Wow by Jon Theodore#PlayMusic#track=Wow--artist=Jon Theodore--
+play Doctor Fink if i could choose#PlayMusic#artist=Doctor Fink--track=if i could choose--
+Please open pandora for me#PlayMusic#service=pandora--
+Can I hear a tune from Vladimir Vysotski?#PlayMusic#music_item=tune--artist=Vladimir Vysotski--
+Please play Different Slanguages by Fred Labour.#PlayMusic#album=Different Slanguages--artist=Fred Labour--
+play music from the sixties#PlayMusic#year=sixties--
+I want to hear Somi's songs from the twenties#PlayMusic#artist=Somi--year=twenties--
+play Tom Jones album from the twenties#PlayMusic#artist=Tom Jones--music_item=album--year=twenties--
+play songs on Itunes#PlayMusic#service=Itunes--
+play a chant by Sonsee#PlayMusic#music_item=chant--artist=Sonsee--
+Play my Piano Ballads playlist.#PlayMusic#playlist=Piano Ballads--
+play the album a kiss before you go by Bt#PlayMusic#music_item=album--album=a kiss before you go--artist=Bt--
+Play the Instrumental Study on Vimeo.#PlayMusic#playlist=Instrumental Study--service=Vimeo--
+Play some salsa music.#PlayMusic#genre=salsa--
+Play top Rosanne Cash#PlayMusic#sort=top--artist=Rosanne Cash--
+play Slacker tunes#PlayMusic#service=Slacker--
+Play the most popular soundtrack by Elena Paparizou on youtube#PlayMusic#sort=most popular--music_item=soundtrack--artist=Elena Paparizou--service=youtube--
+Play Midnight Special#PlayMusic#track=Midnight Special--
+play pop music with Groove Shark#PlayMusic#genre=pop--service=Groove Shark--
+play Takes Place In Your Work Space by Eddie Kendricks#PlayMusic#album=Takes Place In Your Work Space--artist=Eddie Kendricks--
+Play eighties music by Kaira Kwong on Google Music#PlayMusic#year=eighties--artist=Kaira Kwong--service=Google Music--
+play 1970 trunes#PlayMusic#year=1970--
+Play breathtaking music#PlayMusic#playlist=breathtaking--
+Play a track from 1985.#PlayMusic#music_item=track--year=1985--
+Play shining down by Tsukiko Amano on pandora.#PlayMusic#track=shining down--artist=Tsukiko Amano--service=pandora--
+play Who Do You Think You Are by Magnifico with spotify#PlayMusic#track=Who Do You Think You Are--artist=Magnifico--service=spotify--
+Play tribal#PlayMusic#genre=tribal--
+Play Rain by Subliminal on Groove Shark#PlayMusic#track=Rain--artist=Subliminal--service=Groove Shark--
+Play ballad music from 1958#PlayMusic#music_item=ballad--year=1958--
+Repeat the track of music#PlayMusic#track=Repeat--music_item=track--
+Play the playlist introspective#PlayMusic#playlist=introspective--
+Please play a song from the thirties by Peter Murphy on Last Fm#PlayMusic#music_item=song--year=thirties--artist=Peter Murphy--service=Last Fm--
+Play Party Through The Decades on Deezer#PlayMusic#playlist=Party Through The Decades--service=Deezer--
+Play Martha My Dear by shannon.#PlayMusic#track=Martha My Dear--artist=shannon--
+play the greatest Adrian Kowanek music#PlayMusic#sort=greatest--artist=Adrian Kowanek--
+Can I hear a symphony from the seventies on Youtube?#PlayMusic#music_item=symphony--year=seventies--service=Youtube--
+I'd like to listen to Space music#PlayMusic#genre=Space--
+play the last Niney The Observer song#PlayMusic#sort=last--artist=Niney The Observer--music_item=song--
+Play a chant by Mj Cole#PlayMusic#music_item=chant--artist=Mj Cole--
+Play industrial music.#PlayMusic#genre=industrial--
+Play always by walter parazaider.#PlayMusic#track=always--artist=walter parazaider--
+Play thirties on Lastfm#PlayMusic#year=thirties--service=Lastfm--
+play music form the fourties with Slacker#PlayMusic#year=fourties--service=Slacker--
+Use pandora to play music from stano in the year 2005#PlayMusic#service=pandora--artist=stano--year=2005--
+Use Groove Shark to play Krizz Kaliko#PlayMusic#service=Groove Shark--artist=Krizz Kaliko--
+Play the music of Filipp Bedrossowitsch Kirkorow's theme#PlayMusic#artist=Filipp Bedrossowitsch Kirkorow--music_item=theme--
+Play Skin & Bone by Jess Stacy on Deezer#PlayMusic#album=Skin & Bone--artist=Jess Stacy--service=Deezer--
+Play me a seventies ep#PlayMusic#year=seventies--music_item=ep--
+play falco on Zvooq for Good Hit#PlayMusic#artist=falco--service=Zvooq--track=Good Hit--
+On Itunes play the latest Anna Yesipova ep#PlayMusic#service=Itunes--sort=latest--artist=Anna Yesipova--music_item=ep--
+Play music from the track She Came In Through The Bathroom Window#PlayMusic#music_item=track--track=She Came In Through The Bathroom Window--
+play some best selling rave songs#PlayMusic#sort=best--genre=rave--
+Play Change Has Come on Google Music.#PlayMusic#album=Change Has Come--service=Google Music--
+Play the newest stuff by blowfly#PlayMusic#sort=newest--artist=blowfly--
+Play the playlist spring#PlayMusic#playlist=spring--
+I want to hear something from the nineties by Alissa Musto on Groove Shark#PlayMusic#year=nineties--artist=Alissa Musto--service=Groove Shark--
+Play Trace Adkins' music from the thirties.#PlayMusic#artist=Trace Adkins--year=thirties--
+Play a soundtrack from 1954.#PlayMusic#music_item=soundtrack--year=1954--
+Can you play something from the fourties, preferably a symphony?#PlayMusic#year=fourties--music_item=symphony--
+play Clifford Brown All Stars by Michael Balzary#PlayMusic#album=Clifford Brown All Stars--artist=Michael Balzary--
+play Pandora Christian Gangsta Rap#PlayMusic#service=Pandora--genre=Christian Gangsta Rap--
+Play any chanson#PlayMusic#genre=chanson--
+Play a chant from the fifties#PlayMusic#music_item=chant--year=fifties--
+Play Leanne Dobinson Right To Dream#PlayMusic#artist=Leanne Dobinson--track=Right To Dream--
+play The Happiest Days Of Our Lives by Tommy Emmanuel#PlayMusic#track=The Happiest Days Of Our Lives--artist=Tommy Emmanuel--
+Please play This Is The Day by Brian Robertson.#PlayMusic#album=This Is The Day--artist=Brian Robertson--
+play Abhijeet Bhattacharya from 1986#PlayMusic#artist=Abhijeet Bhattacharya--year=1986--
+Play a new tune by louis silvers.#PlayMusic#sort=new--music_item=tune--artist=louis silvers--
+Play me a song by Steve Hackett from Manuel#PlayMusic#music_item=song--artist=Steve Hackett--album=Manuel--
+Play Portsmouth by Paul Smith on Google Music.#PlayMusic#track=Portsmouth--artist=Paul Smith--service=Google Music--
+Play Dj Drama from the 1976#PlayMusic#artist=Dj Drama--year=1976--
+play my tribute by Billy Cox#PlayMusic#track=my tribute--artist=Billy Cox--
+Play the playlist, Hardstyle, Baby.#PlayMusic#playlist=Hardstyle, Baby--
+Play me a sound track by Bert Mccracken on zvooq#PlayMusic#music_item=sound track--artist=Bert Mccracken--service=zvooq--
+Play some music from the fourties.#PlayMusic#year=fourties--
+Play music on Itunes.#PlayMusic#service=Itunes--
+I want to hear a Sandra ep#PlayMusic#artist=Sandra--music_item=ep--
+play theme by Yanni on Vimeo#PlayMusic#music_item=theme--artist=Yanni--service=Vimeo--
+play fourties tunes#PlayMusic#year=fourties--
+Play a 2004 song by eliel on Zvooq.#PlayMusic#year=2004--music_item=song--artist=eliel--service=Zvooq--
+Play some music on Vimeo#PlayMusic#service=Vimeo--
+Play the newest music by Gladys Knight#PlayMusic#sort=newest--artist=Gladys Knight--
+play Hora Din Moldova by Yamazaki Maso#PlayMusic#track=Hora Din Moldova--artist=Yamazaki Maso--
+play the album Winner Takes All by Takuro with Last Fm#PlayMusic#music_item=album--album=Winner Takes All--artist=Takuro--service=Last Fm--
+Play the best ballad by The Rascals.#PlayMusic#sort=best--music_item=ballad--artist=The Rascals--
+Play me the track Mama Liked The Roses#PlayMusic#music_item=track--track=Mama Liked The Roses--
+Play eighties#PlayMusic#year=eighties--
+Play a 2014 theme from Greg Pattillo#PlayMusic#year=2014--music_item=theme--artist=Greg Pattillo--
+Play some music from Roberto Carlos#PlayMusic#artist=Roberto Carlos--
+Play the concert from Philip Oakey 1973 concert on Netflix#PlayMusic#artist=Philip Oakey--year=1973--service=Netflix--
+Play some music from 1995#PlayMusic#year=1995--
+Play Kaori Mochida's most popular music on Google Music.#PlayMusic#artist=Kaori Mochida--sort=most popular--service=Google Music--
+Play A Chaos Of Desire from Dan Snaith#PlayMusic#album=A Chaos Of Desire--artist=Dan Snaith--
+Play music by Country Dick Montana.#PlayMusic#artist=Country Dick Montana--
+play chant from the nineties with Last Fm#PlayMusic#music_item=chant--year=nineties--service=Last Fm--
+Play a top 5 song from Wally Bastian on Google Music#PlayMusic#sort=top 5--music_item=song--artist=Wally Bastian--service=Google Music--
+Play White Noise.#PlayMusic#playlist=White Noise--
+Play ep from Quasimoto from the nineties#PlayMusic#music_item=ep--artist=Quasimoto--year=nineties--
+play a 1988 soundtrack#PlayMusic#year=1988--music_item=soundtrack--
+Play a popular sound track by Joe Pass on Itunes.#PlayMusic#sort=popular--music_item=sound track--artist=Joe Pass--service=Itunes--
+Play something from the jonathon lee movement#PlayMusic#artist=jonathon lee--music_item=movement--
+play James Moody ballad#PlayMusic#artist=James Moody--music_item=ballad--
+I want to listen to some music from 2003 on Pandora from them#PlayMusic#year=2003--service=Pandora--music_item=them--
+play a top 50  tune from the twenties by Willi Williams#PlayMusic#sort=top 50--music_item=tune--year=twenties--artist=Willi Williams--
+play fifties track music#PlayMusic#year=fifties--music_item=track--
+Play theme music from 2011.#PlayMusic#music_item=theme--year=2011--
+play music by Billy Powell#PlayMusic#artist=Billy Powell--
+Play One Good Reason by Tommy Flanagan on Itunes#PlayMusic#track=One Good Reason--artist=Tommy Flanagan--service=Itunes--
+Play some fun-punk#PlayMusic#genre=fun-punk--
+Play me a song by Dj Paul Elstak in 1988 on Zvooq#PlayMusic#music_item=song--artist=Dj Paul Elstak--year=1988--service=Zvooq--
+Play Hasan Saltik from 2004#PlayMusic#artist=Hasan Saltik--year=2004--
+I want to hear popular music from Martin Lopez#PlayMusic#sort=popular--artist=Martin Lopez--
+Play A Sudden Rainstorm playlist.#PlayMusic#playlist=A Sudden Rainstorm--
+play wendy james from the fifties#PlayMusic#artist=wendy james--year=fifties--
+Use Itunes to play music#PlayMusic#service=Itunes--
+Play a Paul Davis melody#PlayMusic#artist=Paul Davis--music_item=melody--
+Play Lorenzo Palacios Quispe#PlayMusic#artist=Lorenzo Palacios Quispe--
+Put on Vimeo and play Kacapi Suling#PlayMusic#service=Vimeo--genre=Kacapi Suling--
+play a soundtrack by Sarah Geronimo on google music#PlayMusic#music_item=soundtrack--artist=Sarah Geronimo--service=google music--
+Play me a song from 1976 by Bennie Moten#PlayMusic#music_item=song--year=1976--artist=Bennie Moten--
+I want to hear eighties music by Noko on deezer.#PlayMusic#year=eighties--artist=Noko--service=deezer--
+Play some Glenn Miller.#PlayMusic#artist=Glenn Miller--
+Can I hear a song by David Hodges?#PlayMusic#music_item=song--artist=David Hodges--
+Play The New Retro playlist on Netflix.#PlayMusic#playlist=The New Retro--service=Netflix--
+Play some P. J. Proby#PlayMusic#artist=P. J. Proby--
+Play soundtrack by Armand Van Helden#PlayMusic#music_item=soundtrack--artist=Armand Van Helden--
+Play The Lamentation Of Cloris#PlayMusic#track=The Lamentation Of Cloris--
+I want to hear the new Latin Pop Rising list#PlayMusic#playlist=Latin Pop Rising--
+Please play some music from the seventies movement#PlayMusic#year=seventies--music_item=movement--
+play Signe Anderson chant music that is newest#PlayMusic#artist=Signe Anderson--music_item=chant--sort=newest--
+play Richard Thompson from the thirties song book#PlayMusic#artist=Richard Thompson--year=thirties--music_item=song--
+Play funtime activity#PlayMusic#playlist=funtime activity--
+Play me a song from Luxury Liner#PlayMusic#music_item=song--album=Luxury Liner--
+I want to hear De Eerste Keer from Paul Caiafa  off of Google Music#PlayMusic#track=De Eerste Keer--artist=Paul Caiafa--service=Google Music--
+Play a sixties song.#PlayMusic#year=sixties--music_item=song--
+I want to hear some twenties music off of Deezer#PlayMusic#year=twenties--service=Deezer--
+Play some movement from 1959 on deezer.#PlayMusic#music_item=movement--year=1959--service=deezer--
+play songs by Queen#PlayMusic#playlist=Queen--
+Please play good music by Will Oldham.#PlayMusic#sort=good--artist=Will Oldham--
+Play a song from the thirties on Zvooq#PlayMusic#music_item=song--year=thirties--service=Zvooq--
+play Vanlose Stairway by Janove Ottesen#PlayMusic#track=Vanlose Stairway--artist=Janove Ottesen--
+Play me the last 1980 record by Brenda Kahn#PlayMusic#sort=last--year=1980--music_item=record--artist=Brenda Kahn--
+Play music from the top-5 from artist Kenia Arias#PlayMusic#sort=top-5--artist=Kenia Arias--
+Lets hear some 2009 music#PlayMusic#year=2009--
+Play some bass music.#PlayMusic#genre=bass--
+Play Furusato on Google Music.#PlayMusic#track=Furusato--service=Google Music--
+Play Party Anthems#PlayMusic#playlist=Party Anthems--
+use Iheart radio to play eighties music from Hugh Masekela.#PlayMusic#service=Iheart--year=eighties--artist=Hugh Masekela--
+Play a symphony from Bob Hardy please#PlayMusic#music_item=symphony--artist=Bob Hardy--
+Play some eighties music.#PlayMusic#year=eighties--
+Play a 1964 track from Shahram Nazeri on Pandora.#PlayMusic#year=1964--music_item=track--artist=Shahram Nazeri--service=Pandora--
+Sort to the last song on playlist from 1983 a chant by Mark Oliver Everett#PlayMusic#sort=last--music_item=song--year=1983--music_item=chant--artist=Mark Oliver Everett--
+Play a new symphony by Perfecto De Castro on Lastfm#PlayMusic#sort=new--music_item=symphony--artist=Perfecto De Castro--service=Lastfm--
+Play some music from the thirties.#PlayMusic#year=thirties--
+Play some Matthew Sweet music from around 1996 on Spotify#PlayMusic#artist=Matthew Sweet--year=1996--service=Spotify--
+open lastfm  play top hits of Simon Webbe#PlayMusic#service=lastfm--sort=top--artist=Simon Webbe--
+play 1981 music on Last Fm#PlayMusic#year=1981--service=Last Fm--
+Play a track from 1959.#PlayMusic#music_item=track--year=1959--
+Play chant music by Big Dee Irwin.#PlayMusic#music_item=chant--artist=Big Dee Irwin--
+Play me Gil Parris's A Cup Of Coffee, A Sandwich And You#PlayMusic#artist=Gil Parris--track=A Cup Of Coffee, A Sandwich And You--
+Play Pura Vida.#PlayMusic#playlist=Pura Vida--
+Play a top fifty ballad by Linda Strawberry on Google Music#PlayMusic#sort=top fifty--music_item=ballad--artist=Linda Strawberry--service=Google Music--
+use Spotify to play greatest songs from Kailash Kher#PlayMusic#service=Spotify--sort=greatest--artist=Kailash Kher--
+Play the newest melody by Cisco Adler on pandora#PlayMusic#sort=newest--music_item=melody--artist=Cisco Adler--service=pandora--
+Use service Vimeo to play music from the artist Mick track Now We Are 5#PlayMusic#service=Vimeo--artist=Mick--music_item=track--album=Now We Are 5--
+Open Youtube and play Renaldo Lapuz record from the eighties#PlayMusic#service=Youtube--artist=Renaldo Lapuz--music_item=record--year=eighties--
+play some good amber gristak on Lastfm#PlayMusic#sort=good--artist=amber gristak--service=Lastfm--
+play some synthpop#PlayMusic#genre=synthpop--
+Play music from my relentless playlist#PlayMusic#playlist=relentless--
+Plpay my Disco Fever playlist.#PlayMusic#playlist=Disco Fever--
+play valerij kipelov on Vimeo#PlayMusic#artist=valerij kipelov--service=Vimeo--
+Can you play The Change Is Made on Netflix#PlayMusic#track=The Change Is Made--service=Netflix--
+Play some Robbie Merrill.#PlayMusic#artist=Robbie Merrill--
+Play me a song from the twenties by Randy Bachman#PlayMusic#music_item=song--year=twenties--artist=Randy Bachman--
+I need to hear some r&b music off of iheart#PlayMusic#genre=r&b--service=iheart--
+Play some dance music.#PlayMusic#playlist=dance--
+Play new music from Liang Wern Fook#PlayMusic#sort=new--artist=Liang Wern Fook--
+listen to Pmd symphony#PlayMusic#artist=Pmd--music_item=symphony--
+play By The Sleepy Lagoon by Greg Kurstin#PlayMusic#track=By The Sleepy Lagoon--artist=Greg Kurstin--
+I want to listen to some Saori Atsumi from the twenties on Deezer#PlayMusic#artist=Saori Atsumi--year=twenties--service=Deezer--
+Play some gangsta music#PlayMusic#genre=gangsta--
+Play The Eternal by Juju Mob on Vimeo.#PlayMusic#album=The Eternal--artist=Juju Mob--service=Vimeo--
+Play me a Mario Vazquez movement#PlayMusic#artist=Mario Vazquez--music_item=movement--
+Play music on Lastfm#PlayMusic#service=Lastfm--
+Play Eve#PlayMusic#artist=Eve--
+Play music from 2011.#PlayMusic#year=2011--
+Play some Psychedelic Rock.#PlayMusic#genre=Psychedelic Rock--
+play Top 100 Indie Tracks on Spotify on Lastfm#PlayMusic#playlist=Top 100 Indie Tracks on Spotify--service=Lastfm--
+play an eighties track #PlayMusic#year=eighties--music_item=track--
+Can you play me some eighties music by Adele#PlayMusic#year=eighties--artist=Adele--
+Play Oliver Cheatham's symphony from the thirties.#PlayMusic#artist=Oliver Cheatham--music_item=symphony--year=thirties--
+Play chant music by Ira Losco on Iheart.#PlayMusic#music_item=chant--artist=Ira Losco--service=Iheart--
+Play me the most popular Lillian Hardin song on Itunes#PlayMusic#sort=most popular--artist=Lillian Hardin--music_item=song--service=Itunes--
+Play the red room sessions from chris cunningham#PlayMusic#album=the red room sessions--artist=chris cunningham--
+Can i use Lastfm to listen to Twilight Time by Dj Khalil?#PlayMusic#service=Lastfm--track=Twilight Time--artist=Dj Khalil--
+I want to listen to Roger Daltrey from the sixties on slacker#PlayMusic#artist=Roger Daltrey--year=sixties--service=slacker--
+Play music from Tommy Ridgley.#PlayMusic#artist=Tommy Ridgley--
+play All Of Your Toys by Chris Ledoux#PlayMusic#track=All Of Your Toys--artist=Chris Ledoux--
+Play music by Fidel Nadal sorted by newest.#PlayMusic#artist=Fidel Nadal--sort=newest--
+Play Shaina Magdayao's music on Iheart#PlayMusic#artist=Shaina Magdayao--service=Iheart--
+I need to hear a thirties soundtrack#PlayMusic#year=thirties--music_item=soundtrack--
+Play Dave Wyndorf album#PlayMusic#artist=Dave Wyndorf--music_item=album--
+Play me a song by Linn Berggren from Spotify#PlayMusic#music_item=song--artist=Linn Berggren--service=Spotify--
+Play me something by Funtwo#PlayMusic#artist=Funtwo--
+Play some The Lady Is A Tramp from Timour Moutsouraev#PlayMusic#track=The Lady Is A Tramp--artist=Timour Moutsouraev--
+play pandora tracks by Akhtar Sadmani#PlayMusic#service=pandora--music_item=tracks--artist=Akhtar Sadmani--
+Please play some music from 1996#PlayMusic#year=1996--
+Use the service Lastfm to play music by the artist ai kago#PlayMusic#service=Lastfm--artist=ai kago--
+Can you play a song by Ken#PlayMusic#music_item=song--artist=Ken--
+Play music using Last Fm#PlayMusic#service=Last Fm--
+play some Kyle Ward from the seventies#PlayMusic#artist=Kyle Ward--year=seventies--
+Play Bald by Kaskade.#PlayMusic#track=Bald--artist=Kaskade--
+Play me some music on Deezer#PlayMusic#service=Deezer--
+Play my Futuros Hits playlist on Spotify.#PlayMusic#playlist=Futuros Hits--service=Spotify--
+Play Strength of Street Knowledge on Groove Shark#PlayMusic#playlist=Strength of Street Knowledge--service=Groove Shark--
+Use Pandora to play Korean OSTs#PlayMusic#service=Pandora--playlist=Korean OSTs--
+Play some Gospel music.#PlayMusic#genre=Gospel--
+Play satire#PlayMusic#genre=satire--
+Play the top 20 ep from the fifties by John Bundrick.#PlayMusic#sort=top 20--music_item=ep--year=fifties--artist=John Bundrick--
+Play Alfredo Zitarrosa on spotify.#PlayMusic#artist=Alfredo Zitarrosa--service=spotify--
+Play me some Terror music#PlayMusic#genre=Terror--
+Play music from 2010 by Jason Donovan#PlayMusic#year=2010--artist=Jason Donovan--
+Play me something on Last Fm#PlayMusic#service=Last Fm--
+Play Giovanni Battista Guadagnini's 1982 tracks.#PlayMusic#artist=Giovanni Battista Guadagnini--year=1982--playlist=tracks--
+Play some Rumba Africana.#PlayMusic#genre=Rumba Africana--
+Play Greg Raposo songs from the thirties#PlayMusic#artist=Greg Raposo--year=thirties--
+Play a top-five song by Pete Candoli.#PlayMusic#sort=top-five--music_item=song--artist=Pete Candoli--
+Play Iheart#PlayMusic#service=Iheart--
+Play the symphony by Tetsuya Ogawa from 1953#PlayMusic#music_item=symphony--artist=Tetsuya Ogawa--year=1953--
+Can you play me some Pop-folk music#PlayMusic#genre=Pop-folk--
+Play that new song from 1970#PlayMusic#sort=new--music_item=song--year=1970--
+Play some space music on Google Music#PlayMusic#genre=space--service=Google Music--
+Play a song by Juanes on Last Fm#PlayMusic#music_item=song--artist=Juanes--service=Last Fm--
+Play Salmonella Dub Dvd by mario rubalcaba on Vimeo #PlayMusic#album=Salmonella Dub Dvd--artist=mario rubalcaba--service=Vimeo--
+Play some music from 1958 on Deezer.#PlayMusic#year=1958--service=Deezer--
+I want to hear some of David Gilmour's music from 1973#PlayMusic#artist=David Gilmour--year=1973--
+Play music from the playlist Late Night Jazz#PlayMusic#playlist=Late Night Jazz--
+Play the song Victim Of Changes from Hawkshaw Hawkins on Spotify#PlayMusic#music_item=song--track=Victim Of Changes--artist=Hawkshaw Hawkins--service=Spotify--
+Play the music from the playlist Get Lit#PlayMusic#playlist=Get Lit--
+play Bra Vibrationer by Dean#PlayMusic#track=Bra Vibrationer--artist=Dean--
+Play music from the playlist Get Your Mind Right#PlayMusic#playlist=Get Your Mind Right--
+Play Talking To The Universe on Itunes#PlayMusic#track=Talking To The Universe--service=Itunes--
+I want to hear the album Insult To Injury by Narayana Tirtha.#PlayMusic#music_item=album--album=Insult To Injury--artist=Narayana Tirtha--
+play latest Shaggy music#PlayMusic#sort=latest--artist=Shaggy--
+Play Slacker radio.#PlayMusic#service=Slacker--
+Will you play a ballad from Mahalaxmi Iyer#PlayMusic#music_item=ballad--artist=Mahalaxmi Iyer--
+use Spotify to play Nina Persson from 1962#PlayMusic#service=Spotify--artist=Nina Persson--year=1962--
+I want toi hear some Pop Punk Perfection í ¼í½ off of Deezer#PlayMusic#playlist=Pop Punk Perfection í ¼í½--service=Deezer--
+Start up my Independent Music Monday playlist.#PlayMusic#playlist=Independent Music Monday--
+Play That Would Be Something by Eden Ahbez#PlayMusic#track=That Would Be Something--artist=Eden Ahbez--
+Please play Every Woman In Me#PlayMusic#album=Every Woman In Me--
+Play some Ven A Mi#PlayMusic#album=Ven A Mi--
+Please play some fourties music on Spotify#PlayMusic#year=fourties--service=Spotify--
+Play Dj Cameo on itunes.#PlayMusic#artist=Dj Cameo--service=itunes--
+play some gotye#PlayMusic#artist=gotye--
+play This Is Colour by Panda Bear#PlayMusic#track=This Is Colour--artist=Panda Bear--
+Play songs by Cheryl Wheeler#PlayMusic#artist=Cheryl Wheeler--
+Play the most popular song from Chae Yeon off of Spotify#PlayMusic#sort=most popular--music_item=song--artist=Chae Yeon--service=Spotify--
+Please play me something by New Wave Of American Heavy Metal#PlayMusic#genre=New Wave Of American Heavy Metal--
+Play Deezer#PlayMusic#service=Deezer--
+Play me the best Charles Neidich song#PlayMusic#sort=best--artist=Charles Neidich--music_item=song--
+I want to hear the sound track to Mary Macgregor new songs on Iheart#PlayMusic#music_item=sound track--artist=Mary Macgregor--service=Iheart--
+Play music on the playlist Electronic Gaming#PlayMusic#playlist=Electronic Gaming--
+I want to hear some Bill Black chant music#PlayMusic#artist=Bill Black--music_item=chant--
+Play some thirties music on Netflix.#PlayMusic#year=thirties--service=Netflix--
+play some eighties by Amirbai Karnataki#PlayMusic#year=eighties--artist=Amirbai Karnataki--
+Open Youtube and play Connie Francis Sings Spanish And Latin American Favorites from Yukiko Iwai#PlayMusic#service=Youtube--album=Connie Francis Sings Spanish And Latin American Favorites--artist=Yukiko Iwai--
+Play the Ricky Wilson album Spectral Dusk#PlayMusic#artist=Ricky Wilson--music_item=album--album=Spectral Dusk--
+Play Red Barchetta by Blind Lemon Jefferson.#PlayMusic#track=Red Barchetta--artist=Blind Lemon Jefferson--
+Play the track R U Professional by Roberto Carlos Braga#PlayMusic#music_item=track--track=R U Professional--artist=Roberto Carlos Braga--
+play drive playlist#PlayMusic#playlist=drive--
+Play Regulateâ¦g Funk Era by artist Iouri Bachmet on groove shark#PlayMusic#album=Regulateâ¦g Funk Era--artist=Iouri Bachmet--service=groove shark--
+play music from Itunes for Ric Grech#PlayMusic#service=Itunes--artist=Ric Grech--
+Play some music on Lastfm.#PlayMusic#service=Lastfm--
+Play The Fool On The Hill by Khwaja Ghulam Farid#PlayMusic#track=The Fool On The Hill--artist=Khwaja Ghulam Farid--
+Play the best songs of 2016#PlayMusic#sort=best--year=2016--
+Play something by Chris Knight#PlayMusic#artist=Chris Knight--
+Wish to hear a concerto by Diplo from 1952#PlayMusic#music_item=concerto--artist=Diplo--year=1952--
+play songs from Youtube#PlayMusic#service=Youtube--
+Play an album from the fourties, new first.#PlayMusic#music_item=album--year=fourties--sort=new--
+Play Chantal Kreviazuk, Sister Ray#PlayMusic#artist=Chantal Kreviazuk--track=Sister Ray--
+play Isaac Hayes on Pandora from love, sweat and beer ep#PlayMusic#artist=Isaac Hayes--service=Pandora--album=love, sweat and beer ep--
+play Only Hope by Graham Bonnet#PlayMusic#track=Only Hope--artist=Graham Bonnet--
+Play some Avantgarde music on Netflix.#PlayMusic#genre=Avantgarde--service=Netflix--
+Play gothic music#PlayMusic#genre=gothic--
+I want to hear Song For Adam#PlayMusic#track=Song For Adam--
+Play the playlist Feel Good Dinner.#PlayMusic#playlist=Feel Good Dinner--
+Play the top track by Claudja Barry on Last Fm#PlayMusic#sort=top--music_item=track--artist=Claudja Barry--service=Last Fm--
+Play some Iris Dement's theme based 2015 music on lastfm #PlayMusic#artist=Iris Dement--music_item=theme--year=2015--service=lastfm--
+Play the latest ballad by September#PlayMusic#sort=latest--music_item=ballad--artist=September--
+Play fifties music#PlayMusic#year=fifties--
+play songs by Sarah Harding#PlayMusic#artist=Sarah Harding--
+Play Maggot Brain by Albano Carrisi#PlayMusic#track=Maggot Brain--artist=Albano Carrisi--
+Play a Jack Lawrence concerto#PlayMusic#artist=Jack Lawrence--music_item=concerto--
+I want to hear the top Tim Madison#PlayMusic#sort=top--artist=Tim Madison--
+Play the 1991 soundtrack from Ian Mcdonald#PlayMusic#year=1991--music_item=soundtrack--artist=Ian Mcdonald--
+Play the best songs by Jes Brieden#PlayMusic#sort=best--artist=Jes Brieden--
+Play me a song by Kevin Cadogan#PlayMusic#music_item=song--artist=Kevin Cadogan--
+Play something from my Songs For You, Not Your Parents playlist#PlayMusic#playlist=Songs For You, Not Your Parents--
+Play Making Out by Alexander Rosenbaum off Google Music.#PlayMusic#track=Making Out--artist=Alexander Rosenbaum--service=Google Music--
+Play Rocket Queen on Itunes#PlayMusic#track=Rocket Queen--service=Itunes--
+Please play a song by Everlast#PlayMusic#music_item=song--artist=Everlast--
+Play me some chant from the last half of the sixties#PlayMusic#music_item=chant--sort=last--year=sixties--
+Play music by Paul Mccartney#PlayMusic#artist=Paul Mccartney--
+Play some Krzysztof Penderecki on Last Fm#PlayMusic#artist=Krzysztof Penderecki--service=Last Fm--
+Play easy listening#PlayMusic#genre=easy listening--
+play Robert Stoddard from 1988#PlayMusic#artist=Robert Stoddard--year=1988--
+Play Gloria on last fm#PlayMusic#artist=Gloria--service=last fm--
+play some movement by Dj Spinna#PlayMusic#music_item=movement--artist=Dj Spinna--
+play Lily, Rosemary And The Jack Of Hearts by Chris Goss#PlayMusic#track=Lily, Rosemary And The Jack Of Hearts--artist=Chris Goss--
+play Zvooq latest track by Peter Appleyard#PlayMusic#service=Zvooq--sort=latest--music_item=track--artist=Peter Appleyard--
+Play Brenda Kahn's Rushall Station.#PlayMusic#artist=Brenda Kahn--album=Rushall Station--
+play the top five songs by Isaac Hayes#PlayMusic#sort=top five--artist=Isaac Hayes--
+Play some music from the thirties.#PlayMusic#year=thirties--
+Play 2011 music #PlayMusic#year=2011--
+I want to hear Sebastian's songs from the thirties on Youtube#PlayMusic#artist=Sebastian--year=thirties--service=Youtube--
+Play top 20 from frank farian#PlayMusic#sort=top 20--artist=frank farian--
+Play some music using slacker#PlayMusic#service=slacker--
+Play some psychadelic music.#PlayMusic#genre=psychadelic--
+Play some Geir Jenssen.#PlayMusic#artist=Geir Jenssen--
+Start playing my Disney playlist.#PlayMusic#playlist=Disney--
+I want to hear a Gucci Mane song from Last Fm from 2002#PlayMusic#artist=Gucci Mane--music_item=song--service=Last Fm--year=2002--
+Play me a 2003 song by Charles Neidich#PlayMusic#year=2003--music_item=song--artist=Charles Neidich--
+I want to hear some songs from the twenties#PlayMusic#year=twenties--
+I'd like to hear chant songs from nineties#PlayMusic#music_item=chant--year=nineties--
+Can you play the newest record from 1966 by Tony Lee#PlayMusic#sort=newest--music_item=record--year=1966--artist=Tony Lee--
+Please play Kabhi Jo Baadal Barse by Ruth Lorenzo#PlayMusic#track=Kabhi Jo Baadal Barse--artist=Ruth Lorenzo--
+Play a record from 2015#PlayMusic#music_item=record--year=2015--
+Use the service Zvooq to play top-10 by artist Coolio#PlayMusic#service=Zvooq--sort=top-10--artist=Coolio--
+Play thirties symphony music from Nigga on Iheart#PlayMusic#year=thirties--music_item=symphony--artist=Nigga--service=Iheart--
+play a sound track by Tom Thacker#PlayMusic#music_item=sound track--artist=Tom Thacker--
+Play some Laurie Anderson.#PlayMusic#artist=Laurie Anderson--
+Open Last Fm and play the top song from Daniel Lee Chee Hun
+#PlayMusic#service=Last Fm--sort=top--music_item=song--artist=Daniel Lee Chee Hun--
+play some twenties music on Iheart#PlayMusic#year=twenties--service=Iheart--
+Play popular eighties record#PlayMusic#sort=popular--year=eighties--music_item=record--
+Play the track Grow Old With Me by artist Chloe Rose Lattanzi#PlayMusic#music_item=track--track=Grow Old With Me--artist=Chloe Rose Lattanzi--
+on Deezer play fourties tunes by Jona Bechtolt and a ballad#PlayMusic#service=Deezer--year=fourties--artist=Jona Bechtolt--music_item=ballad--
+play Kings Of The Wild Frontier by Andrea Bocelli#PlayMusic#album=Kings Of The Wild Frontier--artist=Andrea Bocelli--
+Play an album from 1987.#PlayMusic#music_item=album--year=1987--
+Play music from 1960#PlayMusic#year=1960--
+Play a movement from the nineties#PlayMusic#music_item=movement--year=nineties--
+Play Bob Hilliard top-twenty music#PlayMusic#artist=Bob Hilliard--sort=top-twenty--
+Play a seventies soundtrack by steve walsh on Groove Shark#PlayMusic#year=seventies--music_item=soundtrack--artist=steve walsh--service=Groove Shark--
+Use Deezer service to play Opera #PlayMusic#service=Deezer--genre=Opera--
+play Zvooq#PlayMusic#service=Zvooq--
+I want to hear Techno-industrial music.#PlayMusic#genre=Techno-industrial--
+play the top song by Amon Amarth on Groove Shark#PlayMusic#sort=top--music_item=song--artist=Amon Amarth--service=Groove Shark--
+Play Julie Driscoll#PlayMusic#artist=Julie Driscoll--
+play something from the twenties#PlayMusic#year=twenties--
+Play The View From The Afternoon by Malese Jow on Last Fm#PlayMusic#track=The View From The Afternoon--artist=Malese Jow--service=Last Fm--
+play songs by Sammy Fain#PlayMusic#artist=Sammy Fain--
+Play music from the year 1964#PlayMusic#year=1964--
+Play the heinz strobl ep from 2016 on Groove Shark#PlayMusic#artist=heinz strobl--music_item=ep--year=2016--service=Groove Shark--
+Play me Leonid Soybelman on Vimeo.#PlayMusic#artist=Leonid Soybelman--service=Vimeo--
+Play a song from my workout playlist on Groove Shark#PlayMusic#music_item=song--playlist=workout--service=Groove Shark--
+play some Alte Kameraden music#PlayMusic#track=Alte Kameraden--
+Play the music Hands Up#PlayMusic#playlist=Hands Up--
+Play some twenties theme music on Google Music.#PlayMusic#year=twenties--music_item=theme--service=Google Music--
+Play a fifties album on Itunes.#PlayMusic#year=fifties--music_item=album--service=Itunes--
+Play genre opera#PlayMusic#genre=opera--
+Play shadowplay by Dana on Deezer.#PlayMusic#track=shadowplay--artist=Dana--service=Deezer--
+Play music on Deezer by Imogen Heap#PlayMusic#service=Deezer--artist=Imogen Heap--
+Find a top fifty zahir howaida concerto from the seventies#PlayMusic#sort=top fifty--artist=zahir howaida--music_item=concerto--year=seventies--
+Play the newest twenties melody.#PlayMusic#sort=newest--year=twenties--music_item=melody--
+I want to hear Box Of Rain by Skeets Mcdonald#PlayMusic#track=Box Of Rain--artist=Skeets Mcdonald--
+Please play Casino Boogie#PlayMusic#track=Casino Boogie--
+I want to hear a full album on youtube by Jem Godfrey#PlayMusic#track=full--music_item=album--service=youtube--artist=Jem Godfrey--
+Play an Asha Bhosle song from around 1964#PlayMusic#artist=Asha Bhosle--music_item=song--year=1964--
+Play music from the twenties.#PlayMusic#year=twenties--
+Play something by Louisiana Blues#PlayMusic#genre=Louisiana Blues--
+Play new Ian Mclagan#PlayMusic#sort=new--artist=Ian Mclagan--
+Play music on Itunes#PlayMusic#service=Itunes--
+I want to hear Ding Dong Bell on groove shark#PlayMusic#track=Ding Dong Bell--service=groove shark--
+Play fifties music on Slacker.#PlayMusic#year=fifties--service=Slacker--
+Play Before I Grew Up To Love You by Wafah Dufour#PlayMusic#track=Before I Grew Up To Love You--artist=Wafah Dufour--
+Play a Jim Mullen ep from the sixties#PlayMusic#artist=Jim Mullen--music_item=ep--year=sixties--
+Play some good music from 2012.#PlayMusic#sort=good--year=2012--
+Play the greatest soundtrack by Nhat Son on Last Fm.#PlayMusic#sort=greatest--music_item=soundtrack--artist=Nhat Son--service=Last Fm--
+Play the top hits of 2016#PlayMusic#sort=top--year=2016--
+Play Fight On, State.#PlayMusic#track=Fight On, State--
+Use Pandora to play music from Maki Onaga from the album made in the nineties#PlayMusic#service=Pandora--artist=Maki Onaga--music_item=album--year=nineties--
+Play the top five Cemil Bey songs#PlayMusic#sort=top five--artist=Cemil Bey--
+Play opera music on google music#PlayMusic#genre=opera--service=google music--
+play music by Francis Healy#PlayMusic#artist=Francis Healy--
+play a track from the thirties#PlayMusic#music_item=track--year=thirties--
+Play music on Spotify.#PlayMusic#service=Spotify--
+play newest soundtrack from 2008#PlayMusic#sort=newest--music_item=soundtrack--year=2008--
+play Itunes  songs by Gerard Way#PlayMusic#service=Itunes--artist=Gerard Way--
+Play Cherry Pink by Trapp Mendoza on Iheart#PlayMusic#track=Cherry Pink--artist=Trapp Mendoza--service=Iheart--
+Play Rei Momo newest album#PlayMusic#album=Rei Momo--sort=newest--music_item=album--
+I want to hear a track by Ryohei Yamamoto on Vimeo#PlayMusic#music_item=track--artist=Ryohei Yamamoto--service=Vimeo--
+Start up my nostalgic playlist. #PlayMusic#playlist=nostalgic--
+play some papoose from 2003 on youtube#PlayMusic#artist=papoose--year=2003--service=youtube--
+Use Deezer to play music by Kimberley Walsh#PlayMusic#service=Deezer--artist=Kimberley Walsh--
+Play Punk Rock music#PlayMusic#genre=Punk Rock--
+Play something by Louis Nelson Delisle.#PlayMusic#artist=Louis Nelson Delisle--
+play 1962 music on Netflix#PlayMusic#year=1962--service=Netflix--
+Play a song by David Silveria from 2002 on Zvooq.#PlayMusic#music_item=song--artist=David Silveria--year=2002--service=Zvooq--
+play the 2014 album from la lupe#PlayMusic#year=2014--music_item=album--artist=la lupe--
+Play Revival music.#PlayMusic#genre=Revival--
+I want to hear opera on Netflix#PlayMusic#genre=opera--service=Netflix--
+play the song Si No Te Hubiera Conocido by Haidar Salim#PlayMusic#music_item=song--track=Si No Te Hubiera Conocido--artist=Haidar Salim--
+Start up my Pachangueo Total playlist. #PlayMusic#playlist=Pachangueo Total--
+Open the playlist from Sergei Chatschatrjan#PlayMusic#artist=Sergei Chatschatrjan--
+open Itunes and play Kenny Cox most popular concerto#PlayMusic#service=Itunes--artist=Kenny Cox--sort=most popular--music_item=concerto--
+play the Gary Chaw album#PlayMusic#artist=Gary Chaw--music_item=album--
+Play me some grunge music#PlayMusic#genre=grunge--
+Play Chris Goss on Netflix#PlayMusic#artist=Chris Goss--service=Netflix--
+Play The Garden Of Allah  from Wade Mainer#PlayMusic#track=The Garden Of Allah--artist=Wade Mainer--
+Play Alles Heeft Ritme by Liu Tianhua.#PlayMusic#track=Alles Heeft Ritme--artist=Liu Tianhua--
+Play the best Vanessa Peters songs#PlayMusic#sort=best--artist=Vanessa Peters--
+Play That Stubborn Kinda Fellow by Michael Amott#PlayMusic#album=That Stubborn Kinda Fellow--artist=Michael Amott--
+play a 1983 concerto by Ayaka on Itunes#PlayMusic#year=1983--music_item=concerto--artist=Ayaka--service=Itunes--
+I want to hear Dido from 1966 on Youtube#PlayMusic#artist=Dido--year=1966--service=Youtube--
+Play Andy Williams Sings Rodgers And Hammerstein by elica todorova#PlayMusic#album=Andy Williams Sings Rodgers And Hammerstein--artist=elica todorova--
+Play Tujiko Noriko's Ten Years And Running.#PlayMusic#artist=Tujiko Noriko--album=Ten Years And Running--
+Open google music and play Women of Jazz playlist#PlayMusic#service=google music--playlist=Women of Jazz--
+Play christian gangsta rap#PlayMusic#genre=christian gangsta rap--
+Play Donald Rubinstein on Pandora#PlayMusic#artist=Donald Rubinstein--service=Pandora--
+Play Shinya Yamada music from 1962 on Groove Shark #PlayMusic#artist=Shinya Yamada--year=1962--service=Groove Shark--
+play the greatest Vimeo tunes by angelo amorevoli on soundtrack#PlayMusic#sort=greatest--service=Vimeo--artist=angelo amorevoli--music_item=soundtrack--
+Play some Google Music.#PlayMusic#service=Google Music--
+Open Deezer and play top 40 hits#PlayMusic#service=Deezer--sort=top--
+Play me a nineties sound track#PlayMusic#year=nineties--music_item=sound track--
+play a symphony that is good from 2000#PlayMusic#music_item=symphony--sort=good--year=2000--
+Play some music on Pandora#PlayMusic#service=Pandora--
+play music from the twenties#PlayMusic#year=twenties--
+play the most popular Miles Jones track#PlayMusic#sort=most popular--artist=Miles Jones--music_item=track--
+Play Miyavi's music from seventies on Google Music.#PlayMusic#artist=Miyavi--year=seventies--service=Google Music--
+Play a twenties soundtrack on Youtube#PlayMusic#year=twenties--music_item=soundtrack--service=Youtube--
+Play slow rock music#PlayMusic#genre=slow rock--
+Play some techno on Lastfm#PlayMusic#genre=techno--service=Lastfm--
+Will you play me the most popular sound track from 2006#PlayMusic#sort=most popular--music_item=sound track--year=2006--
+Play the song I Get Ideas as performed by Richard Kruspe#PlayMusic#music_item=song--track=I Get Ideas--artist=Richard Kruspe--
+Play new track from the fifties#PlayMusic#sort=new--music_item=track--year=fifties--
+Can you play an ep from the year 1958?#PlayMusic#music_item=ep--year=1958--
+play scott la rock from Stella on Slacker#PlayMusic#artist=scott la rock--album=Stella--service=Slacker--
+Play Thelma Aoyama's latest concerto#PlayMusic#artist=Thelma Aoyama--sort=latest--music_item=concerto--
+Make and play a new playlis with the theme songs released in 1968#PlayMusic#sort=new--music_item=theme--year=1968--
+Play the tune by Adam Yauch#PlayMusic#music_item=tune--artist=Adam Yauch--
+Play some melody from the eighties on Spotify#PlayMusic#music_item=melody--year=eighties--service=Spotify--
+Play music by mina caputo on Lastfm#PlayMusic#artist=mina caputo--service=Lastfm--
+Play some fifties music by Origa.#PlayMusic#year=fifties--artist=Origa--
+Play a popular Gurdas Maan track#PlayMusic#sort=popular--artist=Gurdas Maan--music_item=track--
+play an album on Netflix by chris castle from 2011#PlayMusic#music_item=album--service=Netflix--artist=chris castle--year=2011--
+Play the most popular music by Ronald Isley on Google Music#PlayMusic#sort=most popular--artist=Ronald Isley--service=Google Music--
+Play the top-20 music by merz#PlayMusic#sort=top-20--artist=merz--
+play twenties music off of my Itunes#PlayMusic#year=twenties--service=Itunes--
+Play a Mike Osborne song#PlayMusic#artist=Mike Osborne--music_item=song--
+play Groove Shark#PlayMusic#service=Groove Shark--
+Play me a Maia Hirasawa soundtrack from 1951#PlayMusic#artist=Maia Hirasawa--music_item=soundtrack--year=1951--
+Play Elysium from Ryan Cayabyab#PlayMusic#album=Elysium--artist=Ryan Cayabyab--
+play Matt Walker tunes#PlayMusic#artist=Matt Walker--
+play Solange 2016 album #PlayMusic#year=2016--music_item=album--
+Play a soundtrack by Mike Hindert on Spotify.#PlayMusic#music_item=soundtrack--artist=Mike Hindert--service=Spotify--
+Play the top-5 sort of ballad music from 2012.#PlayMusic#sort=top-5--music_item=ballad--year=2012--
+I want to listen to Lastfm, play A Drop Of The Hard Stuff by Joi Chua.#PlayMusic#service=Lastfm--album=A Drop Of The Hard Stuff--artist=Joi Chua--
+play Pop 2017 Picks#PlayMusic#playlist=Pop 2017 Picks--
+play Groove Shark#PlayMusic#service=Groove Shark--
+I want hear some Junior Murvin off of Youtube#PlayMusic#artist=Junior Murvin--service=Youtube--
+I want to hear a top-50 track from Takahito Eguchi on Google Music#PlayMusic#sort=top-50--music_item=track--artist=Takahito Eguchi--service=Google Music--
+Play 25 To Life by Paul Riley on Deezer.#PlayMusic#album=25 To Life--artist=Paul Riley--service=Deezer--
+Play me some seventies music with a good melody#PlayMusic#year=seventies--sort=good--music_item=melody--
+play an Masaki Aiba tune#PlayMusic#artist=Masaki Aiba--music_item=tune--
+play Morning Song#PlayMusic#album=Morning Song--
+I want to hear a fourties ballad by Luciano#PlayMusic#year=fourties--music_item=ballad--artist=Luciano--
+play a good 1952 symphony#PlayMusic#sort=good--year=1952--music_item=symphony--
+play Hardcore music#PlayMusic#genre=Hardcore--
+Play a top twenty symphony by Bumble Bee Slim#PlayMusic#sort=top twenty--music_item=symphony--artist=Bumble Bee Slim--
+play Wait Until Tomorrow#PlayMusic#track=Wait Until Tomorrow--
+play a music ballad from the sixties#PlayMusic#music_item=ballad--year=sixties--
+Play the top 1991 sound track#PlayMusic#sort=top--year=1991--music_item=sound track--
+Play the latest songs by Larry Gatlin on Iheart#PlayMusic#sort=latest--artist=Larry Gatlin--service=Iheart--
+Play me a bluegrass song#PlayMusic#genre=bluegrass--music_item=song--
+Play a sixties song by Classified#PlayMusic#year=sixties--music_item=song--artist=Classified--
+play Monie Love tunes on Google Music from 1984 from her song list#PlayMusic#artist=Monie Love--service=Google Music--year=1984--music_item=song--
+Play pop#PlayMusic#genre=pop--
+Play a melody from Elmer Bernstein#PlayMusic#music_item=melody--artist=Elmer Bernstein--
+I want to listen to my Spain Top 50 playlist on groove shark#PlayMusic#playlist=Spain Top 50--service=groove shark--
+Play top-ten eighties song#PlayMusic#sort=top-ten--year=eighties--music_item=song--
+Play Michael Angelo Batio#PlayMusic#artist=Michael Angelo Batio--
+Play a twenties concerto from Roger Taylor on deezer#PlayMusic#year=twenties--music_item=concerto--artist=Roger Taylor--service=deezer--
+play dj kentaro from the year 1994#PlayMusic#artist=dj kentaro--year=1994--
+play a twenties song#PlayMusic#year=twenties--music_item=song--
+Can you play me a track from the nineties?#PlayMusic#music_item=track--year=nineties--
+Play a song off Get Up Offa That Thing by Doseone on Last Fm#PlayMusic#music_item=song--album=Get Up Offa That Thing--artist=Doseone--service=Last Fm--
+Play a movement fromthe eighties by Nobuo Uematsu.#PlayMusic#music_item=movement--year=eighties--artist=Nobuo Uematsu--
+Play In Every Dream Home A Heartache by vincent paul abbott #PlayMusic#track=In Every Dream Home A Heartache--artist=vincent paul abbott--
+Play the newest released song from 1951#PlayMusic#sort=newest--music_item=song--year=1951--
+use Slacker to listen to seventies music#PlayMusic#service=Slacker--year=seventies--
+Play the best song by Henry Rollins.#PlayMusic#sort=best--music_item=song--artist=Henry Rollins--
+play my melodious playlist#PlayMusic#playlist=melodious--
+Play top music from Charles L. Johnson on vimeo #PlayMusic#sort=top--artist=Charles L. Johnson--service=vimeo--
+Play the top-twenty from Tony Calder off Slacker.#PlayMusic#sort=top-twenty--artist=Tony Calder--service=Slacker--
+play anything from the twenties#PlayMusic#year=twenties--
+Play music from 2012 by Yossif Kobzon on last fm.#PlayMusic#year=2012--artist=Yossif Kobzon--service=last fm--
+Play the theme tune that Christian Fennesz wrote#PlayMusic#music_item=theme tune--artist=Christian Fennesz--
+Open Youtube and play Nanana from Massimo Altomare#PlayMusic#service=Youtube--track=Nanana--artist=Massimo Altomare--
+Open Lastfm and play a voluntad del cielo from Wax#PlayMusic#service=Lastfm--album=a voluntad del cielo--artist=Wax--
+I want to hear a 1957 theme song#PlayMusic#year=1957--music_item=theme song--
+Play my Electro Sur playlist. #PlayMusic#playlist=Electro Sur--
+play the last track by Shavo Odadjian#PlayMusic#sort=last--music_item=track--artist=Shavo Odadjian--
+Play Brotherhood by Ock Joo-hyun#PlayMusic#album=Brotherhood--artist=Ock Joo-hyun--
+play latest George Ducas music#PlayMusic#sort=latest--artist=George Ducas--
+play a tune from 1962#PlayMusic#music_item=tune--year=1962--
+play I Could Write A Book#PlayMusic#track=I Could Write A Book--
+listen to acapella#PlayMusic#genre=acapella--
+Play music from 2005 by Justin Broadrick#PlayMusic#year=2005--artist=Justin Broadrick--
+Play the best 1981 sound track from Ric Fierabracci#PlayMusic#sort=best--year=1981--music_item=sound track--artist=Ric Fierabracci--
+Play a ballad by Owen Pallett from the seventies on Slacker.#PlayMusic#music_item=ballad--artist=Owen Pallett--year=seventies--service=Slacker--
+Play concerto from 1951#PlayMusic#music_item=concerto--year=1951--
+Play Yung Joc on slacker#PlayMusic#artist=Yung Joc--service=slacker--
+I want to listen to Speed Metal Symphony#PlayMusic#album=Speed Metal Symphony--
+play journey list#PlayMusic#playlist=journey--
+Play a melody by Hagigat Rzayeva#PlayMusic#music_item=melody--artist=Hagigat Rzayeva--
+Play fifties from Sirusho Harutyunyan#PlayMusic#year=fifties--artist=Sirusho Harutyunyan--
+Play a fairouz tune on Deezer#PlayMusic#artist=fairouz--music_item=tune--service=Deezer--
+play the top-twenty songs by The Kleptones on Spotify#PlayMusic#sort=top-twenty--artist=The Kleptones--service=Spotify--
+Play the greatest music you can find by Ari Herstand on Zvooq#PlayMusic#sort=greatest--artist=Ari Herstand--service=Zvooq--
+play 90s Love Songs on Youtube#PlayMusic#playlist=90s Love Songs--service=Youtube--
+Please play Got The Time#PlayMusic#track=Got The Time--
+Play twenties from Ken Floyd#PlayMusic#year=twenties--artist=Ken Floyd--
+Play the playlist Grime Shutdown#PlayMusic#playlist=Grime Shutdown--
+Play Masashi Hamauzu's newest symphony on Itunes.#PlayMusic#artist=Masashi Hamauzu--sort=newest--music_item=symphony--service=Itunes--
+Play the playlist funtime activity #PlayMusic#playlist=funtime activity--
+Play some seventies songs from Luke Haines off of youtube#PlayMusic#year=seventies--artist=Luke Haines--service=youtube--
+Play Clay Aiken's The Bonny Hind on Groove Shark.#PlayMusic#artist=Clay Aiken--track=The Bonny Hind--service=Groove Shark--
+Play a song from Helena Iren Michaelsen on Spotify#PlayMusic#music_item=song--artist=Helena Iren Michaelsen--service=Spotify--
+Play thirties music by Flex on Google Music#PlayMusic#year=thirties--artist=Flex--service=Google Music--
+Play the good sort of 1992 theme music by Layzie Bone#PlayMusic#sort=good--year=1992--music_item=theme--artist=Layzie Bone--
+Play the last soundtrack from the sixties#PlayMusic#sort=last--music_item=soundtrack--year=sixties--
+Play the latest ep from Lobby Loyde on Netflix#PlayMusic#sort=latest--music_item=ep--artist=Lobby Loyde--service=Netflix--
+Play some Dave Pearce.#PlayMusic#artist=Dave Pearce--
+play track Her Majesty#PlayMusic#music_item=track--track=Her Majesty--
+I want to hear the newest music from The Railway Children#PlayMusic#sort=newest--artist=The Railway Children--
+Play Short Walk On A Long Pier on Slacker#PlayMusic#album=Short Walk On A Long Pier--service=Slacker--
+I want to hear Vegetables by pharrell williams#PlayMusic#track=Vegetables--artist=pharrell williams--
+Play the album Making Evening And Night by Cevin Key #PlayMusic#music_item=album--album=Making Evening And Night--artist=Cevin Key--
+Create a theme station with Jim Creeggan records and collabs #PlayMusic#music_item=theme--artist=Jim Creeggan--
+Open Pandora and play Reggaeton 2017 y Baila!#PlayMusic#service=Pandora--playlist=Reggaeton 2017 y Baila--
+Play a Martyn Bennett from 1957 on Pandora#PlayMusic#artist=Martyn Bennett--year=1957--service=Pandora--
+Play the Mother Lode by Tamio Okuda#PlayMusic#album=Mother Lode--artist=Tamio Okuda--
+Play the top melody from artist Maakii#PlayMusic#sort=top--music_item=melody--artist=Maakii--
+Play any album from the twenties#PlayMusic#music_item=album--year=twenties--
+Play me a song on Pandora#PlayMusic#music_item=song--service=Pandora--
+Play me a song by Stephen Jones#PlayMusic#music_item=song--artist=Stephen Jones--
+Play a 1998 sound track  from Sam The Kid on Last Fm#PlayMusic#year=1998--music_item=sound track--artist=Sam The Kid--service=Last Fm--
+Play an ep by Uncle Jimmy Thompson#PlayMusic#music_item=ep--artist=Uncle Jimmy Thompson--
+Play some Game music.#PlayMusic#genre=Game--
+Play music from 2012 on Netflix.#PlayMusic#year=2012--service=Netflix--
+I want to hear a good song from 2016#PlayMusic#sort=good--music_item=song--year=2016--
+Play the playlist Gypsy Swing#PlayMusic#playlist=Gypsy Swing--
+play some grunge#PlayMusic#genre=grunge--
+Play some Sam Moore.#PlayMusic#artist=Sam Moore--
+play Mikazuki Sunset#PlayMusic#track=Mikazuki Sunset--
+Play music on itunes from artist Jessica Delfino#PlayMusic#service=itunes--artist=Jessica Delfino--
+open Deezer and search for Scott Miller and play some of his new songs#PlayMusic#service=Deezer--artist=Scott Miller--sort=new--
+play Peja tunes#PlayMusic#artist=Peja--
+Play a Wendy Carlos song from 2002#PlayMusic#artist=Wendy Carlos--music_item=song--year=2002--
+Play a new song form the eighties#PlayMusic#sort=new--music_item=song--year=eighties--
+Play the track titled Faget#PlayMusic#music_item=track--track=Faget--
+Play the top song by Jack Grisham#PlayMusic#sort=top--music_item=song--artist=Jack Grisham--
+Please play Jag Vill Leva I Europa by porta#PlayMusic#track=Jag Vill Leva I Europa--artist=porta--
+Want to hear a chant by Nellie Mckay from the year 2008#PlayMusic#music_item=chant--artist=Nellie Mckay--year=2008--
+Play the top-ten chant Doda songs from the twenties.#PlayMusic#sort=top-ten--music_item=chant--artist=Doda--year=twenties--
+Play sound track  music from the twenties#PlayMusic#music_item=sound track--year=twenties--
+Play some Carmen Mcrae from Ed Robertson off of Itunes#PlayMusic#album=Carmen Mcrae--artist=Ed Robertson--service=Itunes--
+play a song by Fats Waller#PlayMusic#music_item=song--artist=Fats Waller--
+I'd like to listen to Diana Vickers best tune from the twenties#PlayMusic#artist=Diana Vickers--sort=best--music_item=tune--year=twenties--
+Can you play any chant from the fourties?#PlayMusic#music_item=chant--year=fourties--
+Play some music by Daniel Carter#PlayMusic#artist=Daniel Carter--
+Play twenties on Groove Shark#PlayMusic#year=twenties--service=Groove Shark--
+Play twenties symphony from Robert Walter#PlayMusic#year=twenties--music_item=symphony--artist=Robert Walter--
+Can you play a sonata#PlayMusic#genre=sonata--
+Let's listen to the most popular Marty Friedman songs on Zvooq.#PlayMusic#sort=most popular--artist=Marty Friedman--service=Zvooq--
+Play an album from the fourties#PlayMusic#music_item=album--year=fourties--
+Play me a Xuefei Yang symphony on Groove Shark#PlayMusic#artist=Xuefei Yang--music_item=symphony--service=Groove Shark--
+play soem nineties Charles Thompson#PlayMusic#year=nineties--artist=Charles Thompson--
+Play some dance music#PlayMusic#genre=dance--
+Let's hear some tunes from the thirties.#PlayMusic#year=thirties--
+Play the seventies album on last fm#PlayMusic#year=seventies--music_item=album--service=last fm--
+Play music from Lastfm and Deezer.#PlayMusic#service=Lastfm--service=Deezer--
+play TÃ© Para Tres#PlayMusic#playlist=TÃ© Para Tres--
+Play artist stu davis from the album Dub Chamber 3 on Netflix#PlayMusic#artist=stu davis--music_item=album--album=Dub Chamber 3--service=Netflix--
+Play music by Ian Haugland#PlayMusic#artist=Ian Haugland--
+Play some Drum & Bass#PlayMusic#genre=Drum & Bass--
+play a symphonic rock on Pandora#PlayMusic#genre=symphonic rock--service=Pandora--
+Play the last theme by Behzad Mirkhani.#PlayMusic#sort=last--music_item=theme--artist=Behzad Mirkhani--
+Open Netflix and play David Frizzell#PlayMusic#service=Netflix--artist=David Frizzell--
+Can you play Crossover?
+#PlayMusic#genre=Crossover--
+Plya a tune by Kancherla Gopanna from 1951 on Zvooq#PlayMusic#music_item=tune--artist=Kancherla Gopanna--year=1951--service=Zvooq--
+Play some fourties music on Spotify.#PlayMusic#year=fourties--service=Spotify--
+play the album Everybody Happy by Lee Aaron#PlayMusic#music_item=album--album=Everybody Happy--artist=Lee Aaron--
+Play the theme music from 1963 by Yuki Koyanagi#PlayMusic#music_item=theme--year=1963--artist=Yuki Koyanagi--
+play Groove Shark folk-rock#PlayMusic#service=Groove Shark--genre=folk-rock--
+play the album How Insensitive#PlayMusic#music_item=album--album=How Insensitive--
+play some Classical music on Spotify#PlayMusic#genre=Classical--service=Spotify--
+Play Used To Love Her by Dara.#PlayMusic#track=Used To Love Her--artist=Dara--
+Play me a twenties tune on Deezer#PlayMusic#year=twenties--music_item=tune--service=Deezer--
+play music by Cass Elliot#PlayMusic#artist=Cass Elliot--
+Play concerto from the eighties#PlayMusic#music_item=concerto--year=eighties--
+Play On My Own#PlayMusic#track=On My Own--
+Play Nick Hexum latest album#PlayMusic#artist=Nick Hexum--sort=latest--music_item=album--
+Play me a twenties song#PlayMusic#year=twenties--music_item=song--
+play a ballad from 2000#PlayMusic#music_item=ballad--year=2000--
+Play the sound track by Ferry Corsten#PlayMusic#music_item=sound track--artist=Ferry Corsten--
+Play a 2009 concerto on Deezer.#PlayMusic#year=2009--music_item=concerto--service=Deezer--
+Play me some Max Martin on Lastfm#PlayMusic#artist=Max Martin--service=Lastfm--
+play some Sia Furler on Last Fm#PlayMusic#artist=Sia Furler--service=Last Fm--
+Play the thirties soundtrack by ghader abdollahzadeh on Youtube#PlayMusic#year=thirties--music_item=soundtrack--artist=ghader abdollahzadeh--service=Youtube--
+play Say A Word by La India#PlayMusic#track=Say A Word--artist=La India--
+Play me a fifties song by Chingy#PlayMusic#year=fifties--music_item=song--artist=Chingy--
+Play music from Paul Landers#PlayMusic#artist=Paul Landers--
+Play Taiwan Is Good by Kotoko.#PlayMusic#track=Taiwan Is Good--artist=Kotoko--
+I'm in the mood to listen to meditative music.#PlayMusic#genre=meditative--
+Play Hughie Graham by Vidyadhar Vyas#PlayMusic#track=Hughie Graham--artist=Vidyadhar Vyas--
+Give me an album from 1972 to listen to.#PlayMusic#music_item=album--year=1972--
+Play some 1962 theme music.#PlayMusic#year=1962--music_item=theme--
+Play NoctÃ¡mbulo playlist#PlayMusic#playlist=NoctÃ¡mbulo--
+Play Annet Artani soundtrack on Slacker#PlayMusic#artist=Annet Artani--music_item=soundtrack--service=Slacker--
+play the track The Wizard And I#PlayMusic#music_item=track--track=The Wizard And I--
+Play Crossroad Blues.#PlayMusic#playlist=Crossroad Blues--
+Play some amber kuo from the eighties on Spotify.#PlayMusic#artist=amber kuo--year=eighties--service=Spotify--
+I need to hear some music from Spotify#PlayMusic#service=Spotify--
+Play some sister rosetta tharpe songs from the eighties#PlayMusic#artist=sister rosetta tharpe--year=eighties--
+Play on spotify Ms Scandalous#PlayMusic#service=spotify--artist=Ms Scandalous--
+Play a twenties tune by Jodie Aysha.#PlayMusic#year=twenties--music_item=tune--artist=Jodie Aysha--
+play Addicted To You by Hank Ballard#PlayMusic#track=Addicted To You--artist=Hank Ballard--
+Play Tooh by Eric Bazilian on Google Music.#PlayMusic#track=Tooh--artist=Eric Bazilian--service=Google Music--
+Play music by Keren Woodward#PlayMusic#artist=Keren Woodward--
+Play music by Paulinho Da Viola from 1965#PlayMusic#artist=Paulinho Da Viola--year=1965--
+Play Sergei Anatoljewitsch Kurjochin's music on Groove Shark.#PlayMusic#artist=Sergei Anatoljewitsch Kurjochin--service=Groove Shark--
+Play the song Little Robin Redbreast#PlayMusic#music_item=song--track=Little Robin Redbreast--
+Play music from the artist Irma Pane#PlayMusic#artist=Irma Pane--
+Play an Andy Silvester sound track from the thirties on Spotify#PlayMusic#artist=Andy Silvester--music_item=sound track--year=thirties--service=Spotify--
+Play the music of Tupac Shakur#PlayMusic#artist=Tupac Shakur--
+Play anything from the top-50 Jeff Irwin record off of itunes#PlayMusic#sort=top-50--artist=Jeff Irwin--music_item=record--service=itunes--
+Play Tina Cousins from 1956#PlayMusic#artist=Tina Cousins--year=1956--
+Play the music genre Synthpop#PlayMusic#genre=Synthpop--
+Play me songs from 1955#PlayMusic#year=1955--
+Use itunes to play dancing playlist#PlayMusic#service=itunes--playlist=dancing--
+Play movement music by Monk Boudreaux on youtube#PlayMusic#music_item=movement--artist=Monk Boudreaux--service=youtube--
+Play the best Bruce Ruffin music on Youtube.#PlayMusic#sort=best--artist=Bruce Ruffin--service=Youtube--
+Play some showtunes music.#PlayMusic#genre=showtunes--
+play music from 2014#PlayMusic#year=2014--
+play There Must Be More To Life Than This#PlayMusic#track=There Must Be More To Life Than This--
+Play Suite Sudarmoricaine by Afi on itunes#PlayMusic#track=Suite Sudarmoricaine--artist=Afi--service=itunes--
+play the top-twenty margaret becker songs with google music#PlayMusic#sort=top-twenty--artist=margaret becker--service=google music--
+Play the new music from Wilko Johnson#PlayMusic#sort=new--artist=Wilko Johnson--
+play Iheart tunes by Neil Finn#PlayMusic#service=Iheart--artist=Neil Finn--
+Play some music on Slacker#PlayMusic#service=Slacker--
+Play the album Shooting Silvio by Dave Sabo#PlayMusic#music_item=album--album=Shooting Silvio--artist=Dave Sabo--
+I want to hear music from carman from the 1966 album#PlayMusic#artist=carman--year=1966--music_item=album--
+Play my Fusion Fest playlist on Youtube#PlayMusic#playlist=Fusion Fest--service=Youtube--
+Play 2004 Guy Sebastian on Itunes#PlayMusic#year=2004--artist=Guy Sebastian--service=Itunes--
+Play Vic Ruggiero music from 2007#PlayMusic#artist=Vic Ruggiero--year=2007--
+Play All The Way My Savior Leads Me on Spotify#PlayMusic#track=All The Way My Savior Leads Me--service=Spotify--
+Play some nineties music on Pandora#PlayMusic#year=nineties--service=Pandora--
+Play fifties music#PlayMusic#year=fifties--
+Play some nineties Eliza Carthy#PlayMusic#year=nineties--artist=Eliza Carthy--
+I want to hear sia furler's popular songs on Last Fm#PlayMusic#artist=sia furler--sort=popular--service=Last Fm--
+Play Seaside by Don Cherry.#PlayMusic#album=Seaside--artist=Don Cherry--
+Play record from the seventies#PlayMusic#music_item=record--year=seventies--
+Play any chant from 1973#PlayMusic#music_item=chant--year=1973--
+play top tunes by Joseph Utsler#PlayMusic#sort=top--artist=Joseph Utsler--
+play southern rock tunes#PlayMusic#genre=southern rock--
+Play me some music youtube#PlayMusic#service=youtube--
+play Iheart#PlayMusic#service=Iheart--
+Play Igor Nikolayev music from the fourties#PlayMusic#artist=Igor Nikolayev--year=fourties--
+Please play songs by Lil Jon#PlayMusic#artist=Lil Jon--
+play Victoria Banks's album#PlayMusic#artist=Victoria Banks--music_item=album--
+play a song by Busta Rhymes#PlayMusic#music_item=song--artist=Busta Rhymes--
+Play the album Resurrection In Blood from Sleepy Brown on Itunes.#PlayMusic#music_item=album--album=Resurrection In Blood--artist=Sleepy Brown--service=Itunes--
+Play fifties music by Ahmed Abdul Malik#PlayMusic#year=fifties--artist=Ahmed Abdul Malik--
+Play the greatest record by Joe Purdy on Google Music#PlayMusic#sort=greatest--music_item=record--artist=Joe Purdy--service=Google Music--
+play some latin on Zvooq#PlayMusic#genre=latin--service=Zvooq--
+I want to hear the top 5 Jamie Lidell songs#PlayMusic#sort=top 5--artist=Jamie Lidell--
+I want to hear gothic rock on Lastfm#PlayMusic#genre=gothic rock--service=Lastfm--
+Play iheart#PlayMusic#service=iheart--
+play Wolves by Larry Gatlin#PlayMusic#track=Wolves--artist=Larry Gatlin--
+Play That Stubborn Kinda Fellow by Michael Amott#PlayMusic#album=That Stubborn Kinda Fellow--artist=Michael Amott--
+play Long Way To Go by Keita Tachibana#PlayMusic#track=Long Way To Go--artist=Keita Tachibana--
+Play the most popular ep by marcel khalife on Netflix#PlayMusic#sort=most popular--music_item=ep--artist=marcel khalife--service=Netflix--
+Play album from Maureen Mcgovern#PlayMusic#music_item=album--artist=Maureen Mcgovern--
+Play music on Deezer.#PlayMusic#service=Deezer--
+Play music from 2000 on spotify#PlayMusic#year=2000--service=spotify--
+Play the newest Phil Stacey.#PlayMusic#sort=newest--artist=Phil Stacey--
+Play music on Last Fm#PlayMusic#service=Last Fm--
+I'd like to listen to opera on Youtube#PlayMusic#genre=opera--service=Youtube--
+Play Listen To The Mocking Bird by Billy Martin on Youtube#PlayMusic#track=Listen To The Mocking Bird--artist=Billy Martin--service=Youtube--
+Can you play me something from the eighties on Youtube#PlayMusic#year=eighties--service=Youtube--
+Play Spotify#PlayMusic#service=Spotify--
+Play the top-fifty theme songs by Dennis Brown.#PlayMusic#sort=top-fifty--music_item=theme--artist=Dennis Brown--
+Play a popular chant by Brian Epstein#PlayMusic#sort=popular--music_item=chant--artist=Brian Epstein--
+Play a chant from 1978.#PlayMusic#music_item=chant--year=1978--
+Play a song off the Nicht Sprechen album#PlayMusic#music_item=song--album=Nicht Sprechen--music_item=album--
+play Netflix ballad by Mike Shinoda that is popular#PlayMusic#service=Netflix--music_item=ballad--artist=Mike Shinoda--sort=popular--
+play Isaac Yamma Slut#PlayMusic#artist=Isaac Yamma--album=Slut--
+play Joey Fatone soundtrack tunes from Google Music from 1972#PlayMusic#artist=Joey Fatone--music_item=soundtrack--service=Google Music--year=1972--
+Play music on pandora#PlayMusic#service=pandora--
+Play a record from 1950.#PlayMusic#music_item=record--year=1950--
+I want to the latest ballad from Ira Losco#PlayMusic#sort=latest--music_item=ballad--artist=Ira Losco--
+Play music from 1958.#PlayMusic#year=1958--
+Can you play a 1967 soundtrack on Slacker#PlayMusic#year=1967--music_item=soundtrack--service=Slacker--
+Play the last Wellman Braud album relaesd #PlayMusic#artist=Wellman Braud--music_item=album--
+play fifties movement songs by Fabio on Last Fm#PlayMusic#year=fifties--music_item=movement--artist=Fabio--service=Last Fm--
+Play my Under The Surface playlist.#PlayMusic#playlist=Under The Surface--
+play deezer top 20 by Natasja#PlayMusic#service=deezer--sort=top 20--artist=Natasja--
+play a ballad by Bob Johnston#PlayMusic#music_item=ballad--artist=Bob Johnston--
+Play the latest Joan Baez.#PlayMusic#sort=latest--artist=Joan Baez--
+Play the album Qr Iii by bobby bare#PlayMusic#music_item=album--album=Qr Iii--artist=bobby bare--
+Play Les Pauvres Riches by Pan Mei Chen.#PlayMusic#album=Les Pauvres Riches--artist=Pan Mei Chen--
+Play some 1987 Edie Brickell.#PlayMusic#year=1987--artist=Edie Brickell--
+Play my Jazz Brasileiro playlist#PlayMusic#playlist=Jazz Brasileiro--
+I'd like to hear Cry Baby Cry by Ally Kerr.#PlayMusic#track=Cry Baby Cry--artist=Ally Kerr--
+play a top-twenty tune by Noor Jehan#PlayMusic#sort=top-twenty--music_item=tune--artist=Noor Jehan--
+Open Itunes and play Bad Attitude#PlayMusic#service=Itunes--album=Bad Attitude--
+Do you have something like Impossible Is Nothing by Abderrahmane Abdelli?#PlayMusic#track=Impossible Is Nothing--artist=Abderrahmane Abdelli--
+Play music from jeremy taylor on the album Dormi Amore, La Situazione Non Ã Buona on Groove Shark#PlayMusic#artist=jeremy taylor--music_item=album--album=Dormi Amore, La Situazione Non Ã Buona--service=Groove Shark--
+play caitlin cary from the fourties#PlayMusic#artist=caitlin cary--year=fourties--
+Play some gothic rock.#PlayMusic#genre=gothic rock--
+Play some fast fusion on Spotify#PlayMusic#genre=fast fusion--service=Spotify--
+Play The God That Failed on Vimeo.#PlayMusic#track=The God That Failed--service=Vimeo--
+Open up music on Last Fm.#PlayMusic#service=Last Fm--
+Play some David Mallett on last fm#PlayMusic#artist=David Mallett--service=last fm--
+play playlist A Mis NiÃ±os de 30#PlayMusic#playlist=A Mis NiÃ±os de 30--
+Play This Is: Animal Collective please#PlayMusic#playlist=This Is: Animal Collective--
+play the latest melody from Cliff Edwards on Deezer#PlayMusic#sort=latest--music_item=melody--artist=Cliff Edwards--service=Deezer--
+play any sixties song#PlayMusic#year=sixties--music_item=song--
+Play a top-ten chant by Kelly Groucutt from 1964#PlayMusic#sort=top-ten--music_item=chant--artist=Kelly Groucutt--year=1964--
+Play Intense Studying playlist on Itunes.#PlayMusic#playlist=Intense Studying--service=Itunes--
+Play some Mf Doom from the sixties on pandora.#PlayMusic#artist=Mf Doom--year=sixties--service=pandora--
+Can you play a song off the album, jungle#PlayMusic#music_item=song--music_item=album--album=jungle--
+play a theme from 1985 by Patrick Cowley#PlayMusic#music_item=theme--year=1985--artist=Patrick Cowley--
+play songs by Gamble Rogers#PlayMusic#artist=Gamble Rogers--
+I want to hear theme songs from zeebra from the sixties on Slacker#PlayMusic#music_item=theme--artist=zeebra--year=sixties--service=Slacker--
+Play a tune by Layne Staley#PlayMusic#music_item=tune--artist=Layne Staley--
+play music by Amii Stewart with Itunes#PlayMusic#artist=Amii Stewart--service=Itunes--
+Play Tanti Auguri A Te from Bruce Gilbert#PlayMusic#track=Tanti Auguri A Te--artist=Bruce Gilbert--
+I want to listen to nineties chant songs#PlayMusic#year=nineties--music_item=chant--
+Play some Paulinho Da Viola from 1965.#PlayMusic#artist=Paulinho Da Viola--year=1965--
+I want to listen to an album sorted by last, open Google Music and play Paulinho Da Viola.#PlayMusic#music_item=album--sort=last--service=Google Music--artist=Paulinho Da Viola--
+play the greatest james yorkston song
+#PlayMusic#sort=greatest--artist=james yorkston--music_item=song--
+I want to hear the Live At Slane Castle album by Haifa Wehbe#PlayMusic#album=Live At Slane Castle--music_item=album--artist=Haifa Wehbe--
+Play symphony music from Joe Dolce#PlayMusic#music_item=symphony--artist=Joe Dolce--
+play some twenties movement tunes from the last Olga Souza#PlayMusic#year=twenties--music_item=movement--sort=last--artist=Olga Souza--
+play Dick Marx#PlayMusic#artist=Dick Marx--
+play The Song Remains The Same with Pandora#PlayMusic#track=The Song Remains The Same--service=Pandora--
+Play the newest chant by John Doyle on Zvooq#PlayMusic#sort=newest--music_item=chant--artist=John Doyle--service=Zvooq--
+Play Anweshaa by the new first.#PlayMusic#artist=Anweshaa--sort=new--
+Can you play some Andrew Cash music on Slacker#PlayMusic#artist=Andrew Cash--service=Slacker--
+Play top-50 eighties theme from Alain Caron#PlayMusic#sort=top-50--year=eighties--music_item=theme--artist=Alain Caron--
+Play me a song from 2008#PlayMusic#music_item=song--year=2008--
+I want to hear music on Itunes#PlayMusic#service=Itunes--
+Play fourties soundtrack from Hamish Maccunn#PlayMusic#year=fourties--music_item=soundtrack--artist=Hamish Maccunn--
+Play fifties music on Deezer#PlayMusic#year=fifties--service=Deezer--
+Play a Loretta Lynn tune on Groove Shark#PlayMusic#artist=Loretta Lynn--music_item=tune--service=Groove Shark--
+Play sugar baby by frank beard#PlayMusic#track=sugar baby--artist=frank beard--
+Play a song on zvooq#PlayMusic#music_item=song--service=zvooq--
+Play Divine from Vinnie Roslin#PlayMusic#track=Divine--artist=Vinnie Roslin--
+Play something by grandmaster flash & the furious five on youtube#PlayMusic#artist=grandmaster flash & the furious five--service=youtube--
+Play the greatest Nicholaus Arson concerto from around 2000#PlayMusic#sort=greatest--artist=Nicholaus Arson--music_item=concerto--year=2000--
+play No More Sorrow#PlayMusic#track=No More Sorrow--
+play something from the twenties on Lastfm#PlayMusic#year=twenties--service=Lastfm--
+play the album Sauna on Zvooq#PlayMusic#music_item=album--album=Sauna--service=Zvooq--
+Play something on my Classic Jazz Funk playlist on Zvooq#PlayMusic#playlist=Classic Jazz Funk--service=Zvooq--
+Play track Cabbage by Keiji Haino#PlayMusic#music_item=track--track=Cabbage--artist=Keiji Haino--
+Play some music by beverley martyn#PlayMusic#artist=beverley martyn--
+Play me a concerto by Jethro Burns from Zvooq#PlayMusic#music_item=concerto--artist=Jethro Burns--service=Zvooq--
+Play Liubi, Liubi, I Love You by Farah Asyikin Binti Zulkifli on Netflix#PlayMusic#track=Liubi, Liubi, I Love You--artist=Farah Asyikin Binti Zulkifli--service=Netflix--
+Use Last Fm to play artist Kawabata Makoto from their record#PlayMusic#service=Last Fm--artist=Kawabata Makoto--music_item=record--
+Play me some folklore music#PlayMusic#genre=folklore--
+play Paula Campbell music from 1993#PlayMusic#artist=Paula Campbell--year=1993--
+Play playlist Chilled R&B#PlayMusic#playlist=Chilled R&B--
+Play some fifties music by Chris Brown.#PlayMusic#year=fifties--artist=Chris Brown--
+Play music on Groove Shark.#PlayMusic#service=Groove Shark--
+Play the Busco Un Pueblo album#PlayMusic#album=Busco Un Pueblo--music_item=album--
+Play a record by Black Wall Street Records#PlayMusic#music_item=record--artist=Black Wall Street Records--
+Play my Hot 50 playlist.#PlayMusic#playlist=Hot 50--
+Play me a Jill Scott sound track on deezer#PlayMusic#artist=Jill Scott--music_item=sound track--service=deezer--
+Can you play a top song from a chyi chin concerto#PlayMusic#sort=top--music_item=song--artist=chyi chin--music_item=concerto--
+Play a song from 2003#PlayMusic#music_item=song--year=2003--
+Play some art punk.#PlayMusic#genre=art punk--
+Can I hear tod ashley music from 1953?#PlayMusic#artist=tod ashley--year=1953--
+Play the song Waar Is De Zon on Slacker#PlayMusic#music_item=song--track=Waar Is De Zon--service=Slacker--
+Play music which has humour on Youtube.#PlayMusic#genre=humour--service=Youtube--
+Play me the most popular Arthur Johnston song#PlayMusic#sort=most popular--artist=Arthur Johnston--music_item=song--
+Please play an album from 1987#PlayMusic#music_item=album--year=1987--
+play Tonight Only! by Nastya Kamenskih#PlayMusic#album=Tonight Only!--artist=Nastya Kamenskih--
+Play songs by Naomi Schemer#PlayMusic#artist=Naomi Schemer--
+play Slacker tunes by Smog from movement in 2015#PlayMusic#service=Slacker--artist=Smog--music_item=movement--year=2015--
+Play me Sun Ra songs from the fifties#PlayMusic#artist=Sun Ra--year=fifties--
+Play the top fifty soundtrack from the twenties.#PlayMusic#sort=top fifty--music_item=soundtrack--year=twenties--
+Play music by Don Cherry.#PlayMusic#artist=Don Cherry--
+Play Night Electric Night on Iheart#PlayMusic#album=Night Electric Night--service=Iheart--
+Play the album Killer Instinkt#PlayMusic#music_item=album--album=Killer Instinkt--
+I want to hear the latest twenties album from Kyle Riabko#PlayMusic#sort=latest--year=twenties--music_item=album--artist=Kyle Riabko--
+Can you play that last ep from the twenties#PlayMusic#sort=last--music_item=ep--year=twenties--
+play David Banner on Netflix#PlayMusic#artist=David Banner--service=Netflix--
+Play some Maynard James Keenan songs from Scenes From The Big Chair#PlayMusic#artist=Maynard James Keenan--album=Scenes From The Big Chair--
+Sort eighties ep from the last#PlayMusic#year=eighties--music_item=ep--sort=last--
+Play a top five Jonny Buckland symphony from around 1989#PlayMusic#sort=top five--artist=Jonny Buckland--music_item=symphony--year=1989--
+play Spotify#PlayMusic#service=Spotify--
+Can you play some eighties music#PlayMusic#year=eighties--
+I want to hear music by Madeleine Peyroux from 1991 on Youtube.#PlayMusic#artist=Madeleine Peyroux--year=1991--service=Youtube--
+play good music by General Woo on Deezer#PlayMusic#sort=good--artist=General Woo--service=Deezer--
+Play my Hype playlist on Youtube.#PlayMusic#playlist=Hype--service=Youtube--
+play some seventies Dj Colette#PlayMusic#year=seventies--artist=Dj Colette--
+play music from 1950#PlayMusic#year=1950--
+Play music from 2012 on google music#PlayMusic#year=2012--service=google music--
+Play me the greatest Howard Levy song#PlayMusic#sort=greatest--artist=Howard Levy--music_item=song--
+Play playlist riveting #PlayMusic#playlist=riveting--
+I want to hear a top five ballad from 2002#PlayMusic#sort=top five--music_item=ballad--year=2002--
+i wanna listen to a the top-twenty track of Denniz Pop in Pandora#PlayMusic#sort=top-twenty--music_item=track--artist=Denniz Pop--service=Pandora--
+play a movement from top-20 1983 by Baruch Chait#PlayMusic#music_item=movement--sort=top-20--year=1983--artist=Baruch Chait--
+Play my springtime playlist.#PlayMusic#playlist=springtime--
+I want to hear that tune from 2010#PlayMusic#music_item=tune--year=2010--
+Play Zvooq#PlayMusic#service=Zvooq--
+Play the album 21st Century Live by Chet Lam on Itunes.#PlayMusic#music_item=album--album=21st Century Live--artist=Chet Lam--service=Itunes--
+Can you play music from 2003 on Netflix#PlayMusic#year=2003--service=Netflix--
+Play a native us song on Last Fm#PlayMusic#genre=native us--music_item=song--service=Last Fm--
+play my De Camino playlist#PlayMusic#playlist=De Camino--
+Play my Trapeo playlist.#PlayMusic#playlist=Trapeo--
+Play some new age music#PlayMusic#genre=new age--
+I want to hear any top five music from Gene Autry#PlayMusic#sort=top five--artist=Gene Autry--
+play music by Vybz Kartel#PlayMusic#artist=Vybz Kartel--
+Can I hear the latest music from Bahar Kizil?#PlayMusic#sort=latest--artist=Bahar Kizil--
+play the top-twenty tune by Masaharu Fukuyama on Slacker#PlayMusic#sort=top-twenty--music_item=tune--artist=Masaharu Fukuyama--service=Slacker--
+Play Humour#PlayMusic#genre=Humour--
+Play movement music from 1954#PlayMusic#music_item=movement--year=1954--
+I want to hear the Fear The Boom And Bust song from haruka shimotsuki off of Spotify#PlayMusic#track=Fear The Boom And Bust--music_item=song--artist=haruka shimotsuki--service=Spotify--
+I'd like to hear songs from Iheart#PlayMusic#service=Iheart--
+in Google Music play the top singles released in 1972#PlayMusic#service=Google Music--sort=top--year=1972--
+Play the greatest 1966 album out there#PlayMusic#sort=greatest--year=1966--music_item=album--
+I want to hear symphony songs from Rebecca Cartwright on Last Fm#PlayMusic#music_item=symphony--artist=Rebecca Cartwright--service=Last Fm--
+Play 1958 music
+#PlayMusic#year=1958--
+play classic rock on Slacker#PlayMusic#genre=classic rock--service=Slacker--
+PLpay the top ten track from Asia Nitollano on spotify.#PlayMusic#sort=top ten--music_item=track--artist=Asia Nitollano--service=spotify--
+Play the top-twenty from Alexander Braginsky.#PlayMusic#sort=top-twenty--artist=Alexander Braginsky--
+I'd like to listen to iheart radio's chill out playlist please.#PlayMusic#service=iheart--playlist=chill out--
+Play a melody by avery storm.#PlayMusic#music_item=melody--artist=avery storm--
+Play the top 10 by Sankha Chatterjee.#PlayMusic#sort=top 10--artist=Sankha Chatterjee--
+Play music by Nick La Rocca#PlayMusic#artist=Nick La Rocca--
+Play my funtime playlist on lastfm .#PlayMusic#playlist=funtime--service=lastfm--
+Play the track That Would Be Something from Eden Ahbez#PlayMusic#music_item=track--track=That Would Be Something--artist=Eden Ahbez--
+listen to tei movement from most popular eighties music#PlayMusic#artist=tei--music_item=movement--sort=most popular--year=eighties--
+Play most popular from Nil Burak on Slacker#PlayMusic#sort=most popular--artist=Nil Burak--service=Slacker--
+Play the most popular 1956 record.#PlayMusic#sort=most popular--year=1956--music_item=record--
+Play a 1950 album on Iheart#PlayMusic#year=1950--music_item=album--service=Iheart--
+Will you play my Nuestros 80 playlist#PlayMusic#playlist=Nuestros 80--
+Play Dave Mason's soundtrack on Last Fm.#PlayMusic#artist=Dave Mason--music_item=soundtrack--service=Last Fm--
+play some Annie Herring beat street on itunes#PlayMusic#artist=Annie Herring--album=beat street--service=itunes--
+Open Netflix and play Kan Man Gifta Sig I Jeans?#PlayMusic#service=Netflix--track=Kan Man Gifta Sig I Jeans--
+Play some music on Vimeo.#PlayMusic#service=Vimeo--
+Play the track Siberian Khatru on zvooq#PlayMusic#music_item=track--track=Siberian Khatru--service=zvooq--
+play some Folk tunes#PlayMusic#genre=Folk--
+Play a 1978 track on Slacker#PlayMusic#year=1978--music_item=track--service=Slacker--
+Play some music by Mutlu#PlayMusic#artist=Mutlu--
+Play Dj Scratch's eighties music on Iheart.#PlayMusic#artist=Dj Scratch--year=eighties--service=Iheart--
+Play The Cross And The Crucible by Angela Au Man Sze on Google Music#PlayMusic#album=The Cross And The Crucible--artist=Angela Au Man Sze--service=Google Music--
+Play some happy gabber.#PlayMusic#genre=happy gabber--
+I want to hear some psychedelic rock#PlayMusic#genre=psychedelic rock--
+Play the soundtrack that Tom Bellamy contributed to#PlayMusic#music_item=soundtrack--artist=Tom Bellamy--
+I want to hear Steven Harwell from the thirties#PlayMusic#artist=Steven Harwell--year=thirties--
+play music from the twenties with Slacker#PlayMusic#year=twenties--service=Slacker--
+Play 1958 by wayne petti#PlayMusic#year=1958--artist=wayne petti--
+Play something from 1985 by Billy Werner#PlayMusic#year=1985--artist=Billy Werner--
+Play me a 1958 adam yauch concerto on Groove Shark#PlayMusic#year=1958--artist=adam yauch--music_item=concerto--service=Groove Shark--
+Play prints in the stone by Helen Baylor#PlayMusic#album=prints in the stone--artist=Helen Baylor--
+play the last 1957 movement#PlayMusic#sort=last--year=1957--music_item=movement--
+Play the most popular Grace Slick song that has a symphony sound#PlayMusic#sort=most popular--artist=Grace Slick--music_item=song--music_item=symphony sound--
+I want to hear some acid punk music#PlayMusic#genre=acid punk--
+Play some music from Miss Platnum#PlayMusic#artist=Miss Platnum--
+play Christina Milian latest music#PlayMusic#artist=Christina Milian--sort=latest--
+Play music from the seventies#PlayMusic#year=seventies--
+play a 2006 chant#PlayMusic#year=2006--music_item=chant--
+Play some Mike Burney on Google Music.#PlayMusic#artist=Mike Burney--service=Google Music--
+Play a melody from Leigh Nash using Lastfm#PlayMusic#music_item=melody--artist=Leigh Nash--service=Lastfm--
+Play me an eighties song by Wes Dakus#PlayMusic#year=eighties--music_item=song--artist=Wes Dakus--
+Play Post Garage Wave Revival playlist.#PlayMusic#playlist=Post Garage Wave Revival--
+Play Richard Fortus' Live Collection.#PlayMusic#artist=Richard Fortus--album=Live Collection--
+play some dance on Groove Shark#PlayMusic#genre=dance--service=Groove Shark--
+play the most popular album on Google Music by sasu ripatti#PlayMusic#sort=most popular--music_item=album--service=Google Music--artist=sasu ripatti--
+I want to hear any tune from the twenties#PlayMusic#music_item=tune--year=twenties--
+Play Jono El Grande from the thirties#PlayMusic#artist=Jono El Grande--year=thirties--
+Play blues on Vimeo#PlayMusic#genre=blues--service=Vimeo--
+Play some fourties music on Zvooq#PlayMusic#year=fourties--service=Zvooq--
+play Wanted by Erykah Badu#PlayMusic#track=Wanted--artist=Erykah Badu--
+Play some Christian Rock#PlayMusic#genre=Christian Rock--
+Play some Retro music.#PlayMusic#genre=Retro--
+Play some music from the twenties.#PlayMusic#year=twenties--
+Play Mea Culpa by Rahim Shah#PlayMusic#album=Mea Culpa--artist=Rahim Shah--
+Play Acid Punk music.#PlayMusic#genre=Acid Punk--
+Play Funky Heavy Bluesy#PlayMusic#playlist=Funky Heavy Bluesy--
+Play me a song from 1972 by Sweet Emma Barrett#PlayMusic#music_item=song--year=1972--artist=Sweet Emma Barrett--
+Play The Birds And The Bees by Ceca.#PlayMusic#track=The Birds And The Bees--artist=Ceca--
+play me music by Whip with Zvooq#PlayMusic#artist=Whip--service=Zvooq--
+Play me a song by Teitur Lassen on Groove Shark#PlayMusic#music_item=song--artist=Teitur Lassen--service=Groove Shark--
+Play the latest ep by Joel Hastings on Itunes.#PlayMusic#sort=latest--music_item=ep--artist=Joel Hastings--service=Itunes--
+Play Rap Album One by Gene Vincent.#PlayMusic#album=Rap Album One--artist=Gene Vincent--
+Play the last ep from 1999#PlayMusic#sort=last--music_item=ep--year=1999--
+I'd like to hear Don Airey's Gonna Raise Hell#PlayMusic#artist=Don Airey--track=Gonna Raise Hell--
+Can you play some music by andrew diamond#PlayMusic#artist=andrew diamond--
+I want to hear Nokko's songs from the twenties#PlayMusic#artist=Nokko--year=twenties--
+Play thirties concerto music on Google Music#PlayMusic#year=thirties--music_item=concerto--service=Google Music--
+play Netflix tunes from 2003 on an album#PlayMusic#service=Netflix--year=2003--music_item=album--
+Play cheerful playlist#PlayMusic#playlist=cheerful--
+play some Kansas Joe Mccoy#PlayMusic#artist=Kansas Joe Mccoy--
+Play some theme songs from the fourties#PlayMusic#music_item=theme--year=fourties--
+Play some folk-rock music#PlayMusic#genre=folk-rock--
+Play the latest 1973 album by Peter Derose.#PlayMusic#sort=latest--year=1973--music_item=album--artist=Peter Derose--
+Play some Sabah from the eighties#PlayMusic#artist=Sabah--year=eighties--
+Play the greatest soundtrack by Jesse Harms.#PlayMusic#sort=greatest--music_item=soundtrack--artist=Jesse Harms--
+Use the service Zvooq to play merengue music#PlayMusic#service=Zvooq--genre=merengue--
+Can you play some music on Youtube#PlayMusic#service=Youtube--
+Play a sound track from 1952.#PlayMusic#music_item=sound track--year=1952--
+Play a song of I Myself And Me on Youtube#PlayMusic#music_item=song--album=I Myself And Me--service=Youtube--
+Can you play me the latest theme song by Warren Vache#PlayMusic#sort=latest--music_item=theme song--artist=Warren Vache--
+play Sivamani#PlayMusic#artist=Sivamani--
+Can you play the greatest sarah brightman song#PlayMusic#sort=greatest--artist=sarah brightman--music_item=song--
+Play Techno on Lastfm#PlayMusic#genre=Techno--service=Lastfm--
+play new music by Elmore James with google music#PlayMusic#sort=new--artist=Elmore James--service=google music--
+play the song Shine A Light#PlayMusic#music_item=song--track=Shine A Light--
+Play music on Spotify.#PlayMusic#service=Spotify--
+Play me a song by Avispa Music from 1965#PlayMusic#music_item=song--artist=Avispa Music--year=1965--
+Play the top twenty chant by Wise.#PlayMusic#sort=top twenty--music_item=chant--artist=Wise--
+Please play Jim Martin on Vimeo.#PlayMusic#artist=Jim Martin--service=Vimeo--
+play ep by Arjen Anthony Lucassen#PlayMusic#music_item=ep--artist=Arjen Anthony Lucassen--
+Play my Ãxitos EspaÃ±a playlist#PlayMusic#playlist=Ãxitos EspaÃ±a--
+play zvooq Southern Gothic#PlayMusic#service=zvooq--playlist=Southern Gothic--
+I want to hear a Joel Hastings melody. #PlayMusic#artist=Joel Hastings--music_item=melody--
+play a Morton Downey record with Slacker#PlayMusic#artist=Morton Downey--music_item=record--service=Slacker--
+play Frankie Laine#PlayMusic#artist=Frankie Laine--
+Play my Frescura Indie playlist #PlayMusic#playlist=Frescura Indie--
+play the top five songs by Gad Elbaz#PlayMusic#sort=top five--artist=Gad Elbaz--
+Use Youtube to play music from Dorothy Ashby from the year 2002#PlayMusic#service=Youtube--artist=Dorothy Ashby--year=2002--
+Play some alternative music on Vimeo#PlayMusic#genre=alternative--service=Vimeo--
+play Chance Of A Lifetime on Zvooq#PlayMusic#track=Chance Of A Lifetime--service=Zvooq--
+Play some chant music from 2008.#PlayMusic#music_item=chant--year=2008--
+play Fill Yourself With Music by Ray Manzarek#PlayMusic#album=Fill Yourself With Music--artist=Ray Manzarek--
+Play Contigo En La Distancia#PlayMusic#track=Contigo En La Distancia--
+play some dream music#PlayMusic#genre=dream--
+I want to hear music on my Slacker app#PlayMusic#service=Slacker--
+play an eighties song by Ler Lalonde#PlayMusic#year=eighties--music_item=song--artist=Ler Lalonde--
+Play the next ep by Video Game Pianist on netflix#PlayMusic#music_item=ep--artist=Video Game Pianist--service=netflix--
+Play a music theme by Anna Nikolajewna Jessipowa#PlayMusic#music_item=theme--artist=Anna Nikolajewna Jessipowa--
+I want to play music off Deezer#PlayMusic#service=Deezer--
+Play some chanson music.#PlayMusic#genre=chanson--
+Play my Trabajo Relax playlist#PlayMusic#playlist=Trabajo Relax--
+Play the latest music by Martin Luther Mccoy#PlayMusic#sort=latest--artist=Martin Luther Mccoy--
+I want to hear some twenties music from Billy Sheehan#PlayMusic#year=twenties--artist=Billy Sheehan--
+Play some songs from 1958#PlayMusic#year=1958--
+Play some Don Ho on Netflix#PlayMusic#artist=Don Ho--service=Netflix--
+play a new soundtrack by Benjamin Darvill on Groove Shark#PlayMusic#sort=new--music_item=soundtrack--artist=Benjamin Darvill--service=Groove Shark--
+Play some music on Slacker#PlayMusic#service=Slacker--
+play the top twenty tracks of Ron Jarzombek#PlayMusic#sort=top twenty--playlist=tracks--artist=Ron Jarzombek--
+Play the Late Night Jazz soundtrack on Zvooq.#PlayMusic#playlist=Late Night Jazz--music_item=soundtrack--service=Zvooq--
+Play me a tune by john clayton#PlayMusic#music_item=tune--artist=john clayton--
+I want to hear some music from Spotify#PlayMusic#service=Spotify--
+Open Deezer and play InyecciÃ³n Musical#PlayMusic#service=Deezer--playlist=InyecciÃ³n Musical--
+can you play some weird music from the noise genre#PlayMusic#genre=noise--
+Play Russell Morris's The Singer And The Song on Netflix.#PlayMusic#artist=Russell Morris--album=The Singer And The Song--service=Netflix--
+Play Larry Graham sound track#PlayMusic#artist=Larry Graham--music_item=sound track--
+Play my Women of Rock playlist.#PlayMusic#playlist=Women of Rock--
+play Roland Alphonso tunes that are most popular#PlayMusic#artist=Roland Alphonso--sort=most popular--
+Play Ramakadha by Karl Davydov please#PlayMusic#track=Ramakadha--artist=Karl Davydov--
+Can you play a sound track from 1963?#PlayMusic#music_item=sound track--year=1963--
+Play a tune by Mc Hawking#PlayMusic#music_item=tune--artist=Mc Hawking--
+Would you please play me a symphony from 1995#PlayMusic#music_item=symphony--year=1995--
+play Google Music tunes#PlayMusic#service=Google Music--
+Play a melody by Shada Hassoun#PlayMusic#music_item=melody--artist=Shada Hassoun--
+play the Ocelot record using Zvooq#PlayMusic#artist=Ocelot--music_item=record--service=Zvooq--
+Open Lastfm and start playing whatever#PlayMusic#service=Lastfm--
+Play a 1958 soundtrack by Rudolf Schenker on Netflix.#PlayMusic#year=1958--music_item=soundtrack--artist=Rudolf Schenker--service=Netflix--
+Lets hear some Dawood Sarkhosh from their The Power Of Your Love album from Groove Shark#PlayMusic#artist=Dawood Sarkhosh--album=The Power Of Your Love--music_item=album--service=Groove Shark--
+Play a popular ballad by Amanda#PlayMusic#sort=popular--music_item=ballad--artist=Amanda--
+Play While We Were Waiting by Sippie Wallace on Vimeo#PlayMusic#album=While We Were Waiting--artist=Sippie Wallace--service=Vimeo--
+Play andrew lloyd webber's good tune on zvooq.#PlayMusic#artist=andrew lloyd webber--sort=good--music_item=tune--service=zvooq--
+Please play something on Last Fm#PlayMusic#service=Last Fm--
+play 1960 chant music by Hermann Baumann#PlayMusic#year=1960--music_item=chant--artist=Hermann Baumann--
+play Bill Evans album The Best Of The 12" Mixes#PlayMusic#artist=Bill Evans--music_item=album--album=The Best Of The 12" Mixes--
+Play play Lodge by Alkabli on lastfm .#PlayMusic#album=Lodge--artist=Alkabli--service=lastfm--
+play a sixties song by George Sanger#PlayMusic#year=sixties--music_item=song--artist=George Sanger--
+Play Deezer#PlayMusic#service=Deezer--
+Play a melody from the nineties on Google Music#PlayMusic#music_item=melody--year=nineties--service=Google Music--
+Play Still Life 1 #PlayMusic#album=Still Life 1--
+Play a song by Alasdair Roberts from 1996#PlayMusic#music_item=song--artist=Alasdair Roberts--year=1996--
+Play the album Axum#PlayMusic#music_item=album--album=Axum--
+I want to hear the Jody Williams sound track#PlayMusic#artist=Jody Williams--music_item=sound track--
+Play Ik Hou Van Jou by Elena Temnikova#PlayMusic#track=Ik Hou Van Jou--artist=Elena Temnikova--
+play some Stephen Jones on Youtube#PlayMusic#artist=Stephen Jones--service=Youtube--
+Play the most popular Johnny Clarke on Deezer.#PlayMusic#sort=most popular--artist=Johnny Clarke--service=Deezer--
+Play some tango.#PlayMusic#genre=tango--
+Play Eddie Meduza from the thirties#PlayMusic#artist=Eddie Meduza--year=thirties--
+play satire music#PlayMusic#genre=satire--
+I'd like to hear one of Eric Clapton's most popular melody on Pandora.#PlayMusic#artist=Eric Clapton--sort=most popular--music_item=melody--service=Pandora--
+Please play a song by Ahmad Jamal#PlayMusic#music_item=song--artist=Ahmad Jamal--
+play Vivian Stanshall from 1962#PlayMusic#artist=Vivian Stanshall--year=1962--
+Play a nineties tune by Sugar Minott on Netflix#PlayMusic#year=nineties--music_item=tune--artist=Sugar Minott--service=Netflix--
+Play music from 1977#PlayMusic#year=1977--
+Play some music by Frayser Boy.#PlayMusic#artist=Frayser Boy--
+Use Itunes to play a soundtrack from the year 1954#PlayMusic#service=Itunes--music_item=soundtrack--year=1954--
+play Deezer tunes Are & Be#PlayMusic#service=Deezer--playlist=Are & Be--
+Please play a song off the Curtis Lee album Rough Diamonds#PlayMusic#music_item=song--artist=Curtis Lee--music_item=album--album=Rough Diamonds--
+play a chant by Mike Jones#PlayMusic#music_item=chant--artist=Mike Jones--
+Play me a Patrick Cowley ballad#PlayMusic#artist=Patrick Cowley--music_item=ballad--
+Play Elastic Love by Junior Marvin#PlayMusic#track=Elastic Love--artist=Junior Marvin--
+Play some music from 2011 on lastfm #PlayMusic#year=2011--service=lastfm--
+Play These Four Walls by Yummy Bingham.#PlayMusic#album=These Four Walls--artist=Yummy Bingham--
+Can you play something from 1966 by Mc Ren on Spotify#PlayMusic#year=1966--artist=Mc Ren--service=Spotify--
+play the album by Paul Barker playing the greatest from 1978#PlayMusic#music_item=album--artist=Paul Barker--sort=greatest--year=1978--
+Can I listen to Dj Vibe's top 10?#PlayMusic#artist=Dj Vibe--sort=top 10--
+play a concerto from sam sparro#PlayMusic#music_item=concerto--artist=sam sparro--
+Lets hear some booty bass#PlayMusic#genre=booty bass--
+Play me a 1974 tune on Slacker#PlayMusic#year=1974--music_item=tune--service=Slacker--
+Play a top five Linda Strawberry ep#PlayMusic#sort=top five--artist=Linda Strawberry--music_item=ep--
+Play Henrie Mutuku album from 1957#PlayMusic#artist=Henrie Mutuku--music_item=album--year=1957--
+Play the newest ballad from Chad Urmston#PlayMusic#sort=newest--music_item=ballad--artist=Chad Urmston--
+play some 2002 music#PlayMusic#year=2002--
+I want to hear that track from 1991#PlayMusic#music_item=track--year=1991--
+Play me a Chris Needham song on Vimeo#PlayMusic#artist=Chris Needham--music_item=song--service=Vimeo--
+Play some House music#PlayMusic#genre=House--
+play Piano Ballads on Netflix#PlayMusic#playlist=Piano Ballads--service=Netflix--
+Play me some Goa#PlayMusic#genre=Goa--
+Play slow rock music on Vimeo#PlayMusic#genre=slow rock--service=Vimeo--
+Play Murder The Mountains by Mana on Netflix#PlayMusic#album=Murder The Mountains--artist=Mana--service=Netflix--
+Play the top five melody from 2000#PlayMusic#sort=top five--music_item=melody--year=2000--
+play Courting The Squall on Slacker#PlayMusic#album=Courting The Squall--service=Slacker--
+Play a ballad from 1997.#PlayMusic#music_item=ballad--year=1997--
+Play symphony by Josh Gracin on Slacker.#PlayMusic#music_item=symphony--artist=Josh Gracin--service=Slacker--
+I want to hear a symphony from Kano#PlayMusic#music_item=symphony--artist=Kano--
+Play a song off Ian Stuart Donaldson's Nature Nurture album on Itunes#PlayMusic#music_item=song--artist=Ian Stuart Donaldson--album=Nature Nurture--music_item=album--service=Itunes--
+play Joshua Homme Belle And Sebastian Write About Love#PlayMusic#artist=Joshua Homme--album=Belle And Sebastian Write About Love--
+Play theme music from the twenties by Tata Young#PlayMusic#music_item=theme--year=twenties--artist=Tata Young--
+Can you play a song off an album by Shirley Horn#PlayMusic#music_item=song--music_item=album--artist=Shirley Horn--
+play top-twenty song from 2015#PlayMusic#sort=top-twenty--music_item=song--year=2015--
+Play music from 1976 on Deezer#PlayMusic#year=1976--service=Deezer--
+Play the greatest from Win Stracke on Groove Shark.#PlayMusic#sort=greatest--artist=Win Stracke--service=Groove Shark--
+I want to hear something by Joe Dolce on Google Music#PlayMusic#artist=Joe Dolce--service=Google Music--
+Play me a popular song by Koichi Domoto#PlayMusic#sort=popular--music_item=song--artist=Koichi Domoto--
+Play Saturday Nights & Sunday Mornings#PlayMusic#album=Saturday Nights & Sunday Mornings--
+Play the album Have Another Ball#PlayMusic#music_item=album--album=Have Another Ball--
+Play music from Clark Kent in the year 1987#PlayMusic#artist=Clark Kent--year=1987--
+Play Seasons In The Sun by Rosco Gordon on iheart#PlayMusic#track=Seasons In The Sun--artist=Rosco Gordon--service=iheart--
+play some Origa on Google Music#PlayMusic#artist=Origa--service=Google Music--
+Play Brian Clifton off Groove Shark.#PlayMusic#artist=Brian Clifton--service=Groove Shark--
+play Neutrons  by Seun Kuti#PlayMusic#album=Neutrons--artist=Seun Kuti--
+Play some music from 1985 by Rolf Harris#PlayMusic#year=1985--artist=Rolf Harris--
+Play the album Will Rap Over Hard Rock For Food#PlayMusic#music_item=album--album=Will Rap Over Hard Rock For Food--
+Play Donna Summer#PlayMusic#artist=Donna Summer--
+Please use pandora to play a record from 1993#PlayMusic#service=pandora--music_item=record--year=1993--
+Play a record from the year 1979#PlayMusic#music_item=record--year=1979--
+play playlist The Realest Down South#PlayMusic#playlist=The Realest Down South--
+Play some steve boyett chant music#PlayMusic#artist=steve boyett--music_item=chant--
+play a track from 2004#PlayMusic#music_item=track--year=2004--
+play Vimeo 2009 by Desmond Dekker#PlayMusic#service=Vimeo--year=2009--artist=Desmond Dekker--
+Play music by Raheem Devaughn.#PlayMusic#artist=Raheem Devaughn--
+Play some 1999 symphony from Minami Takahashi#PlayMusic#year=1999--music_item=symphony--artist=Minami Takahashi--
+Use Groove Shark to play the Today And Tomorrow album#PlayMusic#service=Groove Shark--album=Today And Tomorrow--music_item=album--
+Play some Mark Tremonti from the thirties.#PlayMusic#artist=Mark Tremonti--year=thirties--
+play the greatest 1972 album by Wes Dakus#PlayMusic#sort=greatest--year=1972--music_item=album--artist=Wes Dakus--
+Play a 2013 song on Groove Shark#PlayMusic#year=2013--music_item=song--service=Groove Shark--
+Play some theme songs from 1974#PlayMusic#music_item=theme--year=1974--
+Play the top caleigh peters.#PlayMusic#sort=top--artist=caleigh peters--
+Play new Teo Macero#PlayMusic#sort=new--artist=Teo Macero--
+play a Karin Dreijer Andersson soundtrack on Groove Shark#PlayMusic#artist=Karin Dreijer Andersson--music_item=soundtrack--service=Groove Shark--
+Play my Mellow Beats playlist please#PlayMusic#playlist=Mellow Beats--
+Play me the greatest track of 1966#PlayMusic#sort=greatest--music_item=track--year=1966--
+Play me a Frank Farian ep#PlayMusic#artist=Frank Farian--music_item=ep--
+Play music from Art Porter Junior movie sound track using Vimeo#PlayMusic#artist=Art Porter Junior--music_item=sound track--service=Vimeo--
+Play a theme from Walerij Leontjew#PlayMusic#music_item=theme--artist=Walerij Leontjew--
+I want to listen to Merrily We Roll Along by Marko Desantis.#PlayMusic#track=Merrily We Roll Along--artist=Marko Desantis--
+play Asia Nitollano using itunes#PlayMusic#artist=Asia Nitollano--service=itunes--
+Play top Martin Solveig on deezer#PlayMusic#sort=top--artist=Martin Solveig--service=deezer--
+Play any song from Rebecca Hewitt#PlayMusic#music_item=song--artist=Rebecca Hewitt--
+Play the Mister Music Man by Gene De Paul.#PlayMusic#track=Mister Music Man--artist=Gene De Paul--
+Let me hear the top album by the artist, Skin.#PlayMusic#sort=top--music_item=album--artist=Skin--
+Play Harel Skaat#PlayMusic#artist=Harel Skaat--
+Play some John Oates on Youtube.#PlayMusic#artist=John Oates--service=Youtube--
+Play me an ep from 2005.#PlayMusic#music_item=ep--year=2005--
+Please play me a top nineties theme song#PlayMusic#sort=top--year=nineties--music_item=theme song--
+play the track Asleep In The Deep#PlayMusic#music_item=track--track=Asleep In The Deep--
+Can you play a melody from the fifties on Last Fm?#PlayMusic#music_item=melody--year=fifties--service=Last Fm--
+play some Deezer oldies music#PlayMusic#service=Deezer--genre=oldies--
+Play my Masters of Metal playlist on Spotify#PlayMusic#playlist=Masters of Metal--service=Spotify--
+play Are & Be#PlayMusic#playlist=Are & Be--
+Plays some akb48 on Youtube#PlayMusic#album=Plays--service=Youtube--
+Play music from the track My Friend on Google Music by Steve Sholes#PlayMusic#music_item=track--track=My Friend--service=Google Music--artist=Steve Sholes--
+Play teri meri by Josh White#PlayMusic#track=teri meri--artist=Josh White--
+play some Nastya Kamenskih on Zvooq#PlayMusic#artist=Nastya Kamenskih--service=Zvooq--
+play a 1999 track by Pete Seeger on Youtube#PlayMusic#year=1999--music_item=track--artist=Pete Seeger--service=Youtube--
+use Lastfm to play Attack Of The Planet Smashers#PlayMusic#service=Lastfm--album=Attack Of The Planet Smashers--
+Play Shinehead's music from the twenties on Slacker.#PlayMusic#artist=Shinehead--year=twenties--service=Slacker--
+Play the last sound track by Soko from around 1975#PlayMusic#sort=last--music_item=sound track--artist=Soko--year=1975--
+Play 1958 music on Iheart#PlayMusic#year=1958--service=Iheart--
+play Isham Jones#PlayMusic#artist=Isham Jones--
+Can you play me some britpop music#PlayMusic#genre=britpop--
+Play a song from 1973.#PlayMusic#music_item=song--year=1973--
+turn on Last Fm to listen to Chara ballad from 1988#PlayMusic#service=Last Fm--artist=Chara--music_item=ballad--year=1988--
+Please play music off the soundtrack by Beau Jocque#PlayMusic#music_item=soundtrack--artist=Beau Jocque--
+Play a new song from 1976.#PlayMusic#sort=new--music_item=song--year=1976--
+Play the greatest melody from Paul Wright on Pandora#PlayMusic#sort=greatest--music_item=melody--artist=Paul Wright--service=Pandora--
+Play Eternally by Marko Desantis on zvooq.#PlayMusic#track=Eternally--artist=Marko Desantis--service=zvooq--
+Play The Galway Races on Netflix.#PlayMusic#track=The Galway Races--service=Netflix--
+play Pandora tunes from the fourties#PlayMusic#service=Pandora--year=fourties--
+Play top-50 Peter Frampton songs#PlayMusic#sort=top-50--artist=Peter Frampton--
+Play music off Itunes.#PlayMusic#service=Itunes--
+Play me a song from 2016#PlayMusic#music_item=song--year=2016--
+Start playing something off Spotify#PlayMusic#service=Spotify--
+play Tom Baxter tracks#PlayMusic#artist=Tom Baxter--
+Play music on the playlist Urban Hits#PlayMusic#playlist=Urban Hits--
+Play The Monkeys Have No Tails In Zamboanga on Google Music.#PlayMusic#track=The Monkeys Have No Tails In Zamboanga--service=Google Music--
+I want to hear music from 1975#PlayMusic#year=1975--
+Play Kim Wilde by Mike Scott on Slacker#PlayMusic#album=Kim Wilde--artist=Mike Scott--service=Slacker--
+Play anything  from Hiromitsu Agatsuma off iHeart.#PlayMusic#artist=Hiromitsu Agatsuma--service=iHeart--
+play a top-fifty 1965 album by Ski#PlayMusic#sort=top-fifty--year=1965--music_item=album--artist=Ski--
+Play  music from the thirties.#PlayMusic#year=thirties--
+Play me the new King Curtis music on Google Music.#PlayMusic#sort=new--artist=King Curtis--service=Google Music--
+Ply best 1973 sound track#PlayMusic#sort=best--year=1973--music_item=sound track--
+Play music by Daddy Yankee#PlayMusic#artist=Daddy Yankee--
+I would like to hear music from 1993#PlayMusic#year=1993--
+Play me track September, Gouden Roos by artist daedelus#PlayMusic#music_item=track--track=September, Gouden Roos--artist=daedelus--
+Play a concerto from the nineties#PlayMusic#music_item=concerto--year=nineties--
+I want to hear Major Harris's songs from the fifties#PlayMusic#artist=Major Harris--year=fifties--
+Play me a nineties ep#PlayMusic#year=nineties--music_item=ep--
+Please anything good by Chieko Ochi#PlayMusic#sort=good--artist=Chieko Ochi--
+Play Kk on Zvooq.#PlayMusic#artist=Kk--service=Zvooq--
+Play Apbl98 by Alden Penner.#PlayMusic#album=Apbl98--artist=Alden Penner--
+Use Vimeo to play a Mark King record from 1993#PlayMusic#service=Vimeo--artist=Mark King--music_item=record--year=1993--
+use Deezer to play music by Junior Brown#PlayMusic#service=Deezer--artist=Junior Brown--
+Play some Erin Harkes from the fifties on Lastfm.#PlayMusic#artist=Erin Harkes--year=fifties--service=Lastfm--
+Play Verjamem track by Hong Junyang.#PlayMusic#track=Verjamem--music_item=track--artist=Hong Junyang--
+Play music by Otis Redding.#PlayMusic#artist=Otis Redding--
+Please play some music for me on Netflix#PlayMusic#service=Netflix--
+Play Tad Kinchla soundtrack#PlayMusic#artist=Tad Kinchla--music_item=soundtrack--
+Play Kisaki on Pandora#PlayMusic#artist=Kisaki--service=Pandora--
+Can you play a song from the fourties by George Martin#PlayMusic#music_item=song--year=fourties--artist=George Martin--
+Play me a song by Saki Nakajima#PlayMusic#music_item=song--artist=Saki Nakajima--
+Play some 1970 Antero Manninen on zvooq.#PlayMusic#year=1970--artist=Antero Manninen--service=zvooq--
+Play a top track by Janamanchi Seshadri Sarma#PlayMusic#sort=top--music_item=track--artist=Janamanchi Seshadri Sarma--
+Use Itunes to play artist Ringo Shiina track In Heaven#PlayMusic#service=Itunes--artist=Ringo Shiina--music_item=track--track=In Heaven--
+Play music by Sha Money Xl sort by good.#PlayMusic#artist=Sha Money Xl--sort=good--
+I want to listen to the album going back to the blue ridge mountains on iheart#PlayMusic#music_item=album--album=going back to the blue ridge mountains--service=iheart--
+Play Someday Soon by fiona#PlayMusic#track=Someday Soon--artist=fiona--
+Play the most popular sound track from the 2006#PlayMusic#sort=most popular--music_item=sound track--year=2006--
+Play tuomas holopainen's The 21 Project.#PlayMusic#artist=tuomas holopainen--album=The 21 Project--
+Play Tenerife Sea by Daniel Salomon on Lastfm#PlayMusic#track=Tenerife Sea--artist=Daniel Salomon--service=Lastfm--
+Play a top twenty sort by Akinyele.#PlayMusic#sort=top twenty--artist=Akinyele--
+Play nineties#PlayMusic#year=nineties--
+Play a track by Ishmon Bracey on Iheart.#PlayMusic#music_item=track--artist=Ishmon Bracey--service=Iheart--
+Can you play the latest faust soundtrack from 1967?#PlayMusic#sort=latest--artist=faust--music_item=soundtrack--year=1967--
+Play me the greatest chant by Laurel Aitken on lastfm #PlayMusic#sort=greatest--music_item=chant--artist=Laurel Aitken--service=lastfm--
+Play the most popular Coti songs on Pandora#PlayMusic#sort=most popular--artist=Coti--service=Pandora--
+Play some noise music on Netflix.#PlayMusic#genre=noise--service=Netflix--
+Play Rob Mills album The Golden Archipelago.#PlayMusic#artist=Rob Mills--music_item=album--album=The Golden Archipelago--
+play melody music from the thirties#PlayMusic#music_item=melody--year=thirties--
+Play some tune from 2011 on Youtube#PlayMusic#music_item=tune--year=2011--service=Youtube--
+play melody and sort the newest in Dj Format#PlayMusic#music_item=melody--sort=newest--artist=Dj Format--
+Play a record from 2010.#PlayMusic#music_item=record--year=2010--
+Play a melody by Adassa from the twenties#PlayMusic#music_item=melody--artist=Adassa--year=twenties--
+play 1988 chant music on Itunes#PlayMusic#year=1988--music_item=chant--service=Itunes--
+play Glenn Yarbrough tunes#PlayMusic#artist=Glenn Yarbrough--
+Play Llegando a Casa playlist#PlayMusic#playlist=Llegando a Casa--
+Play me a tune by Mick Brown#PlayMusic#music_item=tune--artist=Mick Brown--
+play The Insoc Ep#PlayMusic#album=The Insoc Ep--
+Play some music from the sixties#PlayMusic#year=sixties--
+I need to hear the new Kevin Fowler album#PlayMusic#artist=Kevin Fowler--music_item=album--
+Play me the newest fourties symphony#PlayMusic#sort=newest--year=fourties--music_item=symphony--
+play Latin Dinner#PlayMusic#playlist=Latin Dinner--
+Play Stefon Harris's song.#PlayMusic#artist=Stefon Harris--music_item=song--
+Play a song from 2013.#PlayMusic#music_item=song--year=2013--
+play 1951 tunes#PlayMusic#year=1951--
+Play Step Up Your Game by Marc Cohn.#PlayMusic#album=Step Up Your Game--artist=Marc Cohn--
+Play any nineties music#PlayMusic#year=nineties--
+Play the greatest ballad from the seventies#PlayMusic#sort=greatest--music_item=ballad--year=seventies--
+Play a track by Yui on Vimeo#PlayMusic#music_item=track--artist=Yui--service=Vimeo--
+Play the top five songs from Robert Lockwood Junior.#PlayMusic#sort=top five--artist=Robert Lockwood Junior--
+Play some latin music.#PlayMusic#genre=latin--
+Plkay some sixties movement songs from Itunes#PlayMusic#year=sixties--music_item=movement--service=Itunes--
+Play me Hier Encore by greydon square#PlayMusic#track=Hier Encore--artist=greydon square--
+play In Your Eyes by gareth gates on Netflix#PlayMusic#track=In Your Eyes--artist=gareth gates--service=Netflix--
+Play some music on Itunes#PlayMusic#service=Itunes--
+Play Dj Shadow's A Love Hate Masquerade.#PlayMusic#artist=Dj Shadow--album=A Love Hate Masquerade--
+play Seven Steps To Heaven by Wikluh Sky#PlayMusic#track=Seven Steps To Heaven--artist=Wikluh Sky--
+Play some music from Victor Kunonga.#PlayMusic#artist=Victor Kunonga--
+play fourties chant music on Last Fm#PlayMusic#year=fourties--music_item=chant--service=Last Fm--
+Play some 1959 songs on Iheart#PlayMusic#year=1959--service=Iheart--
+Play March Of The Soviet Tankmen from Gloria Gaither#PlayMusic#track=March Of The Soviet Tankmen--artist=Gloria Gaither--
+Play music from the album Evolution Of A Man by Joey Ramone#PlayMusic#music_item=album--album=Evolution Of A Man--artist=Joey Ramone--
+Can you play fifties theme music by Mohsen Chavoshi#PlayMusic#year=fifties--music_item=theme--artist=Mohsen Chavoshi--
+play the album Pressure Cracks with Netflix#PlayMusic#music_item=album--album=Pressure Cracks--service=Netflix--
+Play the best Sebastian Karlsson melody on Youtube#PlayMusic#sort=best--artist=Sebastian Karlsson--music_item=melody--service=Youtube--
+Play some Oleg Anofriyev from 1960.#PlayMusic#artist=Oleg Anofriyev--year=1960--
+Play some Joeri Basjmet.#PlayMusic#artist=Joeri Basjmet--
+Play Elliot Easton's album Beautiful#PlayMusic#artist=Elliot Easton--music_item=album--album=Beautiful--
+use Vimeo to play De Camino a Clase playlist#PlayMusic#service=Vimeo--playlist=De Camino a Clase--
+Please play playlist TODO REGGAETON#PlayMusic#playlist=TODO REGGAETON--
+Play me some Badass Women on Groove Shark#PlayMusic#playlist=Badass Women--service=Groove Shark--
+Play some Antony Harding songs from the eighties#PlayMusic#artist=Antony Harding--year=eighties--
+I want to hear a nineties track by stat quo on Deezer#PlayMusic#year=nineties--music_item=track--artist=stat quo--service=Deezer--
+Play music from the seventies#PlayMusic#year=seventies--
+play The New Timer by Augustus Pablo with Itunes#PlayMusic#track=The New Timer--artist=Augustus Pablo--service=Itunes--
+Play How Does It Work by Helen Carter.#PlayMusic#album=How Does It Work--artist=Helen Carter--
+Play music from 1968 on Vimeo.#PlayMusic#year=1968--service=Vimeo--
+I want to hear something from Post-punk Revival#PlayMusic#genre=Post-punk Revival--
+Play music from the artist Joe Sample#PlayMusic#artist=Joe Sample--
+Play Dave Joyal#PlayMusic#artist=Dave Joyal--
+Open groove shark and play Jason Mizell#PlayMusic#service=groove shark--artist=Jason Mizell--
+I want to hear something from the top-fifty by Jose Pasillas#PlayMusic#sort=top-fifty--artist=Jose Pasillas--
+Use service Vimeo the genre slow rock#PlayMusic#service=Vimeo--genre=slow rock--
+Open Zvooq and play the best songs from Device#PlayMusic#service=Zvooq--sort=best--artist=Device--
+play something from 1971 by John Bonham#PlayMusic#year=1971--artist=John Bonham--
+play primus #PlayMusic#genre=primus--
+Play symphony music from 1991 by Irvin Mayfield#PlayMusic#music_item=symphony--year=1991--artist=Irvin Mayfield--
+play Going Down To The River on Pandora#PlayMusic#album=Going Down To The River--service=Pandora--
+play 1977 good track tunes#PlayMusic#year=1977--sort=good--music_item=track--
+Play the album Jack Takes The Floor by Tom Lehrer on netflix#PlayMusic#music_item=album--album=Jack Takes The Floor--artist=Tom Lehrer--service=netflix--
+Use Netflix to play music#PlayMusic#service=Netflix--
+play Sunshine Reggae on youtube#PlayMusic#playlist=Sunshine Reggae--service=youtube--
+play Realization by Randy Jackson#PlayMusic#album=Realization--artist=Randy Jackson--
+Please play some Bill Evans music.#PlayMusic#artist=Bill Evans--
+play Safe Rock And Roll Sucks on Lastfm#PlayMusic#album=Safe Rock And Roll Sucks--service=Lastfm--
+Can you play the greatest songs by Mauro Picotto#PlayMusic#sort=greatest--artist=Mauro Picotto--
+Play music by Deenanath Mangeshkar#PlayMusic#artist=Deenanath Mangeshkar--
+Play the best sort by Jan Robbe on pandora#PlayMusic#sort=best--artist=Jan Robbe--service=pandora--
+Play track Real Talk#PlayMusic#music_item=track--track=Real Talk--
+Use Netflix to play In The Arms Of A Woman playlist#PlayMusic#service=Netflix--playlist=In The Arms Of A Woman--
+Play some 1993 concerto off of Slacker#PlayMusic#year=1993--music_item=concerto--service=Slacker--
+Open Spotify and play a song from the twenties by Richard Harvey#PlayMusic#service=Spotify--music_item=song--year=twenties--artist=Richard Harvey--
+listen to Vertexguy track#PlayMusic#artist=Vertexguy--music_item=track--
+Play the most popular stuff by Tina Dico#PlayMusic#sort=most popular--artist=Tina Dico--
+Play any song from 2006#PlayMusic#music_item=song--year=2006--
+Play some Sonu Niigaam from the fifties#PlayMusic#artist=Sonu Niigaam--year=fifties--
+Play a 1983 ballad on Groove Shark.#PlayMusic#year=1983--music_item=ballad--service=Groove Shark--
+Play the artist Tei last concert on Netflix#PlayMusic#artist=Tei--sort=last--service=Netflix--
+play 1981 tunes by Jiles Perry Richardson on Lastfm for theme music#PlayMusic#year=1981--artist=Jiles Perry Richardson--service=Lastfm--music_item=theme--
+Can you play some music from my road trip album#PlayMusic#playlist=road trip--music_item=album--
+Play me a song from the fourties movement#PlayMusic#music_item=song--year=fourties--music_item=movement--
+play pandora#PlayMusic#service=pandora--
+Play Oj, Jelena, Jelena, Jabuka Zelena by Ler Lalonde.#PlayMusic#track=Oj, Jelena, Jelena, Jabuka Zelena--artist=Ler Lalonde--
+Play a new ballad by Valy on Iheart#PlayMusic#sort=new--music_item=ballad--artist=Valy--service=Iheart--
+Play Grabsteinland I by Doctor Fink on slacker radio#PlayMusic#album=Grabsteinland I--artist=Doctor Fink--service=slacker--
+I want to hear Rock Bottom by Playa Fly on Slacker#PlayMusic#track=Rock Bottom--artist=Playa Fly--service=Slacker--
+Play an Alla Pougatcheva ballad on Pandora#PlayMusic#artist=Alla Pougatcheva--music_item=ballad--service=Pandora--
+Play Pledge by Markus Grosskopf#PlayMusic#album=Pledge--artist=Markus Grosskopf--
+Play music from 1999#PlayMusic#year=1999--
+Play classic rock on Groove Shark#PlayMusic#genre=classic rock--service=Groove Shark--
+I wish to listen to good symphony music by mi lu bing.#PlayMusic#sort=good--music_item=symphony--artist=mi lu bing--
+I wish to listen to some fifties music.#PlayMusic#year=fifties--
+Play some James Cleveland.#PlayMusic#artist=James Cleveland--
+Can you play some Synthpop music on Youtube#PlayMusic#genre=Synthpop--service=Youtube--
+play the album Wayning Moments by Rabbit Brown#PlayMusic#music_item=album--album=Wayning Moments--artist=Rabbit Brown--
+Can you play a Sammy Fain ep#PlayMusic#artist=Sammy Fain--music_item=ep--
+Use Groove Shark to play music from the eighties#PlayMusic#service=Groove Shark--year=eighties--
+Play a 2001 sound track on Deezer.#PlayMusic#year=2001--music_item=sound track--service=Deezer--
+Play the top movement music from 1997.#PlayMusic#sort=top--music_item=movement--year=1997--
+Play a popular melody by Lindsay Lohan on Youtube.#PlayMusic#sort=popular--music_item=melody--artist=Lindsay Lohan--service=Youtube--
+play chant music by David Cook#PlayMusic#music_item=chant--artist=David Cook--
+Play music off Youtube.#PlayMusic#service=Youtube--
+play some Mike Porcaro#PlayMusic#artist=Mike Porcaro--
+I want to hear something off Fist For Fight by Rushton Moreve on Youtube#PlayMusic#album=Fist For Fight--artist=Rushton Moreve--service=Youtube--
+Play the playlist Tropical Morning on Pandora#PlayMusic#playlist=Tropical Morning--service=Pandora--
+Play music from Hide#PlayMusic#artist=Hide--
+Play top-five concerto music from 1992#PlayMusic#sort=top-five--music_item=concerto--year=1992--
+I want to hear something eclectic#PlayMusic#playlist=eclectic--
+Play me a Felix Kubin from No Light on Spotify#PlayMusic#artist=Felix Kubin--album=No Light--service=Spotify--
+Play me a track by Steve Souza#PlayMusic#music_item=track--artist=Steve Souza--
+play Itunes album mondovisione#PlayMusic#service=Itunes--music_item=album--album=mondovisione--
+play Punk Essentials on Zvooq#PlayMusic#playlist=Punk Essentials--service=Zvooq--
+Play me a song by Hank Thompson from Moa Anbessa#PlayMusic#music_item=song--artist=Hank Thompson--album=Moa Anbessa--
+Use Spotify to play music#PlayMusic#service=Spotify--
+Play Me Against The World from Glukoza#PlayMusic#album=Me Against The World--artist=Glukoza--
+Play some music from 1962 from Adeyto#PlayMusic#year=1962--artist=Adeyto--
+I want to hear Jimmy James from the thirties, play a song on Groove Shark.#PlayMusic#artist=Jimmy James--year=thirties--music_item=song--service=Groove Shark--
+Play any song from the eighties#PlayMusic#music_item=song--year=eighties--
+Play some movement music by Perez Prado on Iheart#PlayMusic#music_item=movement--artist=Perez Prado--service=Iheart--
+play Ebony Bones on Itunes#PlayMusic#artist=Ebony Bones--service=Itunes--
+play Innovations by Kokia#PlayMusic#album=Innovations--artist=Kokia--
+I Need rave Slacker to play#PlayMusic#genre=rave--service=Slacker--
+play Fernando Olvera#PlayMusic#artist=Fernando Olvera--
+Can you play something off Johan Larsson's Travelers And Thieves#PlayMusic#artist=Johan Larsson--album=Travelers And Thieves--
+list to the most popular Muireann Nic Amhlaoibh song#PlayMusic#sort=most popular--artist=Muireann Nic Amhlaoibh--music_item=song--
+Open my music playlist on Youtube#PlayMusic#service=Youtube--
+Play the top chant music from 2014.#PlayMusic#sort=top--music_item=chant--year=2014--
+Play music from Lastfm.#PlayMusic#service=Lastfm--
+Play me a 1990 sound track#PlayMusic#year=1990--music_item=sound track--
+Play the song Long Live Love#PlayMusic#music_item=song--track=Long Live Love--
+Play me a ballad by Dres on groove shark#PlayMusic#music_item=ballad--artist=Dres--service=groove shark--
+Play the top of emil de cou#PlayMusic#sort=top--artist=emil de cou--
+play Barry Manilow from the twenties#PlayMusic#artist=Barry Manilow--year=twenties--
+Play a seventies Tom Thacker ballad#PlayMusic#year=seventies--artist=Tom Thacker--music_item=ballad--
+listen to ballad songs from the twenties#PlayMusic#music_item=ballad--year=twenties--
+Play the music of melody of 1997 in Itunes#PlayMusic#music_item=melody--year=1997--service=Itunes--
+Can you play a chant by Butch Trucks on Spotify#PlayMusic#music_item=chant--artist=Butch Trucks--service=Spotify--
+I want to hear music off my Indie Festival playlist#PlayMusic#playlist=Indie Festival--
+Play instrumental pop#PlayMusic#genre=instrumental pop--
+Play some Hong Junyang.#PlayMusic#artist=Hong Junyang--
+Play mere lapsed by Marilyn Moore.#PlayMusic#track=mere lapsed--artist=Marilyn Moore--
+Please play the most popular ep from 1998 by Mc Frontalot #PlayMusic#sort=most popular--music_item=ep--year=1998--artist=Mc Frontalot--
+play some Spotify by Danni Bassan#PlayMusic#service=Spotify--artist=Danni Bassan--
+play the best album from the seventies#PlayMusic#sort=best--music_item=album--year=seventies--
+Play music from 2016.#PlayMusic#year=2016--
+I want to hear jon sholle's stuff from 2009 on Groove Shark#PlayMusic#artist=jon sholle--year=2009--service=Groove Shark--
+play music by Rodney Whitaker#PlayMusic#artist=Rodney Whitaker--
+Please play a movement by Rupam Islam#PlayMusic#music_item=movement--artist=Rupam Islam--
+play the latest Thelma Aoyama#PlayMusic#sort=latest--artist=Thelma Aoyama--
+Play some music by Karl Blau.#PlayMusic#artist=Karl Blau--
+Open pandora and play the top five melody by Hanna Sjedokowa#PlayMusic#service=pandora--sort=top five--music_item=melody--artist=Hanna Sjedokowa--
+play Phil Spalding soundtrack from the seventies#PlayMusic#artist=Phil Spalding--music_item=soundtrack--year=seventies--
+Play Dancing Through Life by Ronald Isley on spotify#PlayMusic#track=Dancing Through Life--artist=Ronald Isley--service=spotify--
+Play a top symphony sort form 1959 by Stuart Garrard.#PlayMusic#sort=top--music_item=symphony--year=1959--artist=Stuart Garrard--
+I want to listen to seventies music.#PlayMusic#year=seventies--
+Play something by Holly Cole on lastfm #PlayMusic#artist=Holly Cole--service=lastfm--
+Play rhythmic#PlayMusic#playlist=rhythmic--
+Play Punk Essentials on google music#PlayMusic#playlist=Punk Essentials--service=google music--
+Play the top-20 best Chicane songs on Deezer#PlayMusic#sort=top-20 best--artist=Chicane--service=Deezer--
+Play Songs Of Heaven by ami koshimizu#PlayMusic#album=Songs Of Heaven--artist=ami koshimizu--
+Play Dj Subroc on Itunes#PlayMusic#artist=Dj Subroc--service=Itunes--
+Play a song by Tim Finn on Last Fm#PlayMusic#music_item=song--artist=Tim Finn--service=Last Fm--
+Play music from the sixties#PlayMusic#year=sixties--
+Play Oliver on pandora.#PlayMusic#track=Oliver--service=pandora--
+Play some 2011 chant music, new first, by Shaggy.#PlayMusic#year=2011--music_item=chant--sort=new--artist=Shaggy--
+play the top song from Damon Albarn using Slacker#PlayMusic#sort=top--music_item=song--artist=Damon Albarn--service=Slacker--
+Play sixties music by giovanni battista guadagnini.#PlayMusic#year=sixties--artist=giovanni battista guadagnini--
+Play some music from the last album of 1988 on Lastfm#PlayMusic#music_item=album--year=1988--service=Lastfm--
+Please start playing some thirties theme music.#PlayMusic#year=thirties--music_item=theme--
+Can I hear Anna Vissi's new music on Pandora?#PlayMusic#artist=Anna Vissi--sort=new--service=Pandora--
+Play music by artist mark ashley#PlayMusic#artist=mark ashley--
+Play the top Maynard James Keenan.#PlayMusic#sort=top--artist=Maynard James Keenan--
+I want to hear a top-20 chant from the twenties#PlayMusic#sort=top-20--music_item=chant--year=twenties--
+Play the most popular song by espen lind#PlayMusic#sort=most popular--music_item=song--artist=espen lind--
+Play Yuauea by Rick Ross#PlayMusic#album=Yuauea--artist=Rick Ross--
+Play The Tyranny Of Distance by Willy Mason.#PlayMusic#album=The Tyranny Of Distance--artist=Willy Mason--
+Play a top song by Carson Parks on Groove Shark#PlayMusic#sort=top--music_item=song--artist=Carson Parks--service=Groove Shark--
+Use Deezer to play the last song from Lee Dorrian#PlayMusic#service=Deezer--sort=last--music_item=song--artist=Lee Dorrian--
+Play some seventies music on netflix.#PlayMusic#year=seventies--service=netflix--
+Play fourties record#PlayMusic#year=fourties--music_item=record--
+Play Chad I Ginsburg#PlayMusic#artist=Chad I Ginsburg--
+Can you pull up a track on Zvooq by Graham Mcpherson#PlayMusic#music_item=track--service=Zvooq--artist=Graham Mcpherson--
+Play 1993 theme music#PlayMusic#year=1993--music_item=theme--
+Play something off Google Music#PlayMusic#service=Google Music--
+Open youtube#PlayMusic#service=youtube--
+Play some music on spotify#PlayMusic#service=spotify--
+Play the song Drifting On A Reed by Bobby G#PlayMusic#music_item=song--track=Drifting On A Reed--artist=Bobby G--
+Play new movement from Mike Oldfield on Vimeo#PlayMusic#sort=new--music_item=movement--artist=Mike Oldfield--service=Vimeo--
+Play Foundling by Jean Grae on Vimeo.#PlayMusic#album=Foundling--artist=Jean Grae--service=Vimeo--
+Play some acapella music on Iheart#PlayMusic#genre=acapella--service=Iheart--
+Play some sixties music by gaudi on last fm#PlayMusic#year=sixties--artist=gaudi--service=last fm--
+Play a tune or two from Kansas City, Missouri#PlayMusic#music_item=tune--artist=Kansas City, Missouri--
+play some songs from the fourties by yoshiki fukuyama#PlayMusic#year=fourties--artist=yoshiki fukuyama--
+play Angela Winbush ep that is popular#PlayMusic#artist=Angela Winbush--music_item=ep--sort=popular--
+play To Be Still#PlayMusic#album=To Be Still--
+I want to hear Gloryhole from Mani off of Lastfm#PlayMusic#album=Gloryhole--artist=Mani--service=Lastfm--
+play music by Charlie Adams from 1954#PlayMusic#artist=Charlie Adams--year=1954--
+play the It Could Only Happen With You album by Lawrence#PlayMusic#album=It Could Only Happen With You--music_item=album--artist=Lawrence--
+Play Moondog's Chupacabra.#PlayMusic#artist=Moondog--album=Chupacabra--
+I'd like to hear some trip-hop#PlayMusic#genre=trip-hop--
+Play a 2001 tune#PlayMusic#year=2001--music_item=tune--
+Can you pull up and play something on Itunes#PlayMusic#service=Itunes--
+I want to hear some theme music by Edsel Dope#PlayMusic#music_item=theme--artist=Edsel Dope--
+Play some music from 1993 on Itunes.#PlayMusic#year=1993--service=Itunes--
+I want to hear the new Vasilis Tsitsanis ep#PlayMusic#artist=Vasilis Tsitsanis--music_item=ep--
+play a sound track by Vegard Sverre Tveitan#PlayMusic#music_item=sound track--artist=Vegard Sverre Tveitan--
+Play Crucifixion on Deezer.#PlayMusic#track=Crucifixion--service=Deezer--
+I want to hear the album Suites & Sweets#PlayMusic#music_item=album--album=Suites & Sweets--
+Play Adrian Borland's music on Zvooq.#PlayMusic#artist=Adrian Borland--service=Zvooq--
+Open The Second Adventure album by Hans Nilsson#PlayMusic#album=The Second Adventure--music_item=album--artist=Hans Nilsson--
+Play something off Rage Radio#PlayMusic#playlist=Rage Radio--
+I want to hear This Is The Night from Proof#PlayMusic#track=This Is The Night--artist=Proof--
+Play Classical X#PlayMusic#playlist=Classical X--
+Play me a song by Michael Diamond#PlayMusic#music_item=song--artist=Michael Diamond--
+play Kurt Cobain ballad tunes#PlayMusic#artist=Kurt Cobain--music_item=ballad--
+Play some Eddie Vinson on Deezer#PlayMusic#artist=Eddie Vinson--service=Deezer--
+Play the greatest record by Leroi Moore#PlayMusic#sort=greatest--music_item=record--artist=Leroi Moore--
+Play Dawn Richard song White Summer#PlayMusic#artist=Dawn Richard--music_item=song--track=White Summer--
+Play some Ray Williams music from the nineties on spotify#PlayMusic#artist=Ray Williams--year=nineties--service=spotify--
+play chant on groove shark from 1996#PlayMusic#music_item=chant--service=groove shark--year=1996--
+Play the top fifty record from Alan Jardine#PlayMusic#sort=top fifty--music_item=record--artist=Alan Jardine--
+play newest Robert Palmer sound track#PlayMusic#sort=newest--artist=Robert Palmer--music_item=sound track--
+Play music on my Itunes#PlayMusic#service=Itunes--
+Play something by Daisy Voisin on google music#PlayMusic#artist=Daisy Voisin--service=google music--
+Play some Dj Qbert.#PlayMusic#artist=Dj Qbert--
+Play Supernaut by Armand Van Helden#PlayMusic#track=Supernaut--artist=Armand Van Helden--
+Can I hear a Da Brat ep?#PlayMusic#artist=Da Brat--music_item=ep--
+play symphony music from the fourties with google music#PlayMusic#music_item=symphony--year=fourties--service=google music--
+Play got to be free by Madeleine Peyroux#PlayMusic#track=got to be free--artist=Madeleine Peyroux--
+Play music in the genre soundtrack#PlayMusic#genre=soundtrack--
+play some fifties tunes by Mike Mccready#PlayMusic#year=fifties--artist=Mike Mccready--
+Play music from Carina Round#PlayMusic#artist=Carina Round--
+I want to hear the new movement from Richard Harvey#PlayMusic#sort=new--music_item=movement--artist=Richard Harvey--
+Play a song off The Best Of Siouxsie & The Banshees by Faustino Oramas#PlayMusic#music_item=song--album=The Best Of Siouxsie & The Banshees--artist=Faustino Oramas--
+Play the album, Dance Hall At Louse Point.#PlayMusic#music_item=album--album=Dance Hall At Louse Point--
+play Lighter by Pamela Jintana Racine#PlayMusic#track=Lighter--artist=Pamela Jintana Racine--
+Play the top-ten soundtrack from Kiara.#PlayMusic#sort=top-ten--music_item=soundtrack--artist=Kiara--
+play the last chant from the fourties#PlayMusic#sort=last--music_item=chant--year=fourties--
+Play Gary Chapman music from the fifties#PlayMusic#artist=Gary Chapman--year=fifties--
+Play some Armik from the fourties#PlayMusic#artist=Armik--year=fourties--
+play a popular sort of fifties tune music#PlayMusic#sort=popular--year=fifties--music_item=tune--
+I'd like to hear Helen Baylor#PlayMusic#artist=Helen Baylor--
+Play music from 1989 by Maya.#PlayMusic#year=1989--artist=Maya--
+Play Kool Keith Presents Thee Undatakerz by John Mccrea.#PlayMusic#album=Kool Keith Presents Thee Undatakerz--artist=John Mccrea--
+play Piano 100#PlayMusic#playlist=Piano 100--
+Play some music on Lastfm#PlayMusic#service=Lastfm--
+Play a concerto top ten sort by Lloyd.#PlayMusic#music_item=concerto--sort=top ten--artist=Lloyd--
+Play Arif music from the fourties.#PlayMusic#artist=Arif--year=fourties--
+Play music off Netflix.#PlayMusic#service=Netflix--
+Open Pandora and play music from the fifties. #PlayMusic#service=Pandora--year=fifties--
+have Zvooq play songs from the fifties#PlayMusic#service=Zvooq--year=fifties--
+Play some chant music by Kevin Jonas on deezer.#PlayMusic#music_item=chant--artist=Kevin Jonas--service=deezer--
+Play paul ortiz music from 1990#PlayMusic#artist=paul ortiz--year=1990--
+Play some Glenn Stetson music on Spotify#PlayMusic#artist=Glenn Stetson--service=Spotify--
+Open Groove Shark and play sound track from Dj Cameo#PlayMusic#service=Groove Shark--music_item=sound track--artist=Dj Cameo--
+Play music on Iheart#PlayMusic#service=Iheart--
+Play my Top Gaming Tracks.#PlayMusic#playlist=Top Gaming Tracks--
+something on Spotify please#PlayMusic#service=Spotify--
+Play BurhÃ¸ns by Ernie C.#PlayMusic#album=BurhÃ¸ns--artist=Ernie C--
+Let me hear an ep from the thirties era of music.#PlayMusic#music_item=ep--year=thirties--
+Proceed with music from 2003.#PlayMusic#year=2003--
+Play Elkie Brooks seventies sound track#PlayMusic#artist=Elkie Brooks--year=seventies--music_item=sound track--
+Open Vimeo and play music.#PlayMusic#service=Vimeo--
+play a top twenty symphony of 2010#PlayMusic#sort=top twenty--music_item=symphony--year=2010--
+Play music from the artist Taktloss from the record in the thirties#PlayMusic#artist=Taktloss--music_item=record--year=thirties--
+I want to listen to some Aaliyah#PlayMusic#artist=Aaliyah--
+Play my New Indie Mix on Google Music.#PlayMusic#playlist=New Indie Mix--service=Google Music--
+Can you use Pandora to play a soundtrack from 1999 by David Sitek?#PlayMusic#service=Pandora--music_item=soundtrack--year=1999--artist=David Sitek--
+play Deezer form 2010 tune by Dave Grohl#PlayMusic#service=Deezer--year=2010--music_item=tune--artist=Dave Grohl--
+Play some caribou from the sixties#PlayMusic#artist=caribou--year=sixties--
+Play drum & bass music#PlayMusic#genre=drum & bass--
+Use netflix to play a record by Emil Gilels from year 2015#PlayMusic#service=netflix--music_item=record--artist=Emil Gilels--year=2015--
+play Steven Reineke greatest soundtrack on Youtube#PlayMusic#artist=Steven Reineke--sort=greatest--music_item=soundtrack--service=Youtube--
+turn on Google Music to play 1991#PlayMusic#service=Google Music--year=1991--
+Open iheart and play TÃ© Para Tres#PlayMusic#service=iheart--playlist=TÃ© Para Tres--
+play some fourties Andrew Lloyd Webber on Groove Shark#PlayMusic#year=fourties--artist=Andrew Lloyd Webber--service=Groove Shark--
+play music by Ryan Malcolm from Sympathy For The Devil on Pandora#PlayMusic#artist=Ryan Malcolm--track=Sympathy For The Devil--service=Pandora--
+Play some Instrumental music on the service Lastfm#PlayMusic#genre=Instrumental--service=Lastfm--
+Play the song vodka by Kunal Ganjawala on Itunes#PlayMusic#music_item=song--track=vodka--artist=Kunal Ganjawala--service=Itunes--
+Play all music Alan released in 1997#PlayMusic#artist=Alan--year=1997--
+Play Dansevise by Ebi on Groove Shark.#PlayMusic#track=Dansevise--artist=Ebi--service=Groove Shark--
+I want to hear some The Roches#PlayMusic#album=The Roches--
+Play me something Miles Davis did with a symphony#PlayMusic#artist=Miles Davis--music_item=symphony--
+Play music off Youtube.#PlayMusic#service=Youtube--
+play some sixties music#PlayMusic#year=sixties--
+play Soheila Zaland#PlayMusic#artist=Soheila Zaland--
+Play music year 2016 by artist Michiru Yamane#PlayMusic#year=2016--artist=Michiru Yamane--
+play Lastfm tunes from 1997#PlayMusic#service=Lastfm--year=1997--
+listen to Westbam alumb Allergic on Google Music#PlayMusic#artist=Westbam--album=Allergic--service=Google Music--
+Play ecstatic#PlayMusic#playlist=ecstatic--
+Play some music on groove shark.#PlayMusic#service=groove shark--
+I need some ambient music. #PlayMusic#genre=ambient--
+Play a song by Nash The Slash#PlayMusic#music_item=song--artist=Nash The Slash--
+Play me a symphony by Ricky Bell#PlayMusic#music_item=symphony--artist=Ricky Bell--
+Play the energic Itunes#PlayMusic#playlist=energic--service=Itunes--
+play the best Elizaveta Khripounova#PlayMusic#sort=best--artist=Elizaveta Khripounova--
+Play 2006 chant music.#PlayMusic#year=2006--music_item=chant--
+I'd like to hear Ami Suzuki's latest record#PlayMusic#artist=Ami Suzuki--sort=latest--music_item=record--
+Play Crazy=genius by The Alchemist#PlayMusic#track=Crazy=genius--artist=The Alchemist--
+Can I listen to merengue style music?#PlayMusic#genre=merengue--
+turn on Last Fm#PlayMusic#service=Last Fm--
+play the last Chris Douglas on Slacker#PlayMusic#sort=last--artist=Chris Douglas--service=Slacker--
+play eighties track#PlayMusic#year=eighties--music_item=track--
+Wish to hear music from the year 1996#PlayMusic#year=1996--
+Play Soldier Boy from Melody Gardot#PlayMusic#track=Soldier Boy--artist=Melody Gardot--
+Play new melody by Kenji Ito on Itunes.#PlayMusic#sort=new--music_item=melody--artist=Kenji Ito--service=Itunes--
+Please play Bitch Please Ii#PlayMusic#track=Bitch Please Ii--
+Could you play the album B Men GahÅ by Nathaniel Shilkret#PlayMusic#music_item=album--album=B Men GahÅ--artist=Nathaniel Shilkret--
+Does Netflix have music released in 1991 by You Yokoyama#PlayMusic#service=Netflix--year=1991--artist=You Yokoyama--
+play robin hood and the bishop of hereford by Jon Mayer#PlayMusic#track=robin hood and the bishop of hereford--artist=Jon Mayer--
+Play Slow Rock on Lastfm.#PlayMusic#genre=Slow Rock--service=Lastfm--
+Play some nineties music on Zvooq#PlayMusic#year=nineties--service=Zvooq--
+Play Stereo by Jonathan Davis on Deezer.#PlayMusic#track=Stereo--artist=Jonathan Davis--service=Deezer--
+Play Pacific Ocean Blues by John Doe on Lastfm#PlayMusic#track=Pacific Ocean Blues--artist=John Doe--service=Lastfm--
+Play some Paul Stookey from the sixties#PlayMusic#artist=Paul Stookey--year=sixties--
+Play the song American Patrol by lauryn hill#PlayMusic#music_item=song--track=American Patrol--artist=lauryn hill--
+I want to hear some sixties  melody from Mark Mcentee off of Google Music#PlayMusic#year=sixties--music_item=melody--artist=Mark Mcentee--service=Google Music--
+Play Junun by Noam Kaniel.#PlayMusic#album=Junun--artist=Noam Kaniel--
+Please play anything by george formby jr#PlayMusic#artist=george formby jr--
+play In The Arms Of God on Zvooq by Nimal Mendis#PlayMusic#album=In The Arms Of God--service=Zvooq--artist=Nimal Mendis--
+Play some Jungle music on iheart#PlayMusic#genre=Jungle--service=iheart--
+I want to hear a track from the fourties.#PlayMusic#music_item=track--year=fourties--
+Play me a 2015 soundtrack on Netflix#PlayMusic#year=2015--music_item=soundtrack--service=Netflix--
+give me some Hank Shermann from 1975 on Lastfm#PlayMusic#artist=Hank Shermann--year=1975--service=Lastfm--
+Can you play an ep by Tatjana Iwanowna Bulanowa#PlayMusic#music_item=ep--artist=Tatjana Iwanowna Bulanowa--
+Play the top ten theme music from 1975 by Tom Baxter#PlayMusic#sort=top ten--music_item=theme--year=1975--artist=Tom Baxter--
+Let me use netflix to listen to the last soundtrack from Out Of Eden.#PlayMusic#service=netflix--sort=last--music_item=soundtrack--artist=Out Of Eden--
+Play El Cant Dels Ocells by vini lopez.#PlayMusic#track=El Cant Dels Ocells--artist=vini lopez--
+Play me a Cinder Block movement#PlayMusic#artist=Cinder Block--music_item=movement--
+Play a melody by Colin Blunstone#PlayMusic#music_item=melody--artist=Colin Blunstone--
+Play a song from 1990 on Netflix#PlayMusic#music_item=song--year=1990--service=Netflix--
+Want to play Christina Schollin Lastfm#PlayMusic#artist=Christina Schollin--service=Lastfm--
+Play top-twenty fourties movement music by Mohammad Reza Lotfi.#PlayMusic#sort=top-twenty--year=fourties--music_item=movement--artist=Mohammad Reza Lotfi--
+play the top nineties melody by Gus G#PlayMusic#sort=top--year=nineties--music_item=melody--artist=Gus G--
+Play my Pandora app#PlayMusic#service=Pandora--
+Play the album Remember Shakti â The Believer.#PlayMusic#music_item=album--album=Remember Shakti â The Believer--
+Play Halid 08 by video game pianist on Pandora#PlayMusic#album=Halid 08--artist=video game pianist--service=Pandora--
+Play breed the killers on Itunes#PlayMusic#album=breed the killers--service=Itunes--
+Play some seventies track from top Rie Tomosaka#PlayMusic#year=seventies--music_item=track--sort=top--artist=Rie Tomosaka--
+Play Geddy Lee music on Spotify sort by top#PlayMusic#artist=Geddy Lee--service=Spotify--sort=top--
+Use the service Lastfm to play artist keren peles from the most popular symphony#PlayMusic#service=Lastfm--artist=keren peles--sort=most popular--music_item=symphony--
+Play any track by Flame#PlayMusic#music_item=track--artist=Flame--
+Play a sixties track by Noam Pikelny on iheart.#PlayMusic#year=sixties--music_item=track--artist=Noam Pikelny--service=iheart--
+Please play a song for me from 1959#PlayMusic#music_item=song--year=1959--
+Play me something from the thirties by Candi Staton on Vimeo#PlayMusic#year=thirties--artist=Candi Staton--service=Vimeo--
+Can I hear a movement by rookantha gunathilake on the Vimeo service?#PlayMusic#music_item=movement--artist=rookantha gunathilake--service=Vimeo--
+play music on netflix#PlayMusic#service=netflix--
+Play me a fifties song#PlayMusic#year=fifties--music_item=song--
+Play my Acoustic Covers playlist on Spotify.#PlayMusic#playlist=Acoustic Covers--service=Spotify--
+Play Lenny Kaye music.#PlayMusic#artist=Lenny Kaye--
+play Ngola Ritmos top-ten songs#PlayMusic#artist=Ngola Ritmos--sort=top-ten--
+Play the Charlie Hunter theme off of Last Fm#PlayMusic#artist=Charlie Hunter--music_item=theme--service=Last Fm--
+Use Google Music to play some songs by Dr John#PlayMusic#service=Google Music--artist=Dr John--
+play a tune by Margaret Kelly on Iheart#PlayMusic#music_item=tune--artist=Margaret Kelly--service=Iheart--
+Play the album Cara De Dios.#PlayMusic#music_item=album--album=Cara De Dios--
+Play track music from Peter Finestone on Netflix sort by newest#PlayMusic#music_item=track--artist=Peter Finestone--service=Netflix--sort=newest--
+Play Adieu by Al Arsenault#PlayMusic#track=Adieu--artist=Al Arsenault--
+Play ExpresiÃ³n from Mickey Finn#PlayMusic#album=ExpresiÃ³n--artist=Mickey Finn--
+play music by Bonobo#PlayMusic#artist=Bonobo--
+Play the most popular chant song by Hossein Alizadeh from around 2009#PlayMusic#sort=most popular--music_item=chant song--artist=Hossein Alizadeh--year=2009--
+Play music from Youtube.#PlayMusic#service=Youtube--
+Play Miami 2017 by Rodney Whitaker#PlayMusic#track=Miami 2017--artist=Rodney Whitaker--
+Play good Pure Soul on netflix #PlayMusic#sort=good--artist=Pure Soul--service=netflix--
+Can you play Halloween by Ajinoam Nini#PlayMusic#track=Halloween--artist=Ajinoam Nini--
+Play playlist funtime#PlayMusic#playlist=funtime--
+play Angelo Amorevoli#PlayMusic#artist=Angelo Amorevoli--
+play a ballad by Giorgio Moroder#PlayMusic#music_item=ballad--artist=Giorgio Moroder--
+Please use Itunes to play something from 1986#PlayMusic#service=Itunes--year=1986--
+play Calico Skies by John Feinstein with Netflix#PlayMusic#track=Calico Skies--artist=John Feinstein--service=Netflix--
+Play artist Vlada Divljan from something he did that is good#PlayMusic#artist=Vlada Divljan--sort=good--
+Play the track Pocahontas John Farnham#PlayMusic#music_item=track--track=Pocahontas--artist=John Farnham--
+play some popular bryan gregory songs#PlayMusic#sort=popular--artist=bryan gregory--
+play a seventies ballad by Annunzio Paolo Mantovani on Groove Shark#PlayMusic#year=seventies--music_item=ballad--artist=Annunzio Paolo Mantovani--service=Groove Shark--
+play good Classified songs on Vimeo#PlayMusic#sort=good--artist=Classified--service=Vimeo--
+Play my Femme Fatale playlist on Vimeo#PlayMusic#playlist=Femme Fatale--service=Vimeo--
+I wish to listen to eighties music by Mike Dean.#PlayMusic#year=eighties--artist=Mike Dean--
+Play some Techno#PlayMusic#genre=Techno--
+I wish to hear the playlist Estado de Ã¡nimo on Last Fm.#PlayMusic#playlist=Estado de Ã¡nimo--service=Last Fm--
+play Fereydoun Farrokhzad best track#PlayMusic#artist=Fereydoun Farrokhzad--sort=best--music_item=track--
+Can I listen to music from the Easy Listening genre?#PlayMusic#genre=Easy Listening--
+Play a 1991 song by Anila Mirza#PlayMusic#year=1991--music_item=song--artist=Anila Mirza--
+play the top-20 Rita Macneil songs#PlayMusic#sort=top-20--artist=Rita Macneil--
+Play a 1974 sound track on Vimeo.#PlayMusic#year=1974--music_item=sound track--service=Vimeo--
+Play me music from the twenties on Itunes.#PlayMusic#year=twenties--service=Itunes--
+Play a sound track by Mac Dre.#PlayMusic#music_item=sound track--artist=Mac Dre--
+play a 1977 record by Bitty Mclean on Google Music#PlayMusic#year=1977--music_item=record--artist=Bitty Mclean--service=Google Music--
+Play The Wizard And I on Zvooq#PlayMusic#track=The Wizard And I--service=Zvooq--
+Play some 2011 music by Dan Healy.#PlayMusic#year=2011--artist=Dan Healy--
+Play the best music from Klaus Badelt.#PlayMusic#sort=best--artist=Klaus Badelt--
+Can I hear Jeremy Taggart's newest chant on Deezer?#PlayMusic#artist=Jeremy Taggart--sort=newest--music_item=chant--service=Deezer--
+Listen to music from 1975#PlayMusic#year=1975--
+play Latina#PlayMusic#playlist=Latina--
+play a top Ryuichi Kawamura chant on Groove Shark#PlayMusic#sort=top--artist=Ryuichi Kawamura--music_item=chant--service=Groove Shark--
+play a tune from 2000 by Bronislau Kaper#PlayMusic#music_item=tune--year=2000--artist=Bronislau Kaper--
+Play a song from 1994.#PlayMusic#music_item=song--year=1994--
+I'd like to hear the last song fro Willa Ford.#PlayMusic#sort=last--music_item=song--artist=Willa Ford--
+Play my playlist springtime#PlayMusic#playlist=springtime--
+Open Lastfm and play Hot Lips Page from the sixties#PlayMusic#service=Lastfm--artist=Hot Lips Page--year=sixties--
+Use the service Itunes to play melody from 1998#PlayMusic#service=Itunes--music_item=melody--year=1998--
+Play music from the punk genre on Last Fm.#PlayMusic#genre=punk--service=Last Fm--
+play Techno music#PlayMusic#genre=Techno--
+play shara worden#PlayMusic#artist=shara worden--
+Play a top-50 tune from 1982.#PlayMusic#sort=top-50--music_item=tune--year=1982--
+I want to hear some Boris Grebenchtchikov on Zvooq#PlayMusic#artist=Boris Grebenchtchikov--service=Zvooq--
+play chant music from 1993#PlayMusic#music_item=chant--year=1993--
+play melody music from 1988#PlayMusic#music_item=melody--year=1988--
+play the music track of 1998#PlayMusic#music_item=track--year=1998--
+Play some music by Jody Williams from 2001#PlayMusic#artist=Jody Williams--year=2001--
+I want to hear a Silvia Night ep from the sixties#PlayMusic#artist=Silvia Night--music_item=ep--year=sixties--
+play a Samira Said ballad from the nineties#PlayMusic#artist=Samira Said--music_item=ballad--year=nineties--
+Play Shoo on iheart from greatest record#PlayMusic#artist=Shoo--service=iheart--sort=greatest--music_item=record--
+Play some music on Netflix#PlayMusic#service=Netflix--
+Play Metal Crash Course playlist.#PlayMusic#playlist=Metal Crash Course--
+play Khujo eighties track song#PlayMusic#artist=Khujo--year=eighties--music_item=track song--
+Play Goldie Hill's record on Google Music.#PlayMusic#artist=Goldie Hill--music_item=record--service=Google Music--
+Play music from Lastfm#PlayMusic#service=Lastfm--
+I'm looking for the last track by Fei Yu Ching from the fourties#PlayMusic#sort=last--music_item=track--artist=Fei Yu Ching--year=fourties--
+Open pandora and play udhreko choli from Chowdiah#PlayMusic#service=pandora--track=udhreko choli--artist=Chowdiah--
+Play a top symphony from the fourties#PlayMusic#sort=top--music_item=symphony--year=fourties--
+play a Keith Richards album#PlayMusic#artist=Keith Richards--music_item=album--
+Play the track Fight On, State by Yuvan Shankar Raja#PlayMusic#music_item=track--track=Fight On, State--artist=Yuvan Shankar Raja--
+play the newest ep from the sixties#PlayMusic#sort=newest--music_item=ep--year=sixties--
+Play a song from 1950#PlayMusic#music_item=song--year=1950--
+Play Moris Tepper#PlayMusic#artist=Moris Tepper--
+play a new song from the seventies#PlayMusic#sort=new--music_item=song--year=seventies--
+play music using Groove Shark#PlayMusic#service=Groove Shark--
+Play Entre Raices Y Antenas by Lynn & Wade Llp.#PlayMusic#album=Entre Raices Y Antenas--artist=Lynn & Wade Llp--
+Play some acapella music #PlayMusic#genre=acapella--
+Play a Paolo Gregoletto song#PlayMusic#artist=Paolo Gregoletto--music_item=song--
+play Zvooq Night Rider list#PlayMusic#service=Zvooq--playlist=Night Rider--
+play The Edge by Deezer on Vans Warped Tour Compilation 2003#PlayMusic#artist=The Edge--service=Deezer--album=Vans Warped Tour Compilation 2003--
+Play Always Pop Punk.#PlayMusic#playlist=Always Pop Punk--
+Play some ivy anderson from around 1967#PlayMusic#artist=ivy anderson--year=1967--
+play the newest sound track from the thirties#PlayMusic#sort=newest--music_item=sound track--year=thirties--
+Play some seventies music on Netflix.#PlayMusic#year=seventies--service=Netflix--
+Play Who Knows Where The Time Goes? by Grigory Leps#PlayMusic#track=Who Knows Where The Time Goes--artist=Grigory Leps--
+Open Vimeo and play Lee Mellor good songs#PlayMusic#service=Vimeo--artist=Lee Mellor--sort=good--
+play some sad songs from the fifties#PlayMusic#year=fifties--
+Play music on groove shark#PlayMusic#service=groove shark--
+play 1990 tunes on Groove Shark#PlayMusic#year=1990--service=Groove Shark--
+Play me a popular Ronnie Wood soundtrack#PlayMusic#sort=popular--artist=Ronnie Wood--music_item=soundtrack--
+Play Elitsa Todorova music#PlayMusic#artist=Elitsa Todorova--
+Play something off my New Boots playlist#PlayMusic#playlist=New Boots--
+Can you play Deezer from 2007?#PlayMusic#service=Deezer--year=2007--
+Please play some Black Metal music#PlayMusic#genre=Black Metal--
+play twenties tunes#PlayMusic#year=twenties--
+Play some music on Last Fm#PlayMusic#service=Last Fm--
+Play twenties chant from Lagaylia Frazier on Itunes#PlayMusic#year=twenties--music_item=chant--artist=Lagaylia Frazier--service=Itunes--
+Play music from 1959 by Lenny Leblanc on Pandora.#PlayMusic#year=1959--artist=Lenny Leblanc--service=Pandora--
+Play some fourties music on vimeo #PlayMusic#year=fourties--service=vimeo--
+Play chant music by pappu venugopala rao on Slacker.#PlayMusic#music_item=chant--artist=pappu venugopala rao--service=Slacker--
+I want to hear Aki Nawaz, play the song fair annie.#PlayMusic#artist=Aki Nawaz--music_item=song--track=fair annie--
+Play music from 1958#PlayMusic#year=1958--
+Use Spotify to play Who Was In My Room Last Night?#PlayMusic#service=Spotify--track=Who Was In My Room Last Night--
+Play the most popular music from Nat Stuckey on Itunes.#PlayMusic#sort=most popular--artist=Nat Stuckey--service=Itunes--
+Play some chanson style music.#PlayMusic#genre=chanson--
+Play Socialism Is Good by terje bakken on Spotify.#PlayMusic#track=Socialism Is Good--artist=terje bakken--service=Spotify--
+Play music from 1964.#PlayMusic#year=1964--
+play a record from 1982#PlayMusic#music_item=record--year=1982--
+Play a track by Titiyo#PlayMusic#music_item=track--artist=Titiyo--
+play Lastfm by Steampunk#PlayMusic#service=Lastfm--playlist=Steampunk--
+Play a record from 2005 by Ruslana Lyschytschko.#PlayMusic#music_item=record--year=2005--artist=Ruslana Lyschytschko--
+Play Is This My World? by Leo Arnaud#PlayMusic#album=Is This My World--artist=Leo Arnaud--
+Play While The Gate Is Open.#PlayMusic#album=While The Gate Is Open--
+Can you play a song from the newest movement by prince on Lastfm#PlayMusic#music_item=song--sort=newest--music_item=movement--artist=prince--service=Lastfm--
+Play some Rui Da Silva.#PlayMusic#artist=Rui Da Silva--
+Play The Cherry-tree Carol by Edwin Mccain#PlayMusic#track=The Cherry-tree Carol--artist=Edwin Mccain--
+Play Tomtegubben Som Hade Snuva#PlayMusic#track=Tomtegubben Som Hade Snuva--
+Play my Sophisticated Dinner playlist on Slacker#PlayMusic#playlist=Sophisticated Dinner--service=Slacker--
+Play the song domino by Luca Turilli#PlayMusic#music_item=song--track=domino--artist=Luca Turilli--
+Play a rock track from 1984#PlayMusic#genre=rock--music_item=track--year=1984--
+play the newest Martin Solveig sound track#PlayMusic#sort=newest--artist=Martin Solveig--music_item=sound track--
+Listen to Power Gaming playlist#PlayMusic#playlist=Power Gaming--
+Play some chant from 1974#PlayMusic#music_item=chant--year=1974--
+play Mohammed Abdu from top 20#PlayMusic#artist=Mohammed Abdu--sort=top 20--
+Play the top ten by Andrea Del Rosario.#PlayMusic#sort=top ten--artist=Andrea Del Rosario--
+Play a 2007 track from Adam Jones#PlayMusic#year=2007--music_item=track--artist=Adam Jones--
+use Netflix to play Michael White tune from 1955#PlayMusic#service=Netflix--artist=Michael White--music_item=tune--year=1955--
+listen to ballad songs from 1999#PlayMusic#music_item=ballad--year=1999--
+I want ohear the 1996 soundtrack from deezer#PlayMusic#year=1996--music_item=soundtrack--service=deezer--
+Play a soundtrack by musical artist Jimmy James#PlayMusic#music_item=soundtrack--artist=Jimmy James--
+Play music on youtube#PlayMusic#service=youtube--
+play the last Rocko music with deezer#PlayMusic#sort=last--artist=Rocko--service=deezer--
+Play rie fu music sorted by the best.#PlayMusic#artist=rie fu--sort=best--
+Play Noche de chicas playlist
+#PlayMusic#playlist=Noche de chicas--
+Can you play some fifties music by lavern baker#PlayMusic#year=fifties--artist=lavern baker--
+Please play something that's freak folk on Google Music#PlayMusic#genre=freak folk--service=Google Music--
+play anything from 1970#PlayMusic#year=1970--
+I wish to enjoy some fifties music by Johnny Paycheck.#PlayMusic#year=fifties--artist=Johnny Paycheck--
+play steve harris False Gestures For A Devious Public album#PlayMusic#artist=steve harris--album=False Gestures For A Devious Public--music_item=album--
+Play me a seventies song#PlayMusic#year=seventies--music_item=song--
+I want to hear a good album from Toni Cottura.#PlayMusic#sort=good--music_item=album--artist=Toni Cottura--
+use Iheart to listen to retro#PlayMusic#service=Iheart--genre=retro--
+Open Youtube and play Iron Mountain Depot from John Lomax#PlayMusic#service=Youtube--album=Iron Mountain Depot--artist=John Lomax--
+I want to listen to a popular melody by David Bazan#PlayMusic#sort=popular--music_item=melody--artist=David Bazan--
+Play a Ladyhawke record
+#PlayMusic#artist=Ladyhawke--music_item=record--
+Play the newest melody from Corey Clark on Lastfm#PlayMusic#sort=newest--music_item=melody--artist=Corey Clark--service=Lastfm--
+Play music from Gavin Koppell movement#PlayMusic#artist=Gavin Koppell--music_item=movement--
+Play best fourties from david izquierdo on album#PlayMusic#sort=best--year=fourties--artist=david izquierdo--music_item=album--
+I need some Hardcore Hip Hop#PlayMusic#genre=Hardcore Hip Hop--
+Play Fais Les Backs by Sarah Geronimo on Youtube#PlayMusic#track=Fais Les Backs--artist=Sarah Geronimo--service=Youtube--
+Play a fifties theme on lastfm #PlayMusic#year=fifties--music_item=theme--service=lastfm--
+play Women of Jazz#PlayMusic#playlist=Women of Jazz--
+play Dj Ozma top songs#PlayMusic#artist=Dj Ozma--sort=top--
+PLay a track by deeyah khan.#PlayMusic#music_item=track--artist=deeyah khan--
+Play some seventies songs from Joseph Genaro on Google Music#PlayMusic#year=seventies--artist=Joseph Genaro--service=Google Music--
+Play a ballad by Heath#PlayMusic#music_item=ballad--artist=Heath--
+Play 1952 Yusef Lateef on Netflix#PlayMusic#year=1952--artist=Yusef Lateef--service=Netflix--
+Play eighties music on Groove Shark.#PlayMusic#year=eighties--service=Groove Shark--
+Play Paul Landers, O Rio, A Cidade, A Ãrvore on slacker
+
+#PlayMusic#artist=Paul Landers--album=O Rio, A Cidade, A Ãrvore--service=slacker--
+Let me hear the Rave Tapes album from Yuki Koyanagi.#PlayMusic#album=Rave Tapes--music_item=album--artist=Yuki Koyanagi--
+Play the top-five ballad sort from 2004#PlayMusic#sort=top-five--music_item=ballad--year=2004--
+Play sixties theme music#PlayMusic#year=sixties--music_item=theme--
+Play the song Two Suns In The Sunset by Airi Suzuki#PlayMusic#music_item=song--track=Two Suns In The Sunset--artist=Airi Suzuki--
+Play music from 2015#PlayMusic#year=2015--
+Play the greatest music by Phoebe Snow#PlayMusic#sort=greatest--artist=Phoebe Snow--
+Play me a song by Carol Arnauld from 2003#PlayMusic#music_item=song--artist=Carol Arnauld--year=2003--
+Play me a song from Movies For The Blind on Pandora#PlayMusic#music_item=song--album=Movies For The Blind--service=Pandora--
+Play 2012 symphony music by Nardwuar The Human Serviette on Netflix.#PlayMusic#year=2012--music_item=symphony--artist=Nardwuar The Human Serviette--service=Netflix--
+Please play me a popular track from 1984.#PlayMusic#sort=popular--music_item=track--year=1984--
+Play track Ai Se Eu Te Pego on google music from artist Maestro#PlayMusic#music_item=track--track=Ai Se Eu Te Pego--service=google music--artist=Maestro--
+Play Lil Hardin Armstrong from Itunes.#PlayMusic#artist=Lil Hardin Armstrong--service=Itunes--
+Turn on Spotify to Tiny Tim ep#PlayMusic#service=Spotify--artist=Tiny Tim--music_item=ep--
+Play a 1969 ballad by beth nielsen chapman, new first.#PlayMusic#year=1969--music_item=ballad--artist=beth nielsen chapman--sort=new--
+play a ballad by Chick Corea#PlayMusic#music_item=ballad--artist=Chick Corea--
+Play music off the track Child Maurice#PlayMusic#music_item=track--track=Child Maurice--
+Play me a song from Voices & Images#PlayMusic#music_item=song--album=Voices & Images--
+play robert fripp sound track on Pandora#PlayMusic#artist=robert fripp--music_item=sound track--service=Pandora--
+play them by Guy-manuel De Homem-christo#PlayMusic#music_item=them--artist=Guy-manuel De Homem-christo--
+Play some rock & roll by Deezer.#PlayMusic#genre=rock & roll--service=Deezer--
+I'd like to hear a track by Theo Keating.#PlayMusic#music_item=track--artist=Theo Keating--
+Play some theme based music from the thirties.#PlayMusic#music_item=theme--year=thirties--
+I wish to listen to some instrumental music.#PlayMusic#playlist=instrumental--
+Play chant from Freddy Fender on iheart#PlayMusic#music_item=chant--artist=Freddy Fender--service=iheart--
+Can you play some music from 1999#PlayMusic#year=1999--
+Play music from the list Indie Electronics#PlayMusic#playlist=Indie Electronics--
+play some King Tubby from the eighties#PlayMusic#artist=King Tubby--year=eighties--
+Play music on Netflix.#PlayMusic#service=Netflix--
+Play Randy Castillo's music from 1952.#PlayMusic#artist=Randy Castillo--year=1952--
+play ambient music#PlayMusic#genre=ambient--
+Play the last song by Goldie#PlayMusic#sort=last--music_item=song--artist=Goldie--
+Play Pride Of The Prairie from Johnny Burke#PlayMusic#track=Pride Of The Prairie--artist=Johnny Burke--
+Play them the greatest music by Chris Frantz.#PlayMusic#music_item=them--sort=greatest--artist=Chris Frantz--
+Play the song Le Renouveau#PlayMusic#music_item=song--track=Le Renouveau--
+I want to listen to Swing music on Iheart#PlayMusic#genre=Swing--service=Iheart--
+play the latest Thelma Aoyama#PlayMusic#sort=latest--artist=Thelma Aoyama--
+I'd like to listen to Tom Cochrane's 1990 ep on Zvooq.#PlayMusic#artist=Tom Cochrane--year=1990--music_item=ep--service=Zvooq--
+Play a Herbie Fields record from the sixties#PlayMusic#artist=Herbie Fields--music_item=record--year=sixties--
+Play the most popular sort by ep by Brooke Fraser#PlayMusic#sort=most popular--music_item=ep--artist=Brooke Fraser--
+Play me a 1986 Jim Root#PlayMusic#year=1986--artist=Jim Root--
+Play my Still Got the Blues playlist.#PlayMusic#playlist=Still Got the Blues--
+I would like to hear a song by Tim Reynolds#PlayMusic#music_item=song--artist=Tim Reynolds--
+play Fey's album Diamond Head on Zvooq#PlayMusic#artist=Fey--music_item=album--album=Diamond Head--service=Zvooq--
+play a chant by Marina Verenikina#PlayMusic#music_item=chant--artist=Marina Verenikina--
+Play Stevan Faddy on Google Music.#PlayMusic#artist=Stevan Faddy--service=Google Music--
+Play some sixties on netflix#PlayMusic#year=sixties--service=netflix--
+play a tune from 1973#PlayMusic#music_item=tune--year=1973--
+Play me Benjamin Kowalewicz's top hits#PlayMusic#artist=Benjamin Kowalewicz--sort=top--
+Find Mahalakshmi Iyer music on Netflix#PlayMusic#artist=Mahalakshmi Iyer--service=Netflix--
+Play some music by Mark Heard.#PlayMusic#artist=Mark Heard--
+Play Inventions For The New Season#PlayMusic#album=Inventions For The New Season--
+I want to hear some freestyle music.#PlayMusic#genre=freestyle--
+play Yusef Lateef songs from the fifties#PlayMusic#artist=Yusef Lateef--year=fifties--
+Play sweet shanghai devil by Teddy Diaz.#PlayMusic#album=sweet shanghai devil--artist=Teddy Diaz--
+play paul riley on Youtube#PlayMusic#artist=paul riley--service=Youtube--
+Play some rock music on Youtube#PlayMusic#genre=rock--service=Youtube--
+Play music from negerpunk#PlayMusic#genre=negerpunk--
+play music by Odd Nosdam#PlayMusic#artist=Odd Nosdam--
+Play music by Susumu Hirasawa.#PlayMusic#artist=Susumu Hirasawa--
+Can you play something off my Kids Workout playlist on Groove Shark#PlayMusic#playlist=Kids Workout--service=Groove Shark--
+play My Back Pages by Paul Young on vimeo #PlayMusic#track=My Back Pages--artist=Paul Young--service=vimeo--
+Play me the greatest Doctor Fink song on zvooq#PlayMusic#sort=greatest--artist=Doctor Fink--music_item=song--service=zvooq--
+Use Deezer to play music#PlayMusic#service=Deezer--
+Play Bitch Please Ii from Julee Cruise on Iheart#PlayMusic#track=Bitch Please Ii--artist=Julee Cruise--service=Iheart--
+I want to hear music from the Lotus Flower album by Andy Mccoy#PlayMusic#album=Lotus Flower--music_item=album--artist=Andy Mccoy--
+Play a symphony from the thirties.#PlayMusic#music_item=symphony--year=thirties--
+Play the song Jingle Bells#PlayMusic#music_item=song--track=Jingle Bells--
+Please play me some Satire music#PlayMusic#genre=Satire--
+Play a popular song by Willie Dixon on Groove Shark#PlayMusic#sort=popular--music_item=song--artist=Willie Dixon--service=Groove Shark--
+Let me listen to The Music Of Nature album by Paul Draper.#PlayMusic#album=The Music Of Nature--music_item=album--artist=Paul Draper--
+I want to hear music from the sixties.#PlayMusic#year=sixties--
+I want to hear a soundtrack by dj ozma from the sixties.#PlayMusic#music_item=soundtrack--artist=dj ozma--year=sixties--
+play Hanging Out and Relaxing#PlayMusic#playlist=Hanging Out and Relaxing--
+Play Within You Without You by Distance on zvooq.#PlayMusic#track=Within You Without You--artist=Distance--service=zvooq--
+play some Industrial music on Lastfm#PlayMusic#genre=Industrial--service=Lastfm--
+Play me a song from 1968 on Spotify#PlayMusic#music_item=song--year=1968--service=Spotify--
+Play the music of Aphex Twin's good Album#PlayMusic#artist=Aphex Twin--sort=good--music_item=Album--
+Play me some music from 1999#PlayMusic#year=1999--
+I want to hear Richard Falomir's best song on Pandora#PlayMusic#artist=Richard Falomir--sort=best--music_item=song--service=Pandora--
+Let's play the album Handover on Deezer#PlayMusic#album=Handover--service=Deezer--
+I want to hear Choice on Last Fm from the twenties.#PlayMusic#artist=Choice--service=Last Fm--year=twenties--
+Play a 1964 symphony on Netflix.#PlayMusic#year=1964--music_item=symphony--service=Netflix--
+play the last song from the thirties by Airto Moreira#PlayMusic#sort=last--music_item=song--year=thirties--artist=Airto Moreira--
+Play Rob Dougan on youtube#PlayMusic#artist=Rob Dougan--service=youtube--
+play the top jazz record from 1951#PlayMusic#sort=top--music_item=record--year=1951--
+Play music on Netflix by Don Kikas#PlayMusic#service=Netflix--artist=Don Kikas--
+Play the last Jonny Wickersham song#PlayMusic#sort=last--artist=Jonny Wickersham--music_item=song--
+play Luis Alfonzo Larrain from 1995#PlayMusic#artist=Luis Alfonzo Larrain--year=1995--
+play a track by Alpha Blondy with Deezer#PlayMusic#music_item=track--artist=Alpha Blondy--service=Deezer--
+I want to hear La Jaula De Oro by Mc Ren on Google Music.#PlayMusic#track=La Jaula De Oro--artist=Mc Ren--service=Google Music--
+Play HÃ¦ttuleg HljÃ³msveit & GlÃ¦pakvendiÃ° Stella by Kaori Iida#PlayMusic#album=HÃ¦ttuleg HljÃ³msveit & GlÃ¦pakvendiÃ° Stella--artist=Kaori Iida--
+play some music from the thirties#PlayMusic#year=thirties--
+Play the track Goodbye Alexander, Goodbye Honey Boy from Ehsaan Noorani#PlayMusic#music_item=track--track=Goodbye Alexander, Goodbye Honey Boy--artist=Ehsaan Noorani--
+play me a Mel Draisey tune from the fourties with vimeo #PlayMusic#artist=Mel Draisey--music_item=tune--year=fourties--service=vimeo--
+Play the best chant of 1975#PlayMusic#sort=best--music_item=chant--year=1975--
+I want to hear secrets on parade from Tommy Walter#PlayMusic#album=secrets on parade--artist=Tommy Walter--
+Play the most popular twenties record from Leland Sklar#PlayMusic#sort=most popular--year=twenties--music_item=record--artist=Leland Sklar--
+Play the last 1954 ep by Povel Ramel.#PlayMusic#sort=last--year=1954--music_item=ep--artist=Povel Ramel--
+play music by Christian Bautista#PlayMusic#artist=Christian Bautista--
+Play 2004 on pandora#PlayMusic#year=2004--service=pandora--
+I'd like to hear Infinite Indie Folk on Slacker. #PlayMusic#playlist=Infinite Indie Folk--service=Slacker--
+Play some contemporary christian on Groove Shark.#PlayMusic#genre=contemporary christian--service=Groove Shark--
+Play some music from 1989 by Sanjeev Abhyankar.#PlayMusic#year=1989--artist=Sanjeev Abhyankar--
+Let me hear the Live From The Ghetto album by Beau Jocque.#PlayMusic#album=Live From The Ghetto--music_item=album--artist=Beau Jocque--
+Play Turbulence Wild Streetdanz from Jeff Buckley#PlayMusic#album=Turbulence Wild Streetdanz--artist=Jeff Buckley--
+play music from the year 1979#PlayMusic#year=1979--
+Play the greatest Ricky Bell music#PlayMusic#sort=greatest--artist=Ricky Bell--
+Play some 1982 movement music on Slacker#PlayMusic#year=1982--music_item=movement--service=Slacker--
+Play music by Sarah Connor#PlayMusic#artist=Sarah Connor--
+Play movement by Duane Allman.#PlayMusic#music_item=movement--artist=Duane Allman--
+Play music from Alison Sudol#PlayMusic#artist=Alison Sudol--
+Play Odessa by Maartin Allcock.#PlayMusic#track=Odessa--artist=Maartin Allcock--
+Play music from 1954#PlayMusic#year=1954--
+I want to hear a 1976 symphony by Jam Master Jay#PlayMusic#year=1976--music_item=symphony--artist=Jam Master Jay--
+Play the most popular track from Valery Alexandrovich Kipelov#PlayMusic#sort=most popular--music_item=track--artist=Valery Alexandrovich Kipelov--
+Play some good movement music by Brian Littrell from around 2001#PlayMusic#sort=good--music_item=movement--artist=Brian Littrell--year=2001--
+play 2007 tunes by Bunny Berigan#PlayMusic#year=2007--artist=Bunny Berigan--
+Play a ballad form 2014 by Double on Google Music#PlayMusic#music_item=ballad--year=2014--artist=Double--service=Google Music--
+play Roy Orbison tunes now#PlayMusic#artist=Roy Orbison--

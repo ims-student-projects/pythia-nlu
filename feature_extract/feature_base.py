@@ -52,7 +52,7 @@ class Feature:
 
         return X.toarray()
 
-corpus_tr = Corpus(299, 'train')
+corpus_tr = Corpus(1950, 'train')
 corpus_tr.get_data()
 
 corpus_ts = Corpus(30, 'test')
