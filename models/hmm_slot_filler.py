@@ -402,11 +402,17 @@ class HMM_Slot_Filler():
     
 if __name__ == '__main__':
 
-    c = Corpus(20, 'train')
-    c.get_data()
-    intent_set, slot_set = corpus.get_labels()
 
-    m = HMM_Slot_Filler()
+    train_corpus = Corpus(1000, 'train')
+    train_corpus.get_data()
+    intent_set, slot_set = train_corpus.get_labels()
+
+    model = HMM_Slot_Filler(slot_set, intent_set)
+    model.train_model(train_corpus)
+
+    test_corpus = Corpus(100, 'test')
+    test_corpus.get_data()
+    model.test_model(t, 700)
 
     """
     # Test converting iob_labels to slot entities (dictionary)
