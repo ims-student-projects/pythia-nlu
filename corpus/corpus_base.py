@@ -1,18 +1,30 @@
 import sys
+import random
 
-sys.path.append('../utils')
-from helper import *
-sys.path.append('../data')
-from query import *
+sys.path.append(sys.path[0] + '/../')
+
+from utils.helper import *
+from corpus.query import *
 
 class Corpus:
     def __init__(self, size, type_req):
-        self.size = size
-        self.type_req = type_req
+        # private attributes
         self.__corpus = list()
         self.__curr = 0 # counter for iterator
+        # public attributes
+        self.size = size
+        self.type_req = type_req
         self.intent_labels = {}
         self.slot_labels = []
+        self.file_paths = [ 'slp_train_add_to_playlist_full.txt', 
+                            'slp_train_book_restaurant_full.txt', 
+                            'slp_train_get_weather_full.txt', 
+                            'slp_train_play_music_full.txt', 
+                            'slp_train_rate_book_full.txt', 
+                            'slp_train_search_creative_work_full.txt', 
+                            'slp_train_search_screening_event_full.txt' ]
+        # import data from files
+        self.get_data()
 
 
     def __next__(self):
@@ -26,6 +38,11 @@ class Corpus:
     def __iter__(self):
         return iter(self.__corpus)
 
+
+    def shuffle(self):
+        random.shuffle(self.__corpus)
+
+
     def get_labels(self):
         if not self.intent_labels or not self.slot_labels:
             for x in self.__corpus:
@@ -38,37 +55,36 @@ class Corpus:
                         self.intent_labels[intent].append(slot)
                     if slot not in self.slot_labels:
                         self.slot_labels.append(slot)
-
         return self.intent_labels, self.slot_labels
 
 
     def get_data(self):
 
-        data = list()
+        # keep track of corrupt datapoints
+        corrupt = 0
 
-        
-        files = ['slp_train_add_to_playlist_full.txt', 'slp_train_book_restaurant_full.txt', 'slp_train_get_weather_full.txt', 'slp_train_play_music_full.txt', 'slp_train_rate_book_full.txt', 'slp_train_search_creative_work_full.txt', 'slp_train_search_screening_event_full.txt']
-
-        for each in files:
-            f = open( '/home/users0/sengupmt/Dokumente/Moody/pythia-nlu/pythia-nlu/data/' + each,'r')
+        for fp in self.file_paths:
+            f = open( 'data/' + fp,'r')
             lines = f.readlines()
-
             # ------ check if train or test data is needed and set the list accordingly ------ #
             if self.type_req == 'train':
                 print('Collecting train data ...')
             else:
                 print('Collecting test data ...')
-                lines = reversed(lines)
-
+                lines.reverse()
             # ----- start loop to fill up data in the data structure ----- #
             i = 0
             for line in lines:
-                data_dict = dict()
                 if i == self.size:
                     break
+                if i == len(lines):
+                    print(f'WARNING: [{fp}] Requested size [{self.size}] exceeds file size [{self.size}]')
                 else:
                     line = line.split('#')
-                    if len(line) > 1:
+                    # some sanity check to make sure data point is not corrupted:
+                    # length must be 3 and first element should not be empty
+                    try:
+                        assert len(line) == 3 and len(line[0]) > 0
                         utterance = line[0]
                         intent = line[1]
                         slots = make_slot_dict(line[2])
@@ -76,9 +92,17 @@ class Corpus:
                         q = Query(utterance, intent, slots)
                         self.__corpus.append(q)
                         i+=1
-                    else:
-                        continue
+                    except Exception:
+                        corrupt += 1
+                        print(f'WARNING: Corrupt data point: {line}')
+        # DEBUG
+        if corrupt:
+            print(f'WARNING: {corrupt} corrupted data points were skipped!')
                     
                     
 
-    
+if __name__ == '__main__':
+
+    corpus = Corpus(2000, 'train')
+    #for x in corpus:
+    #    print(x )
