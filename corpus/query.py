@@ -3,9 +3,11 @@ class Query():
 
         self.utterance = utterance
         self.gold_intent = intent
-        self.pred_intent = None
         self.gold_slots = slots
+        self.pred_intent = None
+        self.intent_probilities = {}
         self.pred_slots = {}
+        self.slot_pribabilities = {}
 
     def get_gold_intent(self):
         return self.gold_intent
@@ -13,8 +15,8 @@ class Query():
     def get_pred_intent(self):
         return self.pred_intent
 
-    def set_pred_intent(self, __intent):
-        self.pred_intent = __intent
+    def set_pred_intent(self, intent):
+        self.pred_intent = intent
 
     def get_gold_slots(self):
         return self.gold_slots
@@ -22,11 +24,25 @@ class Query():
     def get_pred_slots(self):
         return self.pred_slots 
 
-    def set_pred_slots(self, __slots):
-        self.pred_slots = __slots
+    def set_pred_slots(self, slots):
+        self.pred_slots = slots
     
     def get_utterance(self):
         return self.utterance
 
+    def set_intent_probabilities(self, probs):
+        self.intent_probabilities = probs
 
+    def set_slot_probabilities(self, probs):
+        self.slot_probabilities = probs
+
+    def get_intent_probabilities(self):
+        return self.intent_probabilities
+
+    def get_slot_probabilities(self):
+        return self.slot_probabilities
+
+
+    def __str__(self):
+        return f'[{self.gold_intent}]\t"{self.utterance}"\t({self.gold_slots})'
     
