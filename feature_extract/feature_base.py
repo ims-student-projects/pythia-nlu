@@ -1,15 +1,10 @@
+
 # ---- make vocabs from corpus base ---- #
 import sys 
-
-sys.path.append('../corpus')
-from corpus_base import Corpus
-
-sys.path.append('../utils')
-from helper import *
-
-sys.path.append('../models')
-from baseline_svm_intent import SVM
-
+sys.path.append(sys.path[0] + '/../')
+from corpus.corpus_base import Corpus
+from utils.helper import *
+from models.baseline_svm_intent import SVM
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 class Feature:
