@@ -1,39 +1,77 @@
 
+"""
+HMM3: Hidden Markov Model for seqence labelling with trigram model for label 
+probabilities.
+
+"""
+
+import sys 
 import numpy as np
 from math import log2
 from nltk.tokenize import word_tokenize as tokenize
+
+sys.path.append(sys.path[0] + '/../')
 from progress.bar import PixelBar
 from corpus.corpus_base import Corpus
+from models.hmm3_viterbi import Viterbi
 
-class HMM_Slot_Filler():
+
+class HMM3():
 
     def __init__(self, slot_set, intent_set):
+        """
+        Initialize the Model, convert slot labels to IOB format.
 
-        # Set of slot labels in IOB format
+        Args:
+            slot_set:   list of all slots
+            intent_set: dict, intent as key, list of slots as values
+        """
+
         self.slot_set = slot_set
         self.intent_set = intent_set
+
+        # Convert slots into list of IOB labels
         self.S = self.extract_iob_labels(slot_set)
+
+        # Dicts that will map labels and tokens to index numbers
+        self.label2index = {}
+        self.word2index = {}
+
+        # Transition probabilities (trigram probabilities for lables)
+        self.emit_p = None
+        # Emission probabilities (probability of a token given a label)
+        self.trans_p = None
 
 
     def train_model(self, train_data):
+        """
+        Learns emission and transition probabilities from data
 
-        print('Traininig HMM-3 model...')
-        corpus_size = 0
+        Args:
+            train_data:     iterable of instances, with the following method:
+                get_size()
 
-        # Create a hash with index numbers assigned to each slot label and sentence word
+            Additionally each instance in train_data should have the methods:
+                get_utterance()
+                get_gold_slots()
+        """
+
+        print('Training HMM3 model')
+
+        # Assign index numbers to all IOB labels
         self.label2index = { label:i for label, i in zip( self.S, range(len(self.S)) ) }
         self.label2index['<START>'] = len(self.label2index)
         self.label2index['<STOP>'] = len(self.label2index)
-        self.word2index = {}
+
+        # Assign index numbers to all tokens in corpus
         i = 0
         for x in train_data:
-            corpus_size += 1
             for w in tokenize( x.get_utterance() ):
                 if w not in self.word2index:
                     self.word2index[w] = i
                     i += 1
 
-        print('Initializing probability matrixes...')
+        print('Initializing probability matrixes')
 
         # Define probability and count matrixes
         k = len(self.label2index)
@@ -46,16 +84,14 @@ class HMM_Slot_Filler():
 
         print('Running Expectation-Maximization')
  
-        progress = PixelBar('Progress... ', max=corpus_size)
+        progress = PixelBar('Progress... ', max=train_data.get_size())
 
         # Collect counts
         for x in train_data:
-
             progress.next()
 
             tokens = tokenize( x.get_utterance() )
             labels = self.encode_to_iob( tokens, x.get_gold_slots() )
-
 
             # emission and unigram counts
             for w, s in zip( tokens, labels ):
@@ -77,8 +113,6 @@ class HMM_Slot_Filler():
                 s = self.label2index[trigram[2]]
                 self.trans_p[s_2][s_1][s] += 1
 
-        print()
-        print('Calculating probabilities from collected counts')
         # Normalize counts to get probabilities
         # Emission probabilities
         for w in range(n):
@@ -92,24 +126,23 @@ class HMM_Slot_Filler():
                     # trans_p[s_2][s_1][s] ==> P(s | s-2, s-1)
                     # so we need to normalize by count C(s-2, s-1)
                     self.trans_p[s_2][s_1][s] = self.log_division(self.trans_p[s_2][s_1][s], bigram_c[s_2][s_1])
-        print('DONE')
-        #print('WORDS: ', self.word2index.keys())
-        #print('~~~~~~')
-        #print('LABELS', self.label2index.keys())
-        #print('~~~~~~')
-        #print(self.emit_p)
-        #print('~~~~~~')
-        #print(self.trans_p)
+        print('\nDONE')
 
 
     def log_division(self, a, b):
+        """
+        Returns the log division of two
+        """
         return -50 if a==0 or b==0 else log2(a/b)
+
 
     def get_bigrams(self, sequence):
         """
-        Params:
+        Extract token bigrams
+        Args:
             sequence: list of strings
-        Returns list of tuples
+        Returns:
+            list of tuples of strings
         """
         bigrams = []
         s_1 = '<START>'
@@ -122,9 +155,11 @@ class HMM_Slot_Filler():
 
     def get_trigrams(self, sequence):
         """
-        Params:
+        Extract token trigrams
+        Args:
             sequence: list of strings
-        Returns list of tripels (tuples of 3 elements)
+        Returns:
+            list of tuples of strings
         """
         trigrams = []
         s_1 = '<START>'
@@ -137,170 +172,111 @@ class HMM_Slot_Filler():
         return trigrams
 
 
-    def save_model(self, fp):
-        pass
+    def test_model(self, test_data):
+        """
+        Test the model on unseen data.
 
+        Args:
+            test_data:     iterable of instances, with the following method:
+                get_size()
 
-    def test_model(self, test_data, corpus_size):
+            Additionally each instance in train_data should have the methods:
+                get_utterance()
+        """
 
         print('Testing model...')
      
-        self.correct = 0
-        self.incorrect = 0
-        self.total = 0
+        correct_per_intent = 0
+        total_per_intent = 0
+        correct_all = 0
+        total_all = 0
+        self.viterbi = Viterbi(self.trans_p, self.emit_p, self.label2index, self.word2index)
 
-        progress = PixelBar('Progress... ', max=corpus_size)
+        progress = PixelBar('Progress... ', max=test_data.get_size())
 
         for x in test_data:
 
             progress.next()
 
-            predictions = {}
             tokens = tokenize( x.get_utterance() )
             gold_labels = self.encode_to_iob( tokens, x.get_gold_slots() )
-            
-            """
-            print('=' * 100)
-            i += 1
-            print('>>>', i)
-            print( 'TEXT: ', x.get_utterance() )
-            print( 'GOLD INTENT: ', x.get_gold_intent() )
-            print( 'GOLD SLOTS: ', gold_labels)
-            p = self.get_seq_probability(tokens, gold_labels)
-            print( 'MODEL PROB: ', round( pow(2,p), 3) )
-            print()
-            """
-
+ 
+            # Predict slots on intent level
+            predictions = {}
             try:
                 for intent in self.intent_set:
-                    predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent], intent)
-                #x.set_pred_slots_probs( predictions )
-
-
-                self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
+                    predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent])
+                x.set_slot_probabilities( predictions )
+                c, t = self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
+                correct_per_intent += c
+                total_per_intent += t
                 
-            except Exception:
-                print('FAILED: [', x.get_gold_intent(), ']', x.get_utterance() )
+            except Exception as ex:
+                print('FAILED: [', ex, ']', x.get_gold_intent(), ': ', x.get_utterance() )
+
+            # Predict without considering intent
+            raw_prediction = self.predict(x.get_utterance(), self.slot_set)
+            c, t = self.get_scores( gold_labels, raw_prediction['slots'] )            
+            correct_all += c
+            total_all += t
+
+        print('\nDONE\n')
             
+        accuracy_per_intent = (correct_per_intent / total_per_intent) if total_per_intent else 0
+        print('=' * 50)
+        print('Total predicted slots per intent: ', total_per_intent)
+        print('Accuracy per intent: ', round(accuracy_per_intent, 3) )
+        print('=' * 50)
+
         print()
+
+        accuracy_all = ( correct_all / total_all ) if total_all else 0
         print('=' * 50)
-        print('Total predicted slot labels: ', self.total)
-        print('Accuracy: ', round(self.correct / self.total, 3) )
+        print('Total predicted slots: ', total_all)
+        print('Accuracy: ', round(accuracy_all, 3) )
         print('=' * 50)
+
 
     def get_scores( self, gold_labels, pred_labels ):
+        correct = 0
+        total = 0
         for g, p in zip( gold_labels, pred_labels ):
             if g == p:
-                self.correct += 1
-            else:
-                self.incorrect += 1
-            self.total += 1
+                correct += 1
+            total += 1
+        return correct, total
 
 
-    def predict(self, x, slots, intent):
-        slots, prob = self.viterbi_search( tokenize(x), self.extract_iob_labels( slots ), intent )
+    def predict(self, x, labels):
+        """
+        Predict labels for a sequence
+
+        Args:
+            x:      string
+            slots:  list of candidate labels
+
+        Returns:
+            Dict with two items:
+            - slots: list of predicted labels
+            - prob:  probability of the prediction
+
+        """
+        slots, prob = self.viterbi.search( tokenize(x), self.extract_iob_labels( labels ) )
 
         return {'slots': slots, 'prob': prob }
 
 
-    def viterbi_search(self, x, states, intent):
+    def extract_iob_labels(self, slot_labels):        
+        """
+        Extract IOB-encoded labels
 
-        # Possible transition states at state i
-        def S(i):
-            return states if i>=0 else ['<START>']
+        Args:
+            slots:      iterable of strings
 
-        # Transition probability
-        def Q(a, b, c):
-            try:
-                i, j, k = [self.label2index[s] for s in (a,b,c)]
-                return self.trans_p[i][j][k]
-            except Exception:
-                return -50
+        Returns:
+            list of IOB labels
 
-        # Emission probability
-        def E(w, s):
-            try:
-                w = self.word2index[w]
-                s = self.label2index[s]
-                return self.emit_p[w][s]
-            except Exception:
-                return -50
-
-        # Path (highest sequence probability for each tag)
-        P = {}
-        # History of probabilities
-        H = [{}]
-
-        # Initialize with starting probabilities (t=0)
-        t = 0
-        for s in S(t):
-            H[t][s] = {}
-            H[t][s]['<START>'] = Q('<START>', '<START>', s) + E(x[t], s)
-            P[s] = [s]
-
-        # Run Viterbi for t > 0
-        for t in range(1, len(x)):
-            H.append({})
-            newP = {}
-
-            for s in S(t):
-                # read s_1, s_2 as s-1, s-2
-                H[t][s] = {}
-                new_max = []
-                for s_1 in S(t-1):
-                    (max_p, max_s_2) = max( (H[t-1][s_1][s_2] + Q(s_2, s_1, s) + E(x[t], s), s_2) for s_2 in S(t-2) )
-                    H[t][s][s_1] = max_p
-                    new_max.append( (max_p, max_s_2, s_1) )
-
-                _, _, max_s_1 = max(new_max)
-                newP[s] = P[max_s_1] + [s]
-            P = newP
-
-        # Final step
-        t = len(x)
-        (max_p, max_s) = max( (H[t-1][s_1][s_2] + Q(s_2, s_1, '<STOP>'), s_1 ) for s_1 in S(t-1) for s_2 in S(t-2) )
-
-        #print('X: ', x)
-        #print('INTENT: ', intent, round( pow(2,max_p), 3) )
-        #print('SLOT SEQUENCE: ', P[max_s])
-
-        return P[max_s], max_p
-
-
-    def get_seq_probability(self, sentence, labels):
-
-        # Transition probability
-        def Q(a, b, c):
-            try:
-                i, j, k = [self.label2index[s] for s in (a,b,c)]
-                return self.trans_p[i][j][k]
-            except Exception:
-                return -50
-
-        # Emission probability
-        def E(w, s):
-            try:
-                w = self.word2index[w]
-                s = self.label2index[s]
-                return self.emit_p[w][s]
-            except Exception:
-                return -50
-
-        p = 0
-        s_2 = '<START>'
-        s_1 = '<START>'
-        for w, s in zip(sentence, labels):
-            p += ( Q(s_2, s_1, s) + E(w, s) )
-            s_2 = s_1
-            s_1 = s
-
-        # final prob
-        p+= Q(s_2, s_1, '<STOP>')
-
-        return p
-
-
-    def extract_iob_labels(self, slot_labels):
+        """
         S = ['_O'] # Outside tag, i.e for tokens that are no entities
         for s in slot_labels:
             S.append(s+'_B') # Beginning tag
@@ -311,9 +287,14 @@ class HMM_Slot_Filler():
     def encode_to_iob(self, sentence, entities):
 
         """
-        params:
+        Extract IOB labels for a given sentence
+
+        Args:
             - sentence: list of tokens
             - entities: dict of slot => entity pairs
+        
+        Returns:
+            list of IOB labels
         """
         # base data structures: list of labels (target)
         iob_labels = ['_O' for i in range( len( sentence ) )]
@@ -326,10 +307,6 @@ class HMM_Slot_Filler():
                 if token in sentence:
                     i = sentence.index(token)
                     iob_labels[i] = slot
-                # DEBUG
-                #else:
-                #    print('MISSING: ', token)
-                #    print(sentence)
 
         # redefine each label as either a beginning or inside tag
         
@@ -363,6 +340,16 @@ class HMM_Slot_Filler():
 
 
     def decode_from_iob(self, sentence, slots):
+        """
+        Convert IOB labels to entities
+
+        Args:
+            - sentence: list of tokens
+            - slots:    list of IOB labels
+        
+        Returns:
+            dict of slot => entity pairs
+        """
         # dict to store normalized entities
         entities = {}
 
@@ -398,36 +385,3 @@ class HMM_Slot_Filler():
         flush_previous()
 
         return entities
-
-    
-if __name__ == '__main__':
-
-
-    train_corpus = Corpus(1000, 'train')
-    train_corpus.get_data()
-    intent_set, slot_set = train_corpus.get_labels()
-
-    model = HMM_Slot_Filler(slot_set, intent_set)
-    model.train_model(train_corpus)
-
-    test_corpus = Corpus(100, 'test')
-    test_corpus.get_data()
-    model.test_model(t, 700)
-
-    """
-    # Test converting iob_labels to slot entities (dictionary)
-    h = HMM_Slot_Filler()
-    x = ['play', 'grand', 'requiem', 'by', 'mozart', 'now']
-    s = ['_O', 'song_B', 'song_I', '_O', 'artist_I', 'time_I']
-    e = h.decode_from_iob(x, s)
-    print('input: ', x)
-    print('labels: ', s)
-    print('result: ', e)
-
-
-    # Test encoding slot entities to iob_labels
-    iob_labels = h.encode_to_iob(' '.join(x), e)
-    print('\nconverting back to iob labels:')
-    print('labels: ', iob_labels)
-    #print('grouped: ', x)
-    """
