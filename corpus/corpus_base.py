@@ -13,6 +13,7 @@ class Corpus:
         self.__curr = 0 # counter for iterator
         # public attributes
         self.size = size
+        self.total_size = 0
         self.type_req = type_req
         self.intent_labels = {}
         self.slot_labels = []
@@ -92,6 +93,7 @@ class Corpus:
                         q = Query(utterance, intent, slots)
                         self.__corpus.append(q)
                         i+=1
+                        self.total_size += 1
                     except Exception:
                         corrupt += 1
                         print(f'WARNING: Corrupt data point: {line}')
@@ -99,7 +101,9 @@ class Corpus:
         if corrupt:
             print(f'WARNING: {corrupt} corrupted data points were skipped!')
                     
-                    
+    def get_size(self):
+        return self.total_size
+                          
 
 if __name__ == '__main__':
 
