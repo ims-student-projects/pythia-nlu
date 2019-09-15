@@ -11,15 +11,19 @@ from sklearn.metrics import classification_report
 
 
 class SVM:
-    def __init__(self, train_num):
-        self.train_num = train_num
+    def __init__(self, train_corpus, test_corpus):
+
+        self.corpus_tr = train_corpus
+        self.corpus_ts = test_corpus
         self.__predicted = []
 
-    def train(self, train_data, train_targets, test_data, test_targets):
-        self.train_data = train_data
-        self.train_targets = train_targets
-        self.test_data = test_data
-        self.test_targets = test_targets
+        self.setup()
+        self.train_data = self.feature_tr
+        self.train_targets = self.all_targ_tr
+        self.test_data = self.feature_ts
+        self.test_targets = self.all_targ_ts
+
+    def train(self, my_verbose=False):
         # --------- transform targets ----------- # 
         le = preprocessing.LabelEncoder()
         
@@ -29,7 +33,7 @@ class SVM:
         # ---------- BUILD SVM MODEL ------------ #
         clf = svm.SVC(  C = 10,
                         kernel = 'poly', 
-                        verbose = True,
+                        verbose = my_verbose,
                         gamma = 0.00000000000000001,
                         probability=True) 
 
@@ -48,6 +52,7 @@ class SVM:
                 __prbList.append(probs)
         
         for i, j in zip(__prbList, self.corpus_ts):
+            print(type(i), i)
             j.set_intent_probabilities(i)
 
         print('----------- Intent probabilities set is complete ---------------')
@@ -85,13 +90,6 @@ class SVM:
         # 'RateBook' 4 'SearchCreativeWork' 5 'SearchScreeningEvent' 6 
 
     def setup(self):
-
-        self.corpus_tr = Corpus(self.train_num, 'train')
-        self.corpus_tr.shuffle()
-
-        self.corpus_ts = Corpus(60, 'test')
-        self.corpus_ts.shuffle()
-
 
         # ---- grab all utterances ----
         self.all_sent_tr = list()
@@ -139,9 +137,6 @@ class SVM:
 # ------------- enter all data and all target as input to SVM ----------------- #
 
 if __name__ == '__main__':
-
-    baseline_svm = SVM(100)
-
-    baseline_svm.setup()
-
-    baseline_svm.train(baseline_svm.feature_tr, baseline_svm.all_targ_tr, baseline_svm.feature_ts, baseline_svm.all_targ_ts)
+    pass
+    #baseline_svm = SVM()
+    #baseline_svm.train()
