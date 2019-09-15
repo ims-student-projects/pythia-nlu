@@ -7,7 +7,7 @@ probabilities.
 
 import sys 
 import numpy as np
-from math import log2
+from math import log
 from nltk.tokenize import word_tokenize as tokenize
 
 sys.path.append(sys.path[0] + '/../')
@@ -133,7 +133,7 @@ class HMM3():
         """
         Returns the log division of two
         """
-        return -50 if a==0 or b==0 else log2(a/b)
+        return -50 if a==0 or b==0 else log(a/b)
 
 
     def get_bigrams(self, sequence):
@@ -203,20 +203,20 @@ class HMM3():
  
             # Predict slots on intent level
             predictions = {}
-            try:
-                for intent in self.intent_set:
-                    predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent])
-                x.set_slot_probabilities( predictions )
-                c, t = self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
-                correct_per_intent += c
-                total_per_intent += t
+            for intent in self.intent_set:
+                predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent])
+                x.set_pred_slots_per_intent(intent, self.decode_from_iob(tokens, predictions[intent]['slots']), predictions[intent]['prob'])
+            c, t = self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
+            correct_per_intent += c
+            total_per_intent += t
                 
-            except Exception as ex:
-                print('FAILED: [', ex, ']', x.get_gold_intent(), ': ', x.get_utterance() )
+            #except Exception as ex:
+            #    print('\nFAILED: [', ex, ']', x.get_gold_intent(), ': ', x.get_utterance() )
 
             # Predict without considering intent
-            raw_prediction = self.predict(x.get_utterance(), self.slot_set)
-            c, t = self.get_scores( gold_labels, raw_prediction['slots'] )            
+            prediction = self.predict(x.get_utterance(), self.slot_set)
+            x.set_pred_slots( {'slots' : self.decode_from_iob(tokens, prediction['slots']), 'prob': prediction['prob'] } )
+            c, t = self.get_scores( gold_labels, prediction['slots'] )            
             correct_all += c
             total_all += t
 
@@ -291,7 +291,7 @@ class HMM3():
 
         Args:
             - sentence: list of tokens
-            - entities: dict of slot => entity pairs
+            - entities: dict of slot => entity items
         
         Returns:
             list of IOB labels
@@ -348,7 +348,7 @@ class HMM3():
             - slots:    list of IOB labels
         
         Returns:
-            dict of slot => entity pairs
+            dict of slot => entity items
         """
         # dict to store normalized entities
         entities = {}

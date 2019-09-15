@@ -5,7 +5,7 @@ class Query():
         self.gold_intent = intent
         self.gold_slots = slots
         self.pred_intent = None
-        self.intent_probilities = {}
+        self.intent_probabilities = {}
         self.pred_slots = {}
         self.pred_slots_per_intent = {}
 

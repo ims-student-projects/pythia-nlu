@@ -50,9 +50,10 @@ class SVM:
             for i in range(len(p)):
                 probs[le.inverse_transform([i])[0]] = p[i]
                 __prbList.append(probs)
+
+        print('CORPUS_TS size: ', self.corpus_ts.get_size())        
         
         for i, j in zip(__prbList, self.corpus_ts):
-            print(type(i), i)
             j.set_intent_probabilities(i)
 
         print('----------- Intent probabilities set is complete ---------------')
