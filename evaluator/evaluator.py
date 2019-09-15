@@ -97,7 +97,7 @@ class Evaluator():
         # Calculate base scores: TP, FP and FN
         for x in self.corpus:
             gold = x.get_gold_slots()
-            pred = x.get_pred_slots()
+            pred = x.get_pred_slots()['slots']
             # Iterate gold slots
             for s in gold:
                 if s in pred and pred[s]:
