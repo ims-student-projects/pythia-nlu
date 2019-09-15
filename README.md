@@ -10,10 +10,10 @@ For example, the utterance __"Is there something new you can play by Lola Monroe
 
 We use the open-source [Snips NLU-benchmark](https://github.com/snipsco/nlu-benchmark) to train and test our model. The dataset contains seven intents with about 2000 instances for each, as well as a validation dataset with 100 instances for each intent.
 
- 
 
 
-| Intent                 | train data         | validation data	 | 
+
+| Intent                 | train data         | validation data	 |
 |------------------------|--------------------|------------------|
 | `SearchCreativeWork`   | 1,954              | 100              |
 | `PlayMusic`            | 2,000              | 100              |
@@ -30,7 +30,7 @@ We use the open-source [Snips NLU-benchmark](https://github.com/snipsco/nlu-benc
 
 Pythia-NLU is a generative model that takes advantage of the probabilities that intent parser and slot filler to input sentences. Mathematically we search for the intent that is assigned the highest probability by both sub-models and choose the subset of slots that are associated with this intent:
 
-$$\mathrm{i}, \mathbf{e} = \underset{^{\mathrm{i} \in \mathbf{i}}}{\operatorname{argmax}} \: P(\mathrm{i}, \mathbf{e} | \mathbf{x}) = \underset{^{\mathrm{i} \in \mathbf{i}}}{\operatorname{argmax}} \: P(\mathbf{e} | \mathbf{x}) P(\mathrm{i} | \mathbf{e}, \mathbf{x}) \\$$
+![chart](data/model_design.png)
 
 where i is the predicted intent, __i__ is the set of possible intents, __e__ are the slot entities and __x__ is the sequence of tokens in the input sentence.
 
