@@ -9,6 +9,7 @@ from sklearn import svm
 from sklearn import metrics
 from sklearn.metrics import classification_report
 
+from sklearn.model_selection import GridSearchCV
 
 class SVM:
     def __init__(self, train_corpus, test_corpus):
@@ -29,19 +30,26 @@ class SVM:
         
         # ---------- make train test split --------- #
         #X_train, X_test, y_train, y_test = train_test_split(self.data, self.__targets, test_size=0.3)
-
+        parameters = {'kernel':('poly', 'rbf'), 'C':[1, 10], 'gamma': [0.0001, 0.001, 0.005, 0.1, 1, 3, 5]}
+        svc = svm.SVC(probability=True)
+        model = GridSearchCV(svc, parameters, cv=5)
         # ---------- BUILD SVM MODEL ------------ #
-        clf = svm.SVC(  C = 10,
-                        kernel = 'poly', 
-                        verbose = my_verbose,
-                        gamma = 0.00000000000000001,
-                        probability=True) 
+        # clf = svm.SVC(  C = 10,
+        #                 kernel = 'poly', 
+        #                 verbose = my_verbose,
+        #                 gamma = 0.00000000000000001,
+        #                 probability=True) 
 
         # ---------- Train the model using the training sets ------------ #
-        clf.fit(self.train_data, le.fit_transform(self.train_targets))
+        model.fit(self.train_data, le.fit_transform(self.train_targets))
 
+        
+
+        # ----------- Predict the response for test dataset ------------ #
+        y_pred = model.predict(self.test_data)
+        
         # ---------- Retain probabilities ------------------------------- #
-        self.__predicted = clf.predict_proba(self.test_data)
+        self.__predicted = model.predict_proba(self.test_data)
         
         __prbList = list()
 
@@ -51,6 +59,12 @@ class SVM:
                 probs[le.inverse_transform([i])[0]] = p[i]
                 __prbList.append(probs)
 
+        __prbList = [dict(t) for t in {tuple(d.items()) for d in __prbList}]
+        
+        # print(len(__prbList))
+        # print()
+        # print(__prbList) 
+
         print('CORPUS_TS size: ', self.corpus_ts.get_size())        
         
         for i, j in zip(__prbList, self.corpus_ts):
@@ -58,9 +72,6 @@ class SVM:
 
         print('----------- Intent probabilities set is complete ---------------')
 
-        # ----------- Predict the response for test dataset ------------ #
-        y_pred = clf.predict(self.test_data)
-        
         # ---------- MODEL ACCURACY ----------- #  
         
         print("Accuracy:",metrics.accuracy_score(le.fit_transform(self.test_targets), y_pred))
@@ -138,6 +149,8 @@ class SVM:
 # ------------- enter all data and all target as input to SVM ----------------- #
 
 if __name__ == '__main__':
-    pass
-    #baseline_svm = SVM()
-    #baseline_svm.train()
+    tr = Corpus(10,'train')
+    ts = Corpus(2, 'test')
+    baseline_svm = SVM(tr,ts)
+    baseline_svm.setup()
+    baseline_svm.train()
