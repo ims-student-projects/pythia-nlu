@@ -105,14 +105,14 @@ class Evaluator():
             for s in gold:
                 if s in pred and pred[s]:
                     if gold[s] == pred[s]:
-                        self.slot_tp[s] += 1
+                        self.slot_tp[s] = self.slot_tp.get(s, 0) + 1
                     else:
-                        self.slot_fp[s] += 1
+                        self.slot_fp[s] = self.slot_tp.get(s, 0) + 1
                 else:
-                    self.slot_fn[s] +=1
+                    self.slot_fn[s] = self.slot_tp.get(s, 0) + 1
             for s in pred:
                 if s not in gold:
-                    self.slot_fp[s] += 1
+                    self.slot_fp[s] = self.slot_tp.get(s, 0) + 1
 
         # Calculate precision, recall, local F score
         for s in self.slots:
@@ -148,18 +148,20 @@ class Evaluator():
         tp = sum( self.intent_tp.values() )
         fp = sum( self.intent_fp.values() )
         fn = sum( self.intent_fn.values() )
+
         p = tp / (tp + fp) if (tp + fp) else 0.0
-        r = tp / (fp + fn) if (tp + fn) else 0.0
+        r = tp / (tp + fn) if (tp + fn) else 0.0
         self.intent_precision['micro'] = p
         self.intent_recall['micro'] = r
-        self.intent_f1['micro'] = (2*p*r) / (p+r) if (p+r) else 0.0
+        f = (2*p*r) / (p+r) if (p+r) else 0.0
+        self.intent_f1['micro'] = f
 
         # Calculate for slots
         tp = sum( self.slot_tp.values() )
         fp = sum( self.slot_fp.values() )
         fn = sum( self.slot_fn.values() )
         p = tp / (tp + fp) if (tp + fp) else 0.0
-        r = tp / (fp + fn) if (tp + fn) else 0.0
+        r = tp / (tp + fn) if (tp + fn) else 0.0
         self.slot_precision['micro'] = p
         self.slot_recall['micro'] = r
         self.slot_f1['micro'] = (2*p*r) / (p+r) if (p+r) else 0.0
@@ -219,10 +221,11 @@ class Evaluator():
                         )
 
         # Scores for each individual Intent: precision and recall
-        intent_header = 'Intents: ' + '  '.join(self.resize(i,10) for i in self.intents) + (' ' * 98) + '#\n'
-        intent_scores = '         ' + '  '.join(self.resize( '{}  {}'.format(
+        intent_header = 'Intents: ' + '  '.join(self.resize(i,15) for i in self.intents) + (' ' * 98) + '#\n'
+        intent_scores = '         ' + '  '.join(self.resize( '\033[1m{}\033[0m  {}  {}'.format(
+                        round(self.intent_f1[i], 2),
                         round(self.intent_precision[i], 2),
-                        round(self.intent_recall[i], 2) ), 10 )
+                        round(self.intent_recall[i], 2) ), 29 )
                 for i in self.intents ) + (' ' * 98)  + '#\n' + (' ' * 189)  + '#\n'
 
         # Scores for each individual Slot: precision and recall
