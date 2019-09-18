@@ -1,10 +1,9 @@
 import sys
 import random
+import json
 
 sys.path.append(sys.path[0] + '/../')
-
-from utils.helper import *
-from corpus.query import *
+from corpus.query import Query
 
 class Corpus:
     def __init__(self, size, type_req):
@@ -17,15 +16,22 @@ class Corpus:
         self.type_req = type_req
         self.intent_labels = {}
         self.slot_labels = []
-        self.file_paths = [ 'slp_train_add_to_playlist_full.txt', 
-                            'slp_train_book_restaurant_full.txt', 
-                            'slp_train_get_weather_full.txt', 
-                            'slp_train_play_music_full.txt', 
-                            'slp_train_rate_book_full.txt', 
-                            'slp_train_search_creative_work_full.txt', 
-                            'slp_train_search_screening_event_full.txt' ]
+        self.train_files = ['train_SearchCreativeWork_full.json',
+                            'train_PlayMusic_full.json',
+                            'train_SearchScreeningEvent_full.json',
+                            'train_GetWeather_full.json',
+                            'train_AddToPlaylist_full.json',
+                            'train_BookRestaurant_full.json',
+                            'train_RateBook_full.json']
+        self.test_files = [ 'validate_RateBook.json',
+                            'validate_AddToPlaylist.json',
+                            'validate_GetWeather.json',
+                            'validate_PlayMusic.json',
+                            'validate_SearchCreativeWork.json',
+                            'validate_BookRestaurant.json',
+                            'validate_SearchScreeningEvent.json']
         # import data from files
-        self.get_data()
+        self.get_data(file_paths=self.train_files if type_req == 'train' else self.test_files)
 
 
     def __next__(self):
@@ -59,47 +65,33 @@ class Corpus:
         return self.intent_labels, self.slot_labels
 
 
-    def get_data(self):
+    def get_data(self, file_paths):
 
         # keep track of corrupt datapoints
         corrupt = 0
 
-        for fp in self.file_paths:
-            f = open( 'data/' + fp,'r')
-            lines = f.readlines()
-            # ------ check if train or test data is needed and set the list accordingly ------ #
-            if self.type_req == 'train':
-                print('Collecting train data ...')
-            else:
-                print('Collecting test data ...')
-                lines.reverse()
-            # ----- start loop to fill up data in the data structure ----- #
-            i = 0
-            for line in lines:
-                if i == self.size:
-                    break
-                if i == len(lines):
-                    print(f'WARNING: [{fp}] Requested size [{self.size}] exceeds file size [{self.size}]')
-                else:
-                    line = line.split('#')
-                    # some sanity check to make sure data point is not corrupted:
-                    # length must be 3 and first element should not be empty
+        for fp in file_paths:
+            with open ( 'data/' + fp, encoding='ISO-8859-1') as raw_data:
+                data = json.load(raw_data)
+                intent = list(data.keys())[0]
+
+                # if requested size exceeds size, only return what is there
+                n = self.size if self.size <= len(data[intent]) else len(data[intent])
+
+                for x in data[intent][:n]:
                     try:
-                        assert len(line) == 3 and len(line[0]) > 0
-                        utterance = line[0]
-                        intent = line[1]
-                        slots = make_slot_dict(line[2])
-                        # ---- make an instance of the corpus class ---- #
+                        utterance = ' '.join(slot['text'] for slot in x['data'])
+                        slots = {slot['entity']: slot['text'] for slot in x['data'] if 'entity' in slot}
                         q = Query(utterance, intent, slots)
                         self.__corpus.append(q)
-                        i+=1
                         self.total_size += 1
-                    except Exception:
+                    except Exception as ex:
                         corrupt += 1
-                        print(f'WARNING: Corrupt data point: {line}')
+                        print(f'ERROR: Unable to parse ({ex}): [{x}]')
         # DEBUG
         if corrupt:
-            print(f'WARNING: {corrupt} corrupted data points were skipped!')
+            print(f'WARNING: {corrupt} corrupted data points were skipped.')
+
                     
     def get_size(self):
         return self.total_size
