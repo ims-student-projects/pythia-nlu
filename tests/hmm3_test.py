@@ -5,13 +5,15 @@ from models.hmm3_slot_filler import HMM3
 from corpus.corpus_base import Corpus
 from evaluator.evaluator import Evaluator
 
-c = Corpus(150, 'train')
+c = Corpus(2000, 'train')
 intent_set, slot_set = c.get_labels()
+c.shuffle()
 
 m = HMM3(slot_set, intent_set)
 m.train_model(c)
 
-t = Corpus(3, 'test')
+t = Corpus(5, 'test')
+t.shuffle()
 m.test_model(t)
 
 e = Evaluator(t, intent_set, slot_set)

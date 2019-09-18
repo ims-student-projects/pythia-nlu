@@ -6,6 +6,7 @@ probabilities.
 """
 
 import sys 
+import time
 import numpy as np
 from math import log
 from nltk.tokenize import word_tokenize as tokenize
@@ -201,11 +202,19 @@ class HMM3():
             tokens = tokenize( x.get_utterance() )
             gold_labels = self.encode_to_iob( tokens, x.get_gold_slots() )
  
+            # keep track of runtime
+            time_per_intent = 0
+            time_general = 0
+
             # Predict slots on intent level
             predictions = {}
             for intent in self.intent_set:
+                t = time.time()
                 predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent])
+                time_per_intent += (time.time() - t)
+
                 x.set_pred_slots_per_intent(intent, self.decode_from_iob(tokens, predictions[intent]['slots']), predictions[intent]['prob'])
+                
             c, t = self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
             correct_per_intent += c
             total_per_intent += t
@@ -214,7 +223,9 @@ class HMM3():
             #    print('\nFAILED: [', ex, ']', x.get_gold_intent(), ': ', x.get_utterance() )
 
             # Predict without considering intent
+            t = time.time()
             prediction = self.predict(x.get_utterance(), self.slot_set)
+            time_general += (time.time() - t)
             x.set_pred_slots( {'slots' : self.decode_from_iob(tokens, prediction['slots']), 'prob': prediction['prob'] } )
             c, t = self.get_scores( gold_labels, prediction['slots'] )            
             correct_all += c
@@ -226,6 +237,7 @@ class HMM3():
         print('=' * 50)
         print('Total predicted slots per intent: ', total_per_intent)
         print('Accuracy per intent: ', round(accuracy_per_intent, 3) )
+        print('Total & average prediction time: ', round(time_per_intent, 2), round( (time_per_intent / test_data.get_size() ), 2))
         print('=' * 50)
 
         print()
@@ -234,6 +246,7 @@ class HMM3():
         print('=' * 50)
         print('Total predicted slots: ', total_all)
         print('Accuracy: ', round(accuracy_all, 3) )
+        print('Total & average prediction time: ', round(time_general, 2), round( (time_general / test_data.get_size() ), 2))
         print('=' * 50)
 
 

@@ -221,12 +221,12 @@ class Evaluator():
                         )
 
         # Scores for each individual Intent: precision and recall
-        intent_header = 'Intents: ' + '  '.join(self.resize(i,15) for i in self.intents) + (' ' * 98) + '#\n'
+        intent_header = 'Intents: ' + '  '.join(self.resize(i,15) for i in self.intents) + (' ' * 63) + '#\n'
         intent_scores = '         ' + '  '.join(self.resize( '\033[1m{}\033[0m  {}  {}'.format(
                         round(self.intent_f1[i], 2),
                         round(self.intent_precision[i], 2),
                         round(self.intent_recall[i], 2) ), 29 )
-                for i in self.intents ) + (' ' * 98)  + '#\n' + (' ' * 189)  + '#\n'
+                for i in self.intents ) + (' ' * 21)  + '#\n' + (' ' * 189)  + '#\n'
 
         # Scores for each individual Slot: precision and recall
         # Split into to lines to avoid printing very long lines

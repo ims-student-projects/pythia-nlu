@@ -30,7 +30,6 @@ class Query():
     def get_intent_probabilities(self):
         return self.intent_probabilities
 
-
     def set_pred_slots(self, slots):
         self.pred_slots = slots
     
