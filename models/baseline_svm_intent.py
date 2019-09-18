@@ -43,24 +43,28 @@ class SVM:
         # ---------- Train the model using the training sets ------------ #
         model.fit(self.train_data, le.fit_transform(self.train_targets))
 
-        
-
         # ----------- Predict the response for test dataset ------------ #
         y_pred = model.predict(self.test_data)
         
         # ---------- Retain probabilities ------------------------------- #
         self.__predicted = model.predict_proba(self.test_data)
         
+        # print(self.__predicted)
+        # self.classes = model.classes_
+        # print(self.classes)
+
         __prbList = list()
 
         for p in self.__predicted:
             probs = {}
             for i in range(len(p)):
                 probs[le.inverse_transform([i])[0]] = p[i]
-                __prbList.append(probs)
+            __prbList.append(probs)
 
-        __prbList = [dict(t) for t in {tuple(d.items()) for d in __prbList}]
+        # __prbList = [dict(t) for t in {tuple(d.items()) for d in __prbList}]
         
+        # print(__prbList)
+
         # print(len(__prbList))
         # print()
         # print(__prbList) 
@@ -149,8 +153,9 @@ class SVM:
 # ------------- enter all data and all target as input to SVM ----------------- #
 
 if __name__ == '__main__':
-    tr = Corpus(10,'train')
-    ts = Corpus(2, 'test')
-    baseline_svm = SVM(tr,ts)
-    baseline_svm.setup()
-    baseline_svm.train()
+    pass
+    # tr = Corpus(70,'train')
+    # ts = Corpus(20, 'test')
+    # baseline_svm = SVM(tr,ts)
+    # baseline_svm.setup()
+    # baseline_svm.train()
