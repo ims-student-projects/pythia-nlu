@@ -29,16 +29,18 @@ class SVM:
         le = preprocessing.LabelEncoder()
         
         # ---------- make train test split --------- #
+        
         #X_train, X_test, y_train, y_test = train_test_split(self.data, self.__targets, test_size=0.3)
-        parameters = {'kernel':('poly', 'rbf'), 'C':[1, 10], 'gamma': [0.0001, 0.001, 0.005, 0.1, 1, 3, 5]}
-        svc = svm.SVC(probability=True)
-        model = GridSearchCV(svc, parameters, cv=5)
+        # parameters = {'kernel':('poly', 'rbf'), 'C':[1, 10], 'gamma': [0.0001, 0.001, 0.005, 0.1, 1, 3, 5]}
+        # svc = svm.SVC(probability=True)
+        # model = GridSearchCV(svc, parameters, cv=5)
+        
         # ---------- BUILD SVM MODEL ------------ #
-        # clf = svm.SVC(  C = 10,
-        #                 kernel = 'poly', 
-        #                 verbose = my_verbose,
-        #                 gamma = 0.00000000000000001,
-        #                 probability=True) 
+        model = svm.SVC(  C = 1,
+                        kernel = 'poly', 
+                        verbose = my_verbose,
+                        gamma = 1,
+                        probability=True) 
 
         # ---------- Train the model using the training sets ------------ #
         model.fit(self.train_data, le.fit_transform(self.train_targets))
