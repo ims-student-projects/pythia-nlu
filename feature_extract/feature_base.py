@@ -26,11 +26,11 @@ class Feature:
 
         # return self.__vocab_set
 
-    def get_tokens(all_sent):
+    def get_tokens(self, all_sent):
         all_tokens=list()
         for sent in all_sent:
-            sent = word_tokenize(sentence)
-            for word in sentence:
+            sent = word_tokenize(sent)
+            for word in sent:
                 all_tokens.append(word)
         return all_tokens
 
