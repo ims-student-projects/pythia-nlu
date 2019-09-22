@@ -7,6 +7,8 @@ sys.path.append(sys.path[0] + '/../')
 # from models.baseline_svm_intent import SVM
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
+from nltk.tokenize import word_tokenize
+
 class Feature:
     def __init__(self, vocab):
         # self.__data_dump = __data_dump
@@ -23,6 +25,15 @@ class Feature:
     #             self.__vocab_set.add(token)
 
         # return self.__vocab_set
+
+    def get_tokens(all_sent):
+        all_tokens=list()
+        for sent in all_sent:
+            sent = word_tokenize(sentence)
+            for word in sentence:
+                all_tokens.append(word)
+        return all_tokens
+
 
     def create_tfidf(self, __all_sents):
         # self.__all_vocabs = __all_vocabs
