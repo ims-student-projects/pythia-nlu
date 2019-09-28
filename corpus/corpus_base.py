@@ -49,6 +49,8 @@ class Corpus:
     def shuffle(self):
         random.shuffle(self.__corpus)
 
+    def get_sample_by_index(self, index):
+        return self.__corpus[index]
 
     def get_labels(self):
         if not self.intent_labels or not self.slot_labels:
@@ -80,7 +82,7 @@ class Corpus:
 
                 for x in data[intent][:n]:
                     try:
-                        utterance = ' '.join(slot['text'] for slot in x['data'])
+                        utterance = ''.join(slot['text'] for slot in x['data'])
                         slots = {slot['entity']: slot['text'] for slot in x['data'] if 'entity' in slot}
                         q = Query(utterance, intent, slots)
                         self.__corpus.append(q)

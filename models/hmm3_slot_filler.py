@@ -6,13 +6,12 @@ probabilities.
 """
 
 import sys 
-import time
 import numpy as np
+import multiprocessing as mp
 from math import log
 from nltk.tokenize import word_tokenize as tokenize
 
 sys.path.append(sys.path[0] + '/../')
-from progress.bar import PixelBar
 from corpus.corpus_base import Corpus
 from models.hmm3_viterbi import Viterbi
 
@@ -84,12 +83,9 @@ class HMM3():
         bigram_c = np.zeros( shape=(k-1, k) )
 
         print('Running Expectation-Maximization')
- 
-        progress = PixelBar('Progress... ', max=train_data.get_size())
 
         # Collect counts
         for x in train_data:
-            progress.next()
 
             tokens = tokenize( x.get_utterance() )
             labels = self.encode_to_iob( tokens, x.get_gold_slots() )
@@ -186,81 +182,55 @@ class HMM3():
         """
 
         print('Testing model...')
-     
+
         correct_per_intent = 0
         total_per_intent = 0
         correct_all = 0
         total_all = 0
         self.viterbi = Viterbi(self.trans_p, self.emit_p, self.label2index, self.word2index)
 
-        progress = PixelBar('Progress... ', max=test_data.get_size())
+        manager = mp.Manager()
+        pred = manager.list( [ None for i in range(test_data.get_size()) ] )
+        pred_with_intent = manager.list( [ None for i in range(test_data.get_size()) ] )
 
-        for x in test_data:
+        scores = manager.dict({'correct_with_intent':0, 'total_with_intent':0, 'correct':0, 'total':0})
+        jobs = []
 
-            progress.next()
+        for x, i in zip(test_data, range(test_data.get_size())):
+            p = mp.Process( target=self.predict, args=(x, i, pred, pred_with_intent, scores, self.intent_set) )
+            jobs.append(p)
+            p.start()
 
-            tokens = tokenize( x.get_utterance() )
-            gold_labels = self.encode_to_iob( tokens, x.get_gold_slots() )
- 
-            # keep track of runtime
-            time_per_intent = 0
-            time_general = 0
+        for p in jobs:
+            p.join()
 
-            # Predict slots on intent level
-            predictions = {}
+        for i in range( test_data.get_size() ):
+            x = test_data.get_sample_by_index(i)
+            x.set_pred_slots(pred[i])
             for intent in self.intent_set:
-                t = time.time()
-                predictions[intent] = self.predict(x.get_utterance(), self.intent_set[intent])
-                time_per_intent += (time.time() - t)
-
-                x.set_pred_slots_per_intent(intent, self.decode_from_iob(tokens, predictions[intent]['slots']), predictions[intent]['prob'])
-                
-            c, t = self.get_scores( gold_labels, predictions[ x.get_gold_intent() ]['slots'] )
-            correct_per_intent += c
-            total_per_intent += t
-                
-            #except Exception as ex:
-            #    print('\nFAILED: [', ex, ']', x.get_gold_intent(), ': ', x.get_utterance() )
-
-            # Predict without considering intent
-            t = time.time()
-            prediction = self.predict(x.get_utterance(), self.slot_set)
-            time_general += (time.time() - t)
-            x.set_pred_slots( {'slots' : self.decode_from_iob(tokens, prediction['slots']), 'prob': prediction['prob'] } )
-            c, t = self.get_scores( gold_labels, prediction['slots'] )            
-            correct_all += c
-            total_all += t
+                if not intent:
+                    continue
+                x.set_pred_slots_per_intent(intent, pred_with_intent[i][intent]['slots'], pred_with_intent[i][intent]['prob'])
 
         print('\nDONE\n')
+        print(dict(scores))
             
-        accuracy_per_intent = (correct_per_intent / total_per_intent) if total_per_intent else 0
+        accuracy_per_intent = scores['correct_with_intent'] / scores['total_with_intent'] if scores['total_with_intent'] else 0
         print('=' * 50)
-        print('Total predicted slots per intent: ', total_per_intent)
+        print('Total predicted slots per intent: ', scores['total_with_intent'] )
         print('Accuracy per intent: ', round(accuracy_per_intent, 3) )
-        print('Total & average prediction time: ', round(time_per_intent, 2), round( (time_per_intent / test_data.get_size() ), 2))
         print('=' * 50)
 
         print()
 
-        accuracy_all = ( correct_all / total_all ) if total_all else 0
+        accuracy_all = scores['correct'] / scores['total'] if scores['total'] else 0
         print('=' * 50)
-        print('Total predicted slots: ', total_all)
+        print('Total predicted slots: ', scores['total'])
         print('Accuracy: ', round(accuracy_all, 3) )
-        print('Total & average prediction time: ', round(time_general, 2), round( (time_general / test_data.get_size() ), 2))
         print('=' * 50)
 
 
-    def get_scores( self, gold_labels, pred_labels ):
-        correct = 0
-        total = 0
-        for g, p in zip( gold_labels, pred_labels ):
-            if g == p:
-                correct += 1
-            total += 1
-        return correct, total
-
-
-    def predict(self, x, labels):
+    def predict(self, x, index, pred, pred_with_intent, scores, intents):
         """
         Predict labels for a sequence
 
@@ -273,10 +243,50 @@ class HMM3():
             - slots: list of predicted labels
             - prob:  probability of the prediction
 
-        """
-        slots, prob = self.viterbi.search( tokenize(x), self.extract_iob_labels( labels ) )
+         """
 
-        return {'slots': slots, 'prob': prob }
+        #results[index] = {}
+        #nonlocal correct_per_intent, total_per_intent, correct_all, total_all
+
+        tokens = tokenize( x.get_utterance() )
+        gold_labels = self.encode_to_iob( tokens, x.get_gold_slots() )
+    
+        # Predict slots on intent level
+        predictions = {}
+        raw_slots = {}
+        for intent in intents:
+            slots, prob = self.viterbi.search( tokens, self.extract_iob_labels( intents[intent] ) )
+            raw_slots[intent] = slots
+            predictions[intent] = {'slots': self.decode_from_iob(tokens, slots), 'prob': prob}
+        pred_with_intent[index] = predictions
+            
+        c, t = self.get_scores( gold_labels, raw_slots[ x.get_gold_intent() ], outp=True )
+        scores['correct_with_intent'] += c
+        scores['total_with_intent'] += t
+
+        # Predict without considering intent
+        slots, prob = self.viterbi.search( tokens, self.extract_iob_labels( self.slot_set ) )
+        pred[index] = {'slots' : self.decode_from_iob(tokens, slots), 'prob': prob }
+        c, t = self.get_scores( gold_labels, slots )            
+        scores['correct'] += c
+        scores['total'] += t
+
+
+    def get_scores( self, gold_labels, pred_labels, outp=False ):
+        if outp:
+            print('^' * 100)
+            print('GOLD: ', gold_labels)
+            print('PRED: ', pred_labels)
+            print()
+        if not pred_labels:
+            return 0, len(gold_labels)
+        correct = 0
+        total = 0
+        for g, p in zip( gold_labels, pred_labels ):
+            if g == p:
+                correct += 1
+            total += 1
+        return correct, total
 
 
     def extract_iob_labels(self, slot_labels):        
