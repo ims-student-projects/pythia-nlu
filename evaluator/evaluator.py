@@ -198,49 +198,49 @@ class Evaluator():
         bold = '\033[1m' if use_bold else ''
         unbold = '\033[0m' if use_bold else ''
 
-        epoch_header = '\nEpoch:   {} {}\n'.format(self.epoch, '#' * 179)
-        # Model-level scores for Intent and Slot: F-macro, F-micro, precision and recall
-        model_header = f'{bold}Intent:  Fmac   Fmic{unbold}   ' \
-            f'Prc    Rec\t\t{bold}Slot: Fmac   Fmic{unbold}   Prc    Rec' + (' ' * 111)  + '#\n'
+        hline = ('^' * 100)
 
-        model_scores = '         {}{}  {}{}  {}  {}\t\t      {}{}  {}{}  {}  {}{}#\n{}#\n'.format(
+        # Model-level scores for Intent and Slot: F-macro, F-micro, precision and recall
+        model_header = '\n\n\n' + hline + '\nMODEL SCORES\n\n'
+        intent_header = f'{bold}INTENT:\nFmac   Fmic{unbold}   Prc    Rec\n'
+        slot_header = f'\n\n{bold}SLOT:\nFmac   Fmic{unbold}   Prc    Rec\n'
+
+        intent_score = '{}{}  {}{}  {}  {}'.format(
                         bold,
                         self.resize( round(self.intent_f1['macro'], 3), 5),
                         self.resize( round(self.intent_f1['micro'], 3), 5),
                         unbold,
                         self.resize( round(self.intent_precision['micro'], 3), 5),
                         self.resize( round(self.intent_recall['micro'], 3), 5),
+                        )
+
+        slot_score = '{}{}  {}{}  {}  {}'.format(
                         bold,
                         self.resize( round(self.slot_f1['macro'], 3), 5),
                         self.resize( round(self.slot_f1['micro'], 3), 5),
                         unbold,
                         self.resize( round(self.slot_precision['micro'], 3), 5),
-                        self.resize( round(self.slot_recall['micro'], 3), 5),
-                        ' ' * 109,
-                        ' ' * 189
+                        self.resize( round(self.slot_recall['micro'], 3), 5)
                         )
 
         # Scores for each individual Intent: precision and recall
-        intent_header = 'Intents: ' + '  '.join(self.resize(i,15) for i in self.intents) + (' ' * 63) + '#\n'
-        intent_scores = '         ' + '  '.join(self.resize( '\033[1m{}\033[0m  {}  {}'.format(
-                        round(self.intent_f1[i], 2),
-                        round(self.intent_precision[i], 2),
-                        round(self.intent_recall[i], 2) ), 29 )
-                for i in self.intents ) + (' ' * 21)  + '#\n' + (' ' * 189)  + '#\n'
+        intents_header = '\n\n' + hline + '\nINTENTS:\n\n'
+        intents_scores = '\n'.join( '{}\n{}  {}  {}\n'.format(
+                        i, 
+                        self.resize( round(self.intent_f1[i], 3), 5),
+                        self.resize( round(self.intent_precision[i], 3), 5),
+                        self.resize( round(self.intent_recall[i], 3), 5)
+                        )
+                for i in self.intents )
 
-        # Scores for each individual Slot: precision and recall
-        # Split into to lines to avoid printing very long lines
-        slots_header_a = 'Slots:   ' + ' '.join(self.resize(s,8) for s in self.slots[:20]) + ' #\n'
-        slots_scores_a = '         ' + ' '.join(self.resize( '{} {}'.format(
-                        round(self.slot_precision[s], 2),
-                        round(self.slot_recall[s], 2) ), 8 )
-                for s in self.slots[:20] ) + ' #\n' + (' ' * 189)  + '#\n'
+        slots_header = '\n\n' + hline + '\nSLOTS:\n\n'
+        slots_scores = '\n'.join( '{}\n{}  {}  {}\n'.format(
+                        s,
+                        self.resize( round(self.slot_f1[s], 3), 5),
+                        self.resize( round(self.slot_precision[s], 3), 5),
+                        self.resize( round(self.slot_recall[s], 3), 5)
+                        )
+                for s in self.slots)
 
-        slots_header_b = 'Slots:   ' + ' '.join(self.resize(s,8) for s in self.slots[20:]) + (' ' * 10) + '#\n'
-        slots_scores_b = '         ' + ' '.join(self.resize( '{} {}'.format(
-                        round(self.slot_precision[s], 2),
-                        round(self.slot_recall[s], 2) ), 8 )
-                for s in self.slots[20:] ) +  (' ' * 10) + '#\n' + (' ' * 189)  + '#\n' + ('#' * 190)
-
-        return ''.join([epoch_header, model_header, model_scores, intent_header, intent_scores, \
-            slots_header_a, slots_scores_a, slots_header_b, slots_scores_b])
+        return ''.join([model_header, intent_header, intent_score, slot_header, slot_score, \
+            intents_header, intents_scores, slots_header, slots_scores, hline])

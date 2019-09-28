@@ -260,7 +260,7 @@ class HMM3():
             predictions[intent] = {'slots': self.decode_from_iob(tokens, slots), 'prob': prob}
         pred_with_intent[index] = predictions
             
-        c, t = self.get_scores( gold_labels, raw_slots[ x.get_gold_intent() ], outp=True )
+        c, t = self.get_scores( gold_labels, raw_slots[ x.get_gold_intent() ] )
         scores['correct_with_intent'] += c
         scores['total_with_intent'] += t
 
@@ -273,11 +273,7 @@ class HMM3():
 
 
     def get_scores( self, gold_labels, pred_labels, outp=False ):
-        if outp:
-            print('^' * 100)
-            print('GOLD: ', gold_labels)
-            print('PRED: ', pred_labels)
-            print()
+
         if not pred_labels:
             return 0, len(gold_labels)
         correct = 0

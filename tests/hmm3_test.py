@@ -2,7 +2,7 @@
 import sys
 import time
 sys.path.append(sys.path[0] + '/../')
-from models.hmm3_slot_filler_old import HMM3
+from models.hmm3_slot_filler import HMM3
 from corpus.corpus_base import Corpus
 from evaluator.evaluator import Evaluator
 
@@ -16,13 +16,12 @@ m.train_model(c)
 t = Corpus(100, 'test')
 t.shuffle()
 
-#start = time.time()
+start = time.time()
 
-print('starting test')
-#m.test_model(t)
-#runtime = time.time() - start
-#avg_runtime = round( (runtime / t.get_size()), 3)
-#runtime = round(runtime, 3)
+m.test_model(t)
+runtime = time.time() - start
+avg_runtime = round( (runtime / t.get_size()), 3)
+runtime = round(runtime, 3)
 
 """
 for x in t:
@@ -36,12 +35,8 @@ for x in t:
         print(i, ' (', round(slots_per_intent[i]['prob'], 3), ')\t[', slots_per_intent[i]['slots'])
 """
 
-#e = Evaluator(t, intent_set, slot_set)
-#print(e)
+e = Evaluator(t, intent_set, slot_set)
+print(e)
 
-print('size slots: ', len(slot_set))
 
-print('*' * 100)
-_, test_slots = t.get_labels()
-
-print('size slots: ', len(test_slots))
+print(f'Total Runtime: {runtime} s. Avg for one instance: {avg_runtime} s.')
