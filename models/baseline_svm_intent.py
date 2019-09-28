@@ -28,13 +28,6 @@ class SVM:
         # --------- transform targets ----------- # 
         le = preprocessing.LabelEncoder()
         
-        # ---------- make train test split --------- #
-        
-        #X_train, X_test, y_train, y_test = train_test_split(self.data, self.__targets, test_size=0.3)
-        # parameters = {'kernel':('poly', 'rbf'), 'C':[1, 10], 'gamma': [0.0001, 0.001, 0.005, 0.1, 1, 3, 5]}
-        # svc = svm.SVC(probability=True)
-        # model = GridSearchCV(svc, parameters, cv=5)
-        
         # ---------- BUILD SVM MODEL ------------ #
         model = svm.SVC(  C = 1,
                         kernel = 'poly', 
@@ -50,10 +43,6 @@ class SVM:
         
         # ---------- Retain probabilities ------------------------------- #
         self.__predicted = model.predict_proba(self.test_data)
-        
-        # print(self.__predicted)
-        # self.classes = model.classes_
-        # print(self.classes)
 
         __prbList = list()
 
@@ -62,14 +51,6 @@ class SVM:
             for i in range(len(p)):
                 probs[le.inverse_transform([i])[0]] = p[i]
             __prbList.append(probs)
-
-        # __prbList = [dict(t) for t in {tuple(d.items()) for d in __prbList}]
-        
-        # print(__prbList)
-
-        # print(len(__prbList))
-        # print()
-        # print(__prbList) 
 
         print('CORPUS_TS size: ', self.corpus_ts.get_size())        
         
@@ -93,19 +74,12 @@ class SVM:
 
 
         print('TRAIN DATA')
-        #for i in range(7):
-        #    print(i,le.fit_transform(self.train_targets).count(i))    
+            
 
         print('TEST DATA')
         print(y_pred)
         print()
         print(le.fit_transform(self.test_targets))
-
-        # predictions_test = le.inverse_transform(y_pred)
-        # print(predictions_test)
-
-        # 'AddToPlaylist' 0 'BookRestaurant' 1 'get weather' 2 'PlayMusic'3 
-        # 'RateBook' 4 'SearchCreativeWork' 5 'SearchScreeningEvent' 6 
 
     def setup(self):
 
@@ -146,18 +120,12 @@ class SVM:
         for inst in self.corpus_ts:
             self.all_targ_ts.append(inst.get_gold_intent())
 
-
-        # --------------------------------------- #
-
-        # all_data = feature_tr.append(feature_ts)
-        # all_targ = all_targ_tr + all_targ_ts
-
-# ------------- enter all data and all target as input to SVM ----------------- #
-
 if __name__ == '__main__':
     pass
-    # tr = Corpus(70,'train')
-    # ts = Corpus(20, 'test')
-    # baseline_svm = SVM(tr,ts)
-    # baseline_svm.setup()
-    # baseline_svm.train()
+    tr = Corpus(9,'train')
+    ts = Corpus(2, 'test')
+    baseline_svm = SVM(tr,ts)
+    baseline_svm.setup()
+    print(baseline_svm.feature_tr)
+    print(len(baseline_svm.feature_tr[0]))
+    baseline_svm.train()

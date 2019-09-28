@@ -54,12 +54,7 @@ class BiLSTM:
         self.test_data = self.all_sent_ts
         self.test_targets = self.all_targ_ts
 
-        self.embedding_path = "glove.6B.50d.txt"
-
-        # self.intent_ls = emotion_ls
-        # self.token_ls = token_ls
-        # self.utterances = utterances
-        # self.max_len = max_len
+        self.embedding_path = "glove.6B.300d.txt"
 
     def train(self):
         ##### OUTPUT VARIABLE #####
@@ -67,13 +62,9 @@ class BiLSTM:
         self.le = preprocessing.LabelEncoder()
         self.Y_new_tr = self.all_targ_tr  
         self.Y_new_tr = self.le.fit_transform(self.Y_new_tr)
-        # if self.Y_new_tr.size > 0:
-        #     self.inverted_label = le.inverse_transform(self.Y_new_tr)
         
         self.Y_new_ts = self.all_targ_ts  
         self.Y_new_ts = self.le.fit_transform(self.Y_new_ts)
-        # if self.Y_new_ts.size > 0:
-        #     self.inverted_label = le.inverse_transform(self.Y_new_ts)
         
         ###### INPUT VARIABLE ######
 
@@ -92,28 +83,22 @@ class BiLSTM:
 
         # get the embedding matrix from the embedding layer
 
-        self.embedding_matrix = zeros((self.vocab_size, 50))
+        self.embedding_matrix = zeros((self.vocab_size, 300))
         w2v = get_word2vec(self.embedding_path)
         for word, i in self.t.word_index.items():
             embedding_vector = w2v.get(word)
             if embedding_vector is not None:
                 self.embedding_matrix[i] = embedding_vector
 
-        # Splitting into test and training data
-
-        # self.X_train,self.X_test, self.Y_train, self.Y_test =  train_test_split(self.X, self.y,test_size =0.20,random_state= 4)
-
-        # can pass all these variables as parameters to the model function
-
         # main model
     def rnn_model(self):
         self.model = Sequential()
         input_initial = Input(shape=(self.max_length,))
-        self.model = Embedding(self.vocab_size,50,weights=[self.embedding_matrix],input_length=self.max_length)(input_initial)
-        self.model =  Bidirectional (LSTM (50,return_sequences=True,dropout=0.20),merge_mode='concat')(self.model)
-        self.model = TimeDistributed(Dense(50,activation='relu'))(self.model)
+        self.model = Embedding(self.vocab_size,300,weights=[self.embedding_matrix],input_length=self.max_length)(input_initial)
+        self.model =  Bidirectional (LSTM (300,return_sequences=True,dropout=0.20),merge_mode='concat')(self.model)
+        self.model = TimeDistributed(Dense(300,activation='relu'))(self.model)
         self.model = Flatten()(self.model)
-        self.model = Dense(50,activation='relu')(self.model)
+        self.model = Dense(300,activation='relu')(self.model)
         output = Dense(7,activation='softmax')(self.model)
         self.model = Model(input_initial,output)
         self.model.compile(loss='sparse_categorical_crossentropy',optimizer='adam', metrics=['accuracy'])
@@ -128,7 +113,25 @@ class BiLSTM:
         loss, accuracy = self.model.evaluate(self.X_test, self.Y_test, verbose=2)
 
         self.Y_pred = self.model.predict(self.X_test)
+        
+        __prbList = list()
+
+        for p in self.Y_pred:
+            probs = {}
+            for i in range(len(p)):
+                probs[self.le.inverse_transform([i])[0]] = p[i]
+            __prbList.append(probs)
+        print(__prbList)
+        print('CORPUS_TS size: ', self.corpus_ts.get_size())        
+        
+        for i, j in zip(__prbList, self.corpus_ts):
+            j.set_intent_probabilities(i)
+
+        print('----------- Intent probabilities set is complete ---------------')
+
         self.y_pred = np.array([np.argmax(pred) for pred in self.Y_pred])
+
+        
         
         print('Result:\n',classification_report(self.Y_test,self.y_pred),'\n')
 
@@ -173,7 +176,7 @@ class BiLSTM:
             self.all_targ_ts.append(inst.get_gold_intent())
 
 if __name__ == '__main__':
-    tr = Corpus(200,'train')
+    tr = Corpus(1400,'train')
     ts = Corpus(20, 'test')
     bilstm = BiLSTM(tr,ts)
     bilstm.train()

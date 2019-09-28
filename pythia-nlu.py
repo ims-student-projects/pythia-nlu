@@ -4,7 +4,9 @@ from operator import itemgetter
 from evaluator.evaluator import Evaluator
 from models.baseline_svm_intent import SVM
 from models.hmm3_slot_filler import HMM3
+from models.bi_lstm import BiLSTM
 from corpus.corpus_base import Corpus
+
 
 
 class Pythia():
@@ -22,9 +24,21 @@ class Pythia():
         hmm.train_model( self.train_data )
         hmm.test_model( self.test_data )
 
-        svm = SVM( self.train_data, self.test_data )
-        svm.train()
-        # choose intent with highest prob as the one predicted 
+        # - - - With SVM - - - #
+
+        # svm = SVM( self.train_data, self.test_data )
+        # svm.train()
+        # # choose intent with highest prob as the one predicted 
+        # for x in self.test_data:
+        #     intent_probs = x.get_intent_probabilities()
+        #     predicted_intent = sorted(intent_probs.items(), key=itemgetter(1))[-1][0]
+        #     x.set_pred_intent(predicted_intent)
+
+        # - - - With BiLSTM - - - #
+
+        model = BiLSTM(self.train_data, self.test_data)
+        model.train()
+        model.rnn_model()
         for x in self.test_data:
             intent_probs = x.get_intent_probabilities()
             predicted_intent = sorted(intent_probs.items(), key=itemgetter(1))[-1][0]
@@ -62,10 +76,10 @@ class Pythia():
         return -50 if p==0 else log(p)
 
 if __name__ == '__main__':
-    train = Corpus(70, 'train')
+    train = Corpus(2000, 'train')
     train.shuffle()
 
-    test = Corpus(20, 'test')
+    test = Corpus(200, 'test')
     test.shuffle()
 
     model = Pythia(train, test)

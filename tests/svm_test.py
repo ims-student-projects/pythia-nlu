@@ -8,11 +8,11 @@ from corpus.corpus_base import Corpus
 from evaluator.evaluator import Evaluator
 
 
-train_corpus = Corpus(5, 'train')
+train_corpus = Corpus(1400, 'train')
 intent_set, slot_set = train_corpus.get_labels()
 train_corpus.shuffle()
 
-test_corpus = Corpus(5, 'test')
+test_corpus = Corpus(200, 'test')
 test_corpus.shuffle()
 
 model = SVM(train_corpus, test_corpus)
