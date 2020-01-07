@@ -30,15 +30,12 @@ We use the open-source [Snips NLU-benchmark](https://github.com/snipsco/nlu-benc
 
 Pythia-NLU is a generative model that takes advantage of the probabilities that intent parser and slot filler to input sentences. Mathematically we search for the intent that is assigned the highest probability by both sub-models and choose the subset of slots that are associated with this intent:
 
-![chart](data/model_design.png)
+<img src="data/model_design.png" width="50%">
 
 where i is the predicted intent, __i__ is the set of possible intents, __e__ are the slot entities and __x__ is the sequence of tokens in the input sentence.
 
 * [SVM](models/baseline_svm_intent.py) - Sklearn SVM as intent parser
 * [HMM3](models/hmm3_slot_filler.py) - Home-made HMM with a trigram sequence model and viterbi search
-
-
-
 
 ## Experiments and Results
 
